@@ -4,11 +4,6 @@
 <br>
 
 # ♡₊˚ Amrit Kang ♡₊˚
-
-###  CS Student   
-###  Turning ideas into thoughtful, reliable, and real-world products.
-
-
 <br>
 
 <img src="https://img.shields.io/badge/CS%20Student-F8C8DC?style=for-the-badge&labelColor=1E1E2E&color=F5BDE6" />
