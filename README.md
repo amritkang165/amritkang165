@@ -27,7 +27,7 @@
 
 ---
 <div align="center">
-  <img src="./ChatGPT Image Apr 29, 2026 at 06_37_32 PM.png" alt="About Me" width="100%" />
+  <img src="./ChatGPT Image Apr 29, 2026 at 07_36_40 PM.png" alt="About Me" width="100%" />
 </div>
 
 ---
@@ -38,12 +38,12 @@
 <tr>
 <td width="50%" valign="top" align="center">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritkang165&layout=compact&hide_border=false&border_color=E8A0BF&title_color=E8A0BF&text_color=C9D1D9&bg_color=00000000" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritkang165&layout=compact&hide_border=false&border_color=E8A0BF&title_color=E8A0BF&text_color=C9D1D9&bg_color=00000000" width="100%" height="195" />
 
 </td>
 <td width="50%" valign="top" align="center">
 
-<img width="100%" src="https://streak-stats.demolab.com?user=amritkang165&theme=transparent&hide_border=false&border=E8A0BF&ring=F5BDE6&fire=F5BDE6&currStreakLabel=E8A0BF&sideLabels=C9D1D9&dates=C9D1D9" />
+<img src="https://streak-stats.demolab.com?user=amritkang165&theme=transparent&hide_border=false&border=E8A0BF&ring=F5BDE6&fire=F5BDE6&currStreakLabel=E8A0BF&sideLabels=C9D1D9&dates=C9D1D9" width="100%" height="195" />
 
 </td>
 </tr>
