@@ -38,12 +38,12 @@
 <tr>
 <td width="50%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritkang165&layout=compact&hide_border=false&border_color=E8A0BF&title_color=E8A0BF&text_color=C9D1D9&bg_color=00000000" width="100%" height="195" />
+<img src="https://streak-stats.demolab.com?user=amritkang165&theme=transparent&hide_border=false&border=E8A0BF&ring=F5BDE6&fire=F5BDE6&currStreakLabel=E8A0BF&sideLabels=C9D1D9&dates=C9D1D9" width="100%" height="195" />
 
 </td>
 <td width="50%" valign="top" align="center">
 
-<img src="https://streak-stats.demolab.com?user=amritkang165&theme=transparent&hide_border=false&border=E8A0BF&ring=F5BDE6&fire=F5BDE6&currStreakLabel=E8A0BF&sideLabels=C9D1D9&dates=C9D1D9" width="100%" height="195" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amritkang165&bg_color=00000000&color=C9D1D9&line=E8A0BF&point=F5BDE6&area=true&hide_border=false" width="100%" />
 
 </td>
 </tr>
