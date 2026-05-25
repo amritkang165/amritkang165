@@ -61,6 +61,7 @@
 ![Java](https://img.shields.io/badge/Java-F8C8DC?style=for-the-badge&logo=openjdk&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F9D5E5?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-EAD7FF?style=for-the-badge&logo=python&logoColor=black)
+![Go](https://img.shields.io/badge/Go-CDE7FF?style=for-the-badge&logo=go&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-D6E6FF?style=for-the-badge&logo=mysql&logoColor=black)
 ![Swift](https://img.shields.io/badge/Swift-FFD6E0?style=for-the-badge&logo=swift&logoColor=black)
 
