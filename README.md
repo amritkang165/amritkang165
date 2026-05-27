@@ -49,22 +49,79 @@
 </tr>
 </table>
 
-## 🎮 Amrit's Dev Quest
+## 🌸 Little Builder Corner
 
 <div align="center">
 
-╭──────────────────────────────╮
-│        DAILY QUEST            │
-├──────────────────────────────┤
-│  🧠 Learn one concept          │
-│  💻 Build one tiny feature     │
-│  🐛 Fix one annoying bug       │
-│  🚀 Push before overthinking   │
-╰──────────────────────────────╯
+<table width="100%">
+<tr>
+<td width="33%" align="center" style="border: 1px solid #F5BDE6; border-radius: 12px;">
 
-        /\_/\\
-       ( •ᴗ• )
-       / >⚡  level: builder in progress
+<br>
+
+<img src="https://img.shields.io/badge/Building-terminal%20pets-F8C8DC?style=for-the-badge&labelColor=1E1E2E&color=F5BDE6" />
+
+<br><br>
+
+### 🛠️ Tiny Projects
+
+Small dev tools, terminal experiments, and fun coding ideas that make learning less boring.
+
+<br>
+
+`Go` `CLI` `GitHub` `Fun Tools`
+
+<br><br>
+
+</td>
+<td width="33%" align="center">
+
+<br>
+
+<img src="https://img.shields.io/badge/Learning-systems%20%2B%20backend-CBA6F7?style=for-the-badge&labelColor=1E1E2E&color=CBA6F7" />
+
+<br><br>
+
+### 📚 Deep Learning
+
+Trying to understand how real systems work instead of just copying code like a confused raccoon.
+
+<br>
+
+`OS` `DBMS` `Go` `Backend`
+
+<br><br>
+
+</td>
+<td width="33%" align="center">
+
+<br>
+
+<img src="https://img.shields.io/badge/Goal-ship%20more-E8A0BF?style=for-the-badge&labelColor=1E1E2E&color=E8A0BF" />
+
+<br><br>
+
+### 🚀 Builder Mode
+
+Building consistently, breaking things, fixing them, and slowly becoming dangerous.
+
+<br>
+
+`Projects` `Consistency` `Growth`
+
+<br><br>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&height=120&color=gradient&customColorList=12,14,19,20,24&text=currently%20building%20little%20things%20with%20big%20dreams&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=50" width="100%" />
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=24&pause=1000&color=E8A0BF&center=true&vCenter=true&width=800&lines=building+small+things+while+figuring+life+out+%F0%9F%8C%B7;learning+by+breaking+stuff+and+fixing+it+again+%F0%9F%90%9B;one+commit+closer+to+getting+better+%E2%9C%A8" alt="Typing SVG" />
 
 </div>
 
