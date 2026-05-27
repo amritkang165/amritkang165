@@ -49,8 +49,12 @@
 </tr>
 </table>
 
+## 🐍 Contribution Snake
+
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=amritkang165&bg_color=00000000&color=C9D1D9&line=E8A0BF&point=F5BDE6&area=true&hide_border=false" />
+
+![snake gif](https://github.com/amritkang165/amritkang165/blob/output/github-snake-dark.svg)
+
 </div>
 
 ---
