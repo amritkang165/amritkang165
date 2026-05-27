@@ -49,11 +49,23 @@
 </tr>
 </table>
 
-## 🐍 Contribution Snake
+## 🎮 Amrit's Dev Quest
 
 <div align="center">
 
-![snake gif](https://github.com/amritkang165/amritkang165/blob/output/github-snake-dark.svg)
+```text
+╭──────────────────────────────╮
+│        DAILY QUEST            │
+├──────────────────────────────┤
+│  🧠 Learn one concept          │
+│  💻 Build one tiny feature     │
+│  🐛 Fix one annoying bug       │
+│  🚀 Push before overthinking   │
+╰──────────────────────────────╯
+
+        /\_/\\
+       ( •ᴗ• )
+       / >⚡  level: builder in progress
 
 </div>
 
