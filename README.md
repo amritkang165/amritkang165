@@ -10,14 +10,7 @@
 <img src="https://img.shields.io/badge/Builder-F9D5E5?style=for-the-badge&labelColor=1E1E2E&color=E8A0BF" />
 <img src="https://img.shields.io/badge/Creative%20Coder-EAD7FF?style=for-the-badge&labelColor=1E1E2E&color=CBA6F7" />
 
-<br><br>
-
-<pre>
-      /\_/\\
-     ( ˶^ ᵕ ^˶ )
-     / づ💻
-</pre>
-<br><br>
+<br>
 
 ╭──────────────୨ৎ──────────────╮  
   dream • build • grow  
@@ -26,8 +19,45 @@
 </div>
 
 ---
+
+## 𓈒𓂃𓏸 About Me
+
 <div align="center">
-  <img src="./ChatGPT Image Apr 29, 2026 at 07_36_40 PM.png" alt="About Me" width="100%" />
+  <table width="100%" style="border: none; background: linear-gradient(135deg, #1E1E2E 0%, #2A1E2E 100%); border-radius: 16px; padding: 0;">
+    <tr>
+      <td width="33%" valign="top" align="center" style="padding: 24px 16px; border: none;">
+        <div style="font-size: 32px; margin-bottom: 8px;">🎓</div>
+        <div style="color: #F5BDE6; font-size: 16px; font-weight: 700; margin-bottom: 6px;">CS Student</div>
+        <div style="color: #C9D1D9; font-size: 13px;">building things that <span style="color: #E8A0BF;">matter</span></div>
+      </td>
+      <td width="33%" valign="top" align="center" style="padding: 24px 16px; border: none;">
+        <div style="font-size: 32px; margin-bottom: 8px;">💻</div>
+        <div style="color: #F5BDE6; font-size: 16px; font-weight: 700; margin-bottom: 6px;">Developer</div>
+        <div style="color: #C9D1D9; font-size: 13px;">passionate about <span style="color: #CBA6F7;">backend & systems</span></div>
+      </td>
+      <td width="33%" valign="top" align="center" style="padding: 24px 16px; border: none;">
+        <div style="font-size: 32px; margin-bottom: 8px;">🌸</div>
+        <div style="color: #F5BDE6; font-size: 16px; font-weight: 700; margin-bottom: 6px;">Creative</div>
+        <div style="color: #C9D1D9; font-size: 13px;">turning ideas into <span style="color: #F5BDE6;">reality</span></div>
+      </td>
+    </tr>
+  </table>
+
+  <br>
+
+  <div style="max-width: 700px; padding: 20px 24px; background: rgba(245, 189, 230, 0.05); border: 1px solid rgba(245, 189, 230, 0.15); border-radius: 12px;">
+    <p style="color: #C9D1D9; font-size: 14px; line-height: 1.8; margin: 0;">
+      Hey! I'm <strong style="color: #F5BDE6;">Amrit</strong> — a CS student who loves 
+      <strong style="color: #E8A0BF;">building</strong>, 
+      <strong style="color: #CBA6F7;">breaking</strong>, and 
+      <strong style="color: #F5BDE6;">fixing</strong> things. 
+      I enjoy crafting clean backend systems, exploring new tech, and occasionally 
+      making terminal pets that judge my code. Right now I'm diving deep into 
+      <span style="color: #E8A0BF;">Go</span>, 
+      <span style="color: #CBA6F7;">systems programming</span>, and 
+      <span style="color: #F5BDE6;">building things that actually help people</span>.
+    </p>
+  </div>
 </div>
 
 ---
@@ -55,61 +85,57 @@
 
 <table width="100%">
 <tr>
-<td width="33%" align="center" style="border: 1px solid #F5BDE6; border-radius: 12px;">
+<td width="33%" valign="top" align="center" style="background: linear-gradient(180deg, rgba(245, 189, 230, 0.08), rgba(245, 189, 230, 0.02)); border: 1px solid rgba(245, 189, 230, 0.2); border-radius: 14px; padding: 20px 14px;">
 
-<br>
-
-<img src="https://img.shields.io/badge/Building-terminal%20pets-F8C8DC?style=for-the-badge&labelColor=1E1E2E&color=F5BDE6" />
-
-<br><br>
-
-### 🛠️ Tiny Projects
-
-Small dev tools, terminal experiments, and fun coding ideas that make learning less boring.
-
-<br>
-
-`Go` `CLI` `GitHub` `Fun Tools`
-
-<br><br>
-
-</td>
-<td width="33%" align="center">
-
-<br>
-
-<img src="https://img.shields.io/badge/Learning-systems%20%2B%20backend-CBA6F7?style=for-the-badge&labelColor=1E1E2E&color=CBA6F7" />
-
-<br><br>
-
-### 📚 Deep Learning
-
-Trying to understand how real systems work instead of just copying code like a confused raccoon.
-
-<br>
-
-`OS` `DBMS` `Go` `Backend`
-
-<br><br>
+<div style="font-size: 36px; margin-bottom: 6px;">🛠️</div>
+<div style="color: #F5BDE6; font-size: 15px; font-weight: 700; margin-bottom: 10px;">Tiny Projects</div>
+<div style="color: #C9D1D9; font-size: 12px; line-height: 1.7; margin-bottom: 14px;">
+  Small dev tools, terminal experiments, and fun coding ideas that make learning less boring.
+</div>
+<div style="margin-bottom: 6px;">
+  <span style="background: rgba(245, 189, 230, 0.15); color: #F5BDE6; padding: 3px 10px; border-radius: 6px; font-size: 11px; margin: 2px; display: inline-block;">Go</span>
+  <span style="background: rgba(245, 189, 230, 0.15); color: #F5BDE6; padding: 3px 10px; border-radius: 6px; font-size: 11px; margin: 2px; display: inline-block;">CLI</span>
+  <span style="background: rgba(245, 189, 230, 0.15); color: #F5BDE6; padding: 3px 10px; border-radius: 6px; font-size: 11px; margin: 2px; display: inline-block;">GitHub</span>
+  <span style="background: rgba(245, 189, 230, 0.15); color: #F5BDE6; padding: 3px 10px; border-radius: 6px; font-size: 11px; margin: 2px; display: inline-block;">Fun Tools</span>
+</div>
+<div style="margin-top: 12px; padding: 8px 12px; background: rgba(245, 189, 230, 0.06); border-radius: 8px;">
+  <div style="color: #8B8FA3; font-size: 11px;">⚡ 4+ experiments brewing</div>
+</div>
 
 </td>
-<td width="33%" align="center">
+<td width="33%" valign="top" align="center" style="background: linear-gradient(180deg, rgba(203, 166, 247, 0.08), rgba(203, 166, 247, 0.02)); border: 1px solid rgba(203, 166, 247, 0.2); border-radius: 14px; padding: 20px 14px;">
 
-<br>
+<div style="font-size: 36px; margin-bottom: 6px;">📚</div>
+<div style="color: #CBA6F7; font-size: 15px; font-weight: 700; margin-bottom: 10px;">Deep Learning</div>
+<div style="color: #C9D1D9; font-size: 12px; line-height: 1.7; margin-bottom: 14px;">
+  Understanding how real systems work instead of just copying code like a confused raccoon 🦝
+</div>
+<div style="margin-bottom: 6px;">
+  <span style="background: rgba(203, 166, 247, 0.15); color: #CBA6F7; padding: 3px 10px; border-radius: 6px; font-size: 11px; margin: 2px; display: inline-block;">OS</span>
+  <span style="background: rgba(203, 166, 247, 0.15); color: #CBA6F7; padding: 3px 10px; border-radius: 6px; font-size: 11px; margin: 2px; display: inline-block;">DBMS</span>
+  <span style="background: rgba(203, 166, 247, 0.15); color: #CBA6F7; padding: 3px 10px; border-radius: 6px; font-size: 11px; margin: 2px; display: inline-block;">Go</span>
+  <span style="background: rgba(203, 166, 247, 0.15); color: #CBA6F7; padding: 3px 10px; border-radius: 6px; font-size: 11px; margin: 2px; display: inline-block;">Backend</span>
+</div>
+<div style="margin-top: 12px; padding: 8px 12px; background: rgba(203, 166, 247, 0.06); border-radius: 8px;">
+  <div style="color: #8B8FA3; font-size: 11px;">📖 always in lecture mode</div>
+</div>
 
-<img src="https://img.shields.io/badge/Goal-ship%20more-E8A0BF?style=for-the-badge&labelColor=1E1E2E&color=E8A0BF" />
+</td>
+<td width="33%" valign="top" align="center" style="background: linear-gradient(180deg, rgba(232, 160, 191, 0.08), rgba(232, 160, 191, 0.02)); border: 1px solid rgba(232, 160, 191, 0.2); border-radius: 14px; padding: 20px 14px;">
 
-<br><br>
-
-### 🚀 Builder Mode
-
-Building consistently, breaking things, fixing them, and slowly becoming dangerous.
-
-<br>
-
-`Projects` `Consistency` `Growth`
-
-<br><br>
+<div style="font-size: 36px; margin-bottom: 6px;">🚀</div>
+<div style="color: #E8A0BF; font-size: 15px; font-weight: 700; margin-bottom: 10px;">Builder Mode</div>
+<div style="color: #C9D1D9; font-size: 12px; line-height: 1.7; margin-bottom: 14px;">
+  Building consistently, breaking things, fixing them, and slowly becoming dangerous.
+</div>
+<div style="margin-bottom: 6px;">
+  <span style="background: rgba(232, 160, 191, 0.15); color: #E8A0BF; padding: 3px 10px; border-radius: 6px; font-size: 11px; margin: 2px; display: inline-block;">Projects</span>
+  <span style="background: rgba(232, 160, 191, 0.15); color: #E8A0BF; padding: 3px 10px; border-radius: 6px; font-size: 11px; margin: 2px; display: inline-block;">Consistency</span>
+  <span style="background: rgba(232, 160, 191, 0.15); color: #E8A0BF; padding: 3px 10px; border-radius: 6px; font-size: 11px; margin: 2px; display: inline-block;">Growth</span>
+</div>
+<div style="margin-top: 12px; padding: 8px 12px; background: rgba(232, 160, 191, 0.06); border-radius: 8px;">
+  <div style="color: #8B8FA3; font-size: 11px;">🔥 6 projects shipped</div>
+</div>
 
 </td>
 </tr>
@@ -117,7 +143,11 @@ Building consistently, breaking things, fixing them, and slowly becoming dangero
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=120&color=gradient&customColorList=12,14,19,20,24&text=currently%20building%20little%20things%20with%20big%20dreams&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=50" width="100%" />
+<div style="padding: 18px 24px; background: linear-gradient(135deg, rgba(245, 189, 230, 0.12), rgba(203, 166, 247, 0.12), rgba(232, 160, 191, 0.12)); border: 1px solid rgba(245, 189, 230, 0.25); border-radius: 12px;">
+    <div style="color: #F5BDE6; font-size: 16px; font-weight: 600; letter-spacing: 0.5px;">
+      🌱 currently building little things with big dreams
+    </div>
+  </div>
 
 <br>
 
@@ -163,24 +193,34 @@ Building consistently, breaking things, fixing them, and slowly becoming dangero
 <tr>
 <td width="50%" valign="top">
 
-<img src="./ChatGPT Image Apr 29, 2026 at 06_16_25 PM.png" alt="Study Companion" width="100%" />
-
-### 📚 Study Companion
-AI study platform for summaries, flashcards, and revision plans.  
-
-**💖 100+ students helped**  
-`React` • `Next.js` • `Tailwind` • `Groq API`
+<div style="background: linear-gradient(135deg, rgba(245, 189, 230, 0.08), rgba(203, 166, 247, 0.08)); border: 1px solid rgba(245, 189, 230, 0.2); border-radius: 12px; padding: 18px 16px; margin-bottom: 12px;">
+    <div style="color: #F5BDE6; font-size: 18px; font-weight: 700;">📚 Study Companion</div>
+    <div style="color: #C9D1D9; font-size: 13px; margin-top: 6px; line-height: 1.6;">
+      AI study platform for summaries, flashcards, and revision plans.
+    </div>
+    <div style="margin-top: 10px;">
+      <span style="background: rgba(245, 189, 230, 0.15); color: #F5BDE6; padding: 2px 8px; border-radius: 4px; font-size: 11px; margin-right: 4px;">React</span>
+      <span style="background: rgba(245, 189, 230, 0.15); color: #F5BDE6; padding: 2px 8px; border-radius: 4px; font-size: 11px; margin-right: 4px;">Next.js</span>
+      <span style="background: rgba(245, 189, 230, 0.15); color: #F5BDE6; padding: 2px 8px; border-radius: 4px; font-size: 11px; margin-right: 4px;">Tailwind</span>
+      <span style="background: rgba(245, 189, 230, 0.15); color: #F5BDE6; padding: 2px 8px; border-radius: 4px; font-size: 11px;">Groq API</span>
+    </div>
+  </div>
 
 </td>
 <td width="50%" valign="top">
 
-<img src="./ChatGPT Image Apr 29, 2026 at 06_16_20 PM.png" alt="LaunderLens" width="100%" />
-
-### 🔍 LaunderLens
-Graph-based money muling and financial crime detection engine.  
-
-**🪄 1,000+ transactions analyzed**  
-`Next.js` • `React` • `Graph Algo` • `Vercel`
+<div style="background: linear-gradient(135deg, rgba(203, 166, 247, 0.08), rgba(232, 160, 191, 0.08)); border: 1px solid rgba(203, 166, 247, 0.2); border-radius: 12px; padding: 18px 16px; margin-bottom: 12px;">
+    <div style="color: #CBA6F7; font-size: 18px; font-weight: 700;">🔍 LaunderLens</div>
+    <div style="color: #C9D1D9; font-size: 13px; margin-top: 6px; line-height: 1.6;">
+      Graph-based money muling and financial crime detection engine.
+    </div>
+    <div style="margin-top: 10px;">
+      <span style="background: rgba(203, 166, 247, 0.15); color: #CBA6F7; padding: 2px 8px; border-radius: 4px; font-size: 11px; margin-right: 4px;">Next.js</span>
+      <span style="background: rgba(203, 166, 247, 0.15); color: #CBA6F7; padding: 2px 8px; border-radius: 4px; font-size: 11px; margin-right: 4px;">React</span>
+      <span style="background: rgba(203, 166, 247, 0.15); color: #CBA6F7; padding: 2px 8px; border-radius: 4px; font-size: 11px; margin-right: 4px;">Graph Algo</span>
+      <span style="background: rgba(203, 166, 247, 0.15); color: #CBA6F7; padding: 2px 8px; border-radius: 4px; font-size: 11px;">Vercel</span>
+    </div>
+  </div>
 
 </td>
 </tr>
@@ -188,24 +228,69 @@ Graph-based money muling and financial crime detection engine.
 <tr>
 <td width="50%" valign="top">
 
-<img src="./ChatGPT Image Apr 29, 2026 at 06_16_34 PM.png" alt="CrowdMind" width="100%" />
-
-### 🧠 CrowdMind
-Collective intelligence platform for predictions, confidence, and rankings.  
-
-**🌷 Live predictions & rankings**  
-`React` • `Node.js` • `PostgreSQL` • `Socket.io`
+<div style="background: linear-gradient(135deg, rgba(232, 160, 191, 0.08), rgba(205, 231, 240, 0.08)); border: 1px solid rgba(232, 160, 191, 0.2); border-radius: 12px; padding: 18px 16px; margin-bottom: 12px;">
+    <div style="color: #E8A0BF; font-size: 18px; font-weight: 700;">🧠 CrowdMind</div>
+    <div style="color: #C9D1D9; font-size: 13px; margin-top: 6px; line-height: 1.6;">
+      Collective intelligence platform for predictions and rankings.
+    </div>
+    <div style="margin-top: 10px;">
+      <span style="background: rgba(232, 160, 191, 0.15); color: #E8A0BF; padding: 2px 8px; border-radius: 4px; font-size: 11px; margin-right: 4px;">React</span>
+      <span style="background: rgba(232, 160, 191, 0.15); color: #E8A0BF; padding: 2px 8px; border-radius: 4px; font-size: 11px; margin-right: 4px;">Node.js</span>
+      <span style="background: rgba(232, 160, 191, 0.15); color: #E8A0BF; padding: 2px 8px; border-radius: 4px; font-size: 11px; margin-right: 4px;">PostgreSQL</span>
+      <span style="background: rgba(232, 160, 191, 0.15); color: #E8A0BF; padding: 2px 8px; border-radius: 4px; font-size: 11px;">Socket.io</span>
+    </div>
+  </div>
 
 </td>
 <td width="50%" valign="top">
 
-<img src="./ChatGPT Image Apr 29, 2026 at 06_16_39 PM.png" alt="Godot Games" width="100%" />
+<div style="background: linear-gradient(135deg, rgba(233, 213, 255, 0.08), rgba(184, 224, 255, 0.08)); border: 1px solid rgba(233, 213, 255, 0.2); border-radius: 12px; padding: 18px 16px; margin-bottom: 12px;">
+    <div style="color: #E9D5FF; font-size: 18px; font-weight: 700;">🐹 Gotermi</div>
+    <div style="color: #C9D1D9; font-size: 13px; margin-top: 6px; line-height: 1.6;">
+      A cute terminal pet that lives inside your command line.
+    </div>
+    <div style="margin-top: 10px;">
+      <span style="background: rgba(233, 213, 255, 0.15); color: #E9D5FF; padding: 2px 8px; border-radius: 4px; font-size: 11px; margin-right: 4px;">Go</span>
+      <span style="background: rgba(233, 213, 255, 0.15); color: #E9D5FF; padding: 2px 8px; border-radius: 4px; font-size: 11px; margin-right: 4px;">CLI</span>
+      <span style="background: rgba(233, 213, 255, 0.15); color: #E9D5FF; padding: 2px 8px; border-radius: 4px; font-size: 11px;">JSON</span>
+    </div>
+  </div>
 
-### 🎮 Godot Games
-2D survival/action games with enemy AI and dynamic difficulty.  
+</td>
+</tr>
 
-**⭐ 40+ players tested**  
-`Godot` • `GDScript` • `Physics 2D`
+<tr>
+<td width="50%" valign="top">
+
+<div style="background: linear-gradient(135deg, rgba(184, 224, 255, 0.08), rgba(169, 227, 175, 0.08)); border: 1px solid rgba(184, 224, 255, 0.2); border-radius: 12px; padding: 18px 16px; margin-bottom: 12px;">
+    <div style="color: #B8E0FF; font-size: 18px; font-weight: 700;">☕ SQL Arena</div>
+    <div style="color: #C9D1D9; font-size: 13px; margin-top: 6px; line-height: 1.6;">
+      Practice SQL on realistic schemas, not sad little toy tables.
+    </div>
+    <div style="margin-top: 10px;">
+      <span style="background: rgba(184, 224, 255, 0.15); color: #B8E0FF; padding: 2px 8px; border-radius: 4px; font-size: 11px; margin-right: 4px;">Python</span>
+      <span style="background: rgba(184, 224, 255, 0.15); color: #B8E0FF; padding: 2px 8px; border-radius: 4px; font-size: 11px; margin-right: 4px;">FastAPI</span>
+      <span style="background: rgba(184, 224, 255, 0.15); color: #B8E0FF; padding: 2px 8px; border-radius: 4px; font-size: 11px; margin-right: 4px;">SQLite</span>
+      <span style="background: rgba(184, 224, 255, 0.15); color: #B8E0FF; padding: 2px 8px; border-radius: 4px; font-size: 11px; margin-right: 4px;">React</span>
+      <span style="background: rgba(184, 224, 255, 0.15); color: #B8E0FF; padding: 2px 8px; border-radius: 4px; font-size: 11px;">Vite</span>
+    </div>
+  </div>
+
+</td>
+<td width="50%" valign="top">
+
+<div style="background: linear-gradient(135deg, rgba(255, 182, 193, 0.08), rgba(216, 180, 254, 0.08)); border: 1px solid rgba(255, 182, 193, 0.2); border-radius: 12px; padding: 18px 16px; margin-bottom: 12px;">
+    <div style="color: #FFB6C1; font-size: 18px; font-weight: 700;">🤔 iffy.ai</div>
+    <div style="color: #C9D1D9; font-size: 13px; margin-top: 6px; line-height: 1.6;">
+      Explore the consequences of ideas, not just consume opinions.
+    </div>
+    <div style="margin-top: 10px;">
+      <span style="background: rgba(255, 182, 193, 0.15); color: #FFB6C1; padding: 2px 8px; border-radius: 4px; font-size: 11px; margin-right: 4px;">React</span>
+      <span style="background: rgba(255, 182, 193, 0.15); color: #FFB6C1; padding: 2px 8px; border-radius: 4px; font-size: 11px; margin-right: 4px;">Node.js</span>
+      <span style="background: rgba(255, 182, 193, 0.15); color: #FFB6C1; padding: 2px 8px; border-radius: 4px; font-size: 11px; margin-right: 4px;">AI</span>
+      <span style="background: rgba(255, 182, 193, 0.15); color: #FFB6C1; padding: 2px 8px; border-radius: 4px; font-size: 11px;">WebSocket</span>
+    </div>
+  </div>
 
 </td>
 </tr>
@@ -216,7 +301,41 @@ Collective intelligence platform for predictions, confidence, and rankings.
 ## 🌙 Currently Exploring
 
 <div align="center">
-  <img src="./ChatGPT Image Apr 29, 2026 at 06_40_46 PM.png" alt="Currently Exploring" width="100%" />
+  <table width="100%" style="border: none; background: linear-gradient(135deg, rgba(245, 189, 230, 0.05), rgba(203, 166, 247, 0.05)); border-radius: 16px; padding: 0;">
+    <tr>
+      <td width="25%" valign="top" align="center" style="padding: 20px 12px; border: none;">
+        <div style="font-size: 28px; margin-bottom: 6px;">🐹</div>
+        <div style="color: #F5BDE6; font-size: 14px; font-weight: 600;">Go</div>
+        <div style="color: #8B8FA3; font-size: 11px; margin-top: 4px;">Deepening my backend skills</div>
+      </td>
+      <td width="25%" valign="top" align="center" style="padding: 20px 12px; border: none;">
+        <div style="font-size: 28px; margin-bottom: 6px;">🗄️</div>
+        <div style="color: #CBA6F7; font-size: 14px; font-weight: 600;">DBMS & OS</div>
+        <div style="color: #8B8FA3; font-size: 11px; margin-top: 4px;">Understanding systems deeply</div>
+      </td>
+      <td width="25%" valign="top" align="center" style="padding: 20px 12px; border: none;">
+        <div style="font-size: 28px; margin-bottom: 6px;">☁️</div>
+        <div style="color: #E8A0BF; font-size: 14px; font-weight: 600;">Backend</div>
+        <div style="color: #8B8FA3; font-size: 11px; margin-top: 4px;">APIs, servers & architecture</div>
+      </td>
+      <td width="25%" valign="top" align="center" style="padding: 20px 12px; border: none;">
+        <div style="font-size: 28px; margin-bottom: 6px;">🎮</div>
+        <div style="color: #CDE7FF; font-size: 14px; font-weight: 600;">Godot</div>
+        <div style="color: #8B8FA3; font-size: 11px; margin-top: 4px;">Game dev for fun</div>
+      </td>
+    </tr>
+  </table>
+
+  <br>
+
+  <div style="max-width: 600px; padding: 16px 20px; background: rgba(203, 166, 247, 0.05); border: 1px solid rgba(203, 166, 247, 0.15); border-radius: 12px;">
+    <p style="color: #C9D1D9; font-size: 13px; line-height: 1.8; margin: 0;">
+      Currently diving into <strong style="color: #F5BDE6;">Go</strong> for backend development, 
+      wrapping my head around <strong style="color: #CBA6F7;">database systems & OS concepts</strong>, 
+      and building little <strong style="color: #E8A0BF;">game prototypes</strong> in Godot on the side. 
+      Always exploring — always curious. 🎀
+    </p>
+  </div>
 </div>
 
 ---
