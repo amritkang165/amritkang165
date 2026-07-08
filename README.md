@@ -1,243 +1,190 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=28&pause=1000&color=E8A0BF&center=true&vCenter=true&width=500&lines=Smile+a+little+more+%F0%9F%92%97" alt="Typing SVG" />
-<br>
+# Hi, I'm Amrit 👋
 
-# ♡₊˚ Amrit Kang ♡₊˚
-<br>
+### Second-Year Computer Science Student @ BITS Pilani
 
-<img src="https://img.shields.io/badge/CS%20Student-F8C8DC?style=for-the-badge&labelColor=1E1E2E&color=F5BDE6" />
-<img src="https://img.shields.io/badge/Builder-F9D5E5?style=for-the-badge&labelColor=1E1E2E&color=E8A0BF" />
-<img src="https://img.shields.io/badge/Creative%20Coder-EAD7FF?style=for-the-badge&labelColor=1E1E2E&color=CBA6F7" />
+Building full-stack applications, AI products, and backend systems that solve real-world problems.
 
-<br><br>
+Currently exploring **Swift**, **Advanced Python**, **System Design**, and **Artificial Intelligence**.
 
-<pre>
-      /\_/\\
-     ( ˶^ ᵕ ^˶ )
-     / づ💻
-</pre>
-<br><br>
-
-╭──────────────୨ৎ──────────────╮  
-  dream • build • grow  
-╰──────────────୨ৎ──────────────╯
-
-</div>
-
----
-<div align="center">
-  <img src="./ChatGPT Image Apr 29, 2026 at 07_36_40 PM.png" alt="About Me" width="100%" />
-</div>
-
----
-
-## 𐙚₊⊹ GitHub Analytics
-
-<table align="center" width="100%">
-<tr>
-<td width="50%" valign="top" align="center">
-
-<img src="https://streak-stats.demolab.com?user=amritkang165&theme=transparent&hide_border=false&border=E8A0BF&ring=F5BDE6&fire=F5BDE6&currStreakLabel=E8A0BF&sideLabels=C9D1D9&dates=C9D1D9" width="100%" height="195" />
-
-</td>
-<td width="50%" valign="top" align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amritkang165&bg_color=00000000&color=C9D1D9&line=E8A0BF&point=F5BDE6&area=true&hide_border=false" width="100%" />
-
-</td>
-</tr>
-</table>
-
-## 🌸 Little Builder Corner
-
-<div align="center">
-
-<table width="100%">
-<tr>
-<td width="33%" align="center" style="border: 1px solid #F5BDE6; border-radius: 12px;">
-
-<br>
-
-<img src="https://img.shields.io/badge/Building-terminal%20pets-F8C8DC?style=for-the-badge&labelColor=1E1E2E&color=F5BDE6" />
-
-<br><br>
-
-### 🛠️ Tiny Projects
-
-Small dev tools, terminal experiments, and fun coding ideas that make learning less boring.
-
-<br>
-
-`Go` `CLI` `GitHub` `Fun Tools`
-
-<br><br>
-
-</td>
-<td width="33%" align="center">
-
-<br>
-
-<img src="https://img.shields.io/badge/Learning-systems%20%2B%20backend-CBA6F7?style=for-the-badge&labelColor=1E1E2E&color=CBA6F7" />
-
-<br><br>
-
-### 📚 Deep Learning
-
-Trying to understand how real systems work instead of just copying code like a confused raccoon.
-
-<br>
-
-`OS` `DBMS` `Go` `Backend`
-
-<br><br>
-
-</td>
-<td width="33%" align="center">
-
-<br>
-
-<img src="https://img.shields.io/badge/Goal-ship%20more-E8A0BF?style=for-the-badge&labelColor=1E1E2E&color=E8A0BF" />
-
-<br><br>
-
-### 🚀 Builder Mode
-
-Building consistently, breaking things, fixing them, and slowly becoming dangerous.
-
-<br>
-
-`Projects` `Consistency` `Growth`
-
-<br><br>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&height=120&color=gradient&customColorList=12,14,19,20,24&text=currently%20building%20little%20things%20with%20big%20dreams&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=50" width="100%" />
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=24&pause=1000&color=E8A0BF&center=true&vCenter=true&width=800&lines=building+small+things+while+figuring+life+out+%F0%9F%8C%B7;learning+by+breaking+stuff+and+fixing+it+again+%F0%9F%90%9B;one+commit+closer+to+getting+better+%E2%9C%A8" alt="Typing SVG" />
+<p>
+  <a href="mailto:amritkang2805@icloud.com">
+    <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/amritkang28">
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/amritkang165">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 💻 Tech Stack
+# About Me
 
-### 🌷 Languages
-![Java](https://img.shields.io/badge/Java-F8C8DC?style=for-the-badge&logo=openjdk&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F9D5E5?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-EAD7FF?style=for-the-badge&logo=python&logoColor=black)
-![Go](https://img.shields.io/badge/Go-CDE7FF?style=for-the-badge&logo=go&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-D6E6FF?style=for-the-badge&logo=mysql&logoColor=black)
-![Swift](https://img.shields.io/badge/Swift-FFD6E0?style=for-the-badge&logo=swift&logoColor=black)
-
-### 🎀 Frontend & Backend
-![React](https://img.shields.io/badge/React-FDE2E4?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-E2ECE9?style=for-the-badge&logo=nextdotjs&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-E0BBE4?style=for-the-badge&logo=tailwindcss&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-CDEAC0?style=for-the-badge&logo=nodedotjs&logoColor=black)
-![Express.js](https://img.shields.io/badge/Express-FCF6BD?style=for-the-badge&logo=express&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-D0F4DE?style=for-the-badge&logo=flask&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-F7D6E0?style=for-the-badge&logo=supabase&logoColor=black)
-
-### 🫧 Databases & Tools
-![MySQL](https://img.shields.io/badge/MySQL-CDE7F0?style=for-the-badge&logo=mysql&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-D9F0C7?style=for-the-badge&logo=mongodb&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-E4C1F9?style=for-the-badge&logo=postgresql&logoColor=black)
-![Git](https://img.shields.io/badge/Git-FFD3B6?style=for-the-badge&logo=git&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-F8EDEB?style=for-the-badge&logo=github&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-CDE7FF?style=for-the-badge&logo=docker&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-FDE2FF?style=for-the-badge&logo=figma&logoColor=black)
+- 🎓 Second-Year Computer Science Student @ **BITS Pilani**
+- 💻 Full Stack Developer
+- ⚙️ Backend & System Design Enthusiast
+- 🛡️ Ex-Hacker turned Builder
+- 🌱 Currently learning **Swift**, **Advanced Python**, and **AI**
+- 🚀 Looking for **Internships**, **Freelance Opportunities**, and **Collaborations**
 
 ---
 
-## ౨ৎ Featured Projects
+# Tech Stack
 
-<table align="center" width="100%">
-<tr>
-<td width="50%" valign="top">
+### Languages
 
-<img src="./ChatGPT Image Apr 29, 2026 at 06_16_25 PM.png" alt="Study Companion" width="100%" />
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,go,swift,html,css,sql" />
+</p>
 
-### 📚 Study Companion
-AI study platform for summaries, flashcards, and revision plans.  
+### Frameworks & Libraries
 
-**💖 100+ students helped**  
-`React` • `Next.js` • `Tailwind` • `Groq API`
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,fastapi,flask" />
+</p>
 
-</td>
-<td width="50%" valign="top">
+### Databases
 
-<img src="./ChatGPT Image Apr 29, 2026 at 06_16_20 PM.png" alt="LaunderLens" width="100%" />
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase" />
+</p>
 
-### 🔍 LaunderLens
-Graph-based money muling and financial crime detection engine.  
+### AI & Backend
 
-**🪄 1,000+ transactions analyzed**  
-`Next.js` • `React` • `Graph Algo` • `Vercel`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<img src="./ChatGPT Image Apr 29, 2026 at 06_16_34 PM.png" alt="CrowdMind" width="100%" />
-
-### 🧠 CrowdMind
-Collective intelligence platform for predictions, confidence, and rankings.  
-
-**🌷 Live predictions & rankings**  
-`React` • `Node.js` • `PostgreSQL` • `Socket.io`
-
-</td>
-<td width="50%" valign="top">
-
-<img src="./ChatGPT Image Apr 29, 2026 at 06_16_39 PM.png" alt="Godot Games" width="100%" />
-
-### 🎮 Godot Games
-2D survival/action games with enemy AI and dynamic difficulty.  
-
-**⭐ 40+ players tested**  
-`Godot` • `GDScript` • `Physics 2D`
-
-</td>
-</tr>
-</table>
+<p>
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,postman,vercel,vscode,figma" />
+</p>
 
 ---
 
-## 🌙 Currently Exploring
+# Featured Projects
 
-<div align="center">
-  <img src="./ChatGPT Image Apr 29, 2026 at 06_40_46 PM.png" alt="Currently Exploring" width="100%" />
-</div>
+## 🚀 exHacker
+
+> **Your Autonomous Hackathon Co-Founder**
+
+Reduce hackathon planning from **hours to minutes** by transforming challenge statements into execution-ready project blueprints using a team of AI agents.
+
+**Highlights**
+
+- 🤖 Multi-Agent AI Architecture
+- 🧠 Automatic project planning
+- 📝 Architecture generation
+- 📅 Roadmaps & execution plans
+- ⚡ Built for rapid hackathons
+
+**Stack**
+
+`Next.js 15` • `React 19` • `TypeScript` • `Tailwind CSS`
+
+`FastAPI` • `Python` • `LangGraph` • `LangChain`
+
+`PostgreSQL` • `SQLAlchemy`
+
+`Docker`
 
 ---
 
-## 💌 Connect With Me
+## 📚 Study Companion
 
-<div align="center">
+An AI-powered study platform that generates summaries, flashcards, quizzes, revision plans, and personalized learning experiences for students.
+
+**Stack**
+
+`Next.js` • `React` • `Node.js` • `Tailwind CSS` • `AI APIs`
+
+---
+
+## 🤔 iffy.ai
+
+> **Think before you believe.**
+
+An AI-powered reasoning platform that explores multiple viewpoints, predicts consequences, and helps users make informed decisions instead of consuming one-sided opinions.
+
+**Stack**
+
+`Next.js` • `React` • `Node.js` • `PostgreSQL` • `AI`
+
+---
+
+## 🐹 Gotermi
+
+A customizable terminal pet written in Go that lives inside your terminal, reacts to your coding habits, and grows alongside your development journey.
+
+**Stack**
+
+`Go` • `CLI` • `JSON`
+
+---
+
+## 🗃️ SQL Arena *(Coming Soon)*
+
+Practice SQL using realistic databases with interview-style challenges, instant feedback, and progressive difficulty levels.
+
+**Stack**
+
+`React` • `FastAPI` • `PostgreSQL`
+
+---
+
+# Current Focus
+
+- 🚀 Building production-ready full-stack applications
+- ⚙️ Learning scalable backend architecture
+- 🏗️ Exploring System Design
+- 📱 Learning Swift & native development
+- 🤖 Diving deeper into Artificial Intelligence
+- 🌍 Building products people actually use
+
+---
+
+# Goals for 2026
+
+- Land a Software Engineering Internship
+- Build impactful AI-powered products
+- Contribute to Open Source
+- Improve Backend & System Design skills
+- Ship more real-world projects
+
+---
+
+# Connect With Me
+
+<p align="center">
 
 <a href="mailto:amritkang2805@icloud.com">
-  <img src="https://img.shields.io/badge/Email-F9BEC7?style=for-the-badge&logo=gmail&logoColor=black" />
+<img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 <a href="https://www.linkedin.com/in/amritkang28">
-  <img src="https://img.shields.io/badge/LinkedIn-DCC6E0?style=for-the-badge&logo=linkedin&logoColor=black" />
+<img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="https://github.com/amritkang165">
-  <img src="https://img.shields.io/badge/GitHub-F8EDEB?style=for-the-badge&logo=github&logoColor=black" />
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br><br>
+</p>
 
-✨ Let’s build something amazing together! ✨
+---
+
+# GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=amritkang165&show_icons=true&theme=transparent&hide_border=true" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amritkang165&theme=transparent&hide_border=true" height="170"/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=amritkang165&bg_color=00000000&color=555555&line=000000&point=888888&area=true&hide_border=true"/>
+
+<img src="https://komarev.com/ghpvc/?username=amritkang165&style=for-the-badge&color=000000" />
 
 </div>
 
@@ -245,8 +192,7 @@ Collective intelligence platform for predictions, confidence, and rankings.
 
 <div align="center">
 
-```text
-♡ building little things today for a better tomorrow ✦
-```
+### *"Build. Break. Learn. Repeat."*
 
 </div>
+```
