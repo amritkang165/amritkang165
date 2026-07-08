@@ -195,4 +195,3 @@ Practice SQL using realistic databases with interview-style challenges, instant 
 ### *"Build. Break. Learn. Repeat."*
 
 </div>
-```
