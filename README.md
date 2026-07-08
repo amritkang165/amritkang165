@@ -30,7 +30,6 @@ Currently exploring **Swift**, **Advanced Python**, **System Design**, and **Art
 - 🎓 Second-Year Computer Science Student @ **BITS Pilani**
 - 💻 Full Stack Developer
 - ⚙️ Backend & System Design Enthusiast
-- 🛡️ Ex-Hacker turned Builder
 - 🌱 Currently learning **Swift**, **Advanced Python**, and **AI**
 - 🚀 Looking for **Internships**, **Freelance Opportunities**, and **Collaborations**
 
@@ -124,7 +123,7 @@ A customizable terminal pet written in Go that lives inside your terminal, react
 
 ---
 
-## 🗃️ SQL Arena *(Coming Soon)*
+## 🗃️ SQL Arena 
 
 Practice SQL using realistic databases with interview-style challenges, instant feedback, and progressive difficulty levels.
 
