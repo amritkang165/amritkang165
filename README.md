@@ -1,4 +1,4 @@
-<img src="/Users/amritkang/Downloads/files-2/banner_bloom_animated.svg"/>
+<img src="banner_bloom_animated.svg"/>
 
 <div align="center">
 
