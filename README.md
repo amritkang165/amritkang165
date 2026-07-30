@@ -30,13 +30,15 @@
 
 <br>
 
-*"Design. Build. Iterate."*
+*"in my building era."*
 
 
 <img src="https://komarev.com/ghpvc/?username=amritkang165&style=for-the-badge&color=F2F2F2&labelColor=FFFFFF">
 
 
 ---
+
+</div>
 
 # 🌸 About Me
 ### Second-Year Computer Science Student @ BITS Pilani
@@ -50,8 +52,6 @@ let amrit = Developer(
     funFact: "I think I'm funny."
 )
 ```
-
----
 
 # 🚀 Featured Projects
 
