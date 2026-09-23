@@ -1,0 +1,38 @@
+name: Bloom the Garden
+
+on:
+  schedule:
+    - cron: "0 1 * * *"
+  workflow_dispatch:
+
+jobs:
+  grow:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install deps
+        run: pip install requests
+
+      - name: Generate flower garden SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: amritkang165
+        run: python .github/scripts/flower_garden.py
+
+      - name: Commit garden
+        run: |
+          git config user.name "bloom-bot"
+          git config user.email "bloom@garden.local"
+          mkdir -p dist
+          git add dist/flower-garden.svg
+          git diff --cached --quiet || git commit -m "🌸 bloom: nightly garden refresh"
+          git push origin main
