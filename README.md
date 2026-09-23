@@ -49,7 +49,7 @@
 <br>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/amritkang165/amritkang165/main/dist/flower-garden.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/amritkang165/amritkang165/output/flower-garden.svg" width="100%"/>
 </div>
 
 <br>

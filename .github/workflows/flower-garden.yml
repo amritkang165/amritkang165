@@ -28,11 +28,11 @@ jobs:
           GH_USER: amritkang165
         run: python .github/scripts/flower_garden.py
 
-      - name: Commit garden
-        run: |
-          git config user.name "bloom-bot"
-          git config user.email "bloom@garden.local"
-          mkdir -p dist
-          git add dist/flower-garden.svg
-          git diff --cached --quiet || git commit -m "🌸 bloom: nightly garden refresh"
-          git push origin main
+      - name: Push garden to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          keep_history: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
