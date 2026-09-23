@@ -6,7 +6,6 @@
 
 [![github](https://img.shields.io/badge/github-amritkang165-070417?style=flat-square&logo=github&logoColor=ff7ac6)](https://github.com/amritkang165)&nbsp;
 [![linkedin](https://img.shields.io/badge/linkedin-amritkang28-070417?style=flat-square&logo=linkedin&logoColor=6be3ff)](https://www.linkedin.com/in/amritkang28)&nbsp;
-[![twitter](https://img.shields.io/badge/twitter-jattkang-070417?style=flat-square&logo=x&logoColor=b28dff)](https://x.com/jattkang)&nbsp;
 [![dev.to](https://img.shields.io/badge/dev.to-amritkang165-070417?style=flat-square&logo=devdotto&logoColor=ffd6e0)](https://dev.to/amritkang165)&nbsp;
 [![email](https://img.shields.io/badge/email-sayhi-070417?style=flat-square&logo=apple&logoColor=ff9bd8)](mailto:amritkang2805@icloud.com)
 
@@ -60,19 +59,18 @@
 <br>
 
 <details open>
-<summary><kbd>&nbsp;🏙️ &nbsp;<b>MERAWARD</b>&nbsp;</kbd> &nbsp;<sup>civic tech · AWS · just shipped</sup></summary>
+<summary><kbd>&nbsp;🏙️ &nbsp;<b>MERAWARD</b>&nbsp;</kbd> &nbsp;<sup>civic tech · AWS · First Commit · Bharat Builds Tour 2026</sup></summary>
 
 ```
 Delhi has 250 wards. most people don't know which one they're in.
-MERAWARD fixes that — report by voice, photo, or text. get a
-formal complaint letter in Hindi & English. see the Ward Neglect
-Index: which wards the system keeps ignoring, ranked publicly.
+MERAWARD fixes that — report by voice, photo, or text. get a formal
+complaint letter in Hindi & English. see the Ward Neglect Index:
+which wards the system keeps ignoring, ranked publicly.
 
-  built at First Commit · Bharat Builds Tour 2026
-  WeMakeDevs × AWS Builder Center · team Sleepy Peeps
-  i led the team + built frontend & ward pipeline
+  9 of 13 frontend commits are mine · ward data pipeline · full UI
+  team Sleepy Peeps · WeMakeDevs × AWS Builder Center
 
-  Lambda · Bedrock · DynamoDB · React 18 · MapLibre · Python
+  Lambda · Bedrock · DynamoDB · S3 · SQS · React 18 · MapLibre · Python
 ```
 
 &nbsp;&nbsp;&nbsp;&nbsp;→ [github.com/amritkang165/meraward](https://github.com/amritkang165/meraward)
@@ -86,9 +84,9 @@ Index: which wards the system keeps ignoring, ranked publicly.
 
 ```
 most "what if" tools give you an essay.
-iffy gives you a typed consequence graph — every branch
-structured, every outcome traceable, every hallucination
-caught by a Zod validate-and-repair loop.
+iffy gives you a typed consequence graph — every branch structured,
+every outcome traceable, every hallucination caught by a
+Zod validate-and-repair loop.
 
 think before you believe.
 
@@ -102,7 +100,7 @@ think before you believe.
 ---
 
 <details open>
-<summary><kbd>&nbsp;🍩 &nbsp;<b>Pocki</b>&nbsp;</kbd> &nbsp;<sup>native iOS · UPI OCR</sup></summary>
+<summary><kbd>&nbsp;🍩 &nbsp;<b>Pocki</b>&nbsp;</kbd> &nbsp;<sup>native iOS · UPI OCR · premium expense tracker</sup></summary>
 
 ```
 screenshot any UPI app. Pocki reads it.
@@ -120,15 +118,15 @@ built for how people in India actually spend.
 ---
 
 <details open>
-<summary><kbd>&nbsp;🤖 &nbsp;<b>exHacker</b>&nbsp;</kbd> &nbsp;<sup>multi-agent · autonomous</sup></summary>
+<summary><kbd>&nbsp;🤖 &nbsp;<b>exHacker</b>&nbsp;</kbd> &nbsp;<sup>multi-agent · autonomous co-founder</sup></summary>
 
 ```
-challenge statement in.
-production-ready blueprint out.
-under 30 seconds.
+challenge statement in. production-ready blueprint out. under 30s.
 
-teams waste the first 3 hours of every hackathon
-arguing about stack choices. now they don't have to.
+a numbered specialist pipeline: challenge intel → research →
+competitor analysis → idea generation → solution architect → docs.
+teams waste the first 3 hours of every hackathon arguing about
+stack choices. this compresses it to minutes.
 
   LangGraph · LangChain · FastAPI · Next.js · Docker
 ```
@@ -140,15 +138,16 @@ arguing about stack choices. now they don't have to.
 ---
 
 <details open>
-<summary><kbd>&nbsp;🧬 &nbsp;<b>ReGit</b>&nbsp;</kbd> &nbsp;<sup>research VCS · CRDT</sup></summary>
+<summary><kbd>&nbsp;🧬 &nbsp;<b>ReGit</b>&nbsp;</kbd> &nbsp;<sup>research VCS · CRDT · semantic diff</sup></summary>
 
 ```
 git diff on a PDF is a crime.
 
-content-addressed immutable artifacts. semantic per-type
-diffing. three-way prose merge. CRDT concurrency.
-first-class provenance. the version control system
-that research has always deserved and never had.
+content-addressed immutable artifacts · semantic per-type diffing
+three-way prose merge · CRDT concurrent editing
+typed provenance: claim → commit → artifact → source
+
+the version control system research has always deserved.
 
   Python · CRDT · content-addressed storage
 ```
@@ -165,7 +164,7 @@ that research has always deserved and never had.
 <br>
 
 <details>
-<summary><kbd>&nbsp;👕 &nbsp;<b>WearWise</b>&nbsp;</kbd> &nbsp;<sup>AI wardrobe</sup></summary>
+<summary><kbd>&nbsp;👕 &nbsp;<b>WearWise</b>&nbsp;</kbd> &nbsp;<sup>AI wardrobe manager</sup></summary>
 
 ```
 track what you own. stop wearing the same 3 things.
@@ -180,8 +179,7 @@ AI outfit recommendations. finally.
 <summary><kbd>&nbsp;📱 &nbsp;<b>Gitty</b>&nbsp;</kbd> &nbsp;<sup>mobile GitHub client</sup></summary>
 
 ```
-GitHub in your pocket.
-PRs at 2am in bed, comfortably.
+GitHub in your pocket. PRs at 2am in bed, comfortably.
 search · trending · 8 dev tools · branch analysis
 
   React Native · TypeScript
@@ -190,12 +188,11 @@ search · trending · 8 dev tools · branch analysis
 </details>
 
 <details>
-<summary><kbd>&nbsp;🎨 &nbsp;<b>TintAudit</b>&nbsp;</kbd> &nbsp;<sup>Swift → WASM</sup></summary>
+<summary><kbd>&nbsp;🎨 &nbsp;<b>TintAudit</b>&nbsp;</kbd> &nbsp;<sup>Swift → WebAssembly</sup></summary>
 
 ```
-WCAG contrast analyser that runs in the browser.
-built in Swift and compiled to WebAssembly via Tokamak.
-yes, really.
+WCAG contrast analyser in the browser.
+built in Swift, compiled to WebAssembly via Tokamak. yes, really.
 
   Swift · WebAssembly · Tokamak
 ```
@@ -203,7 +200,7 @@ yes, really.
 </details>
 
 <details>
-<summary><kbd>&nbsp;🐹 &nbsp;<b>Gotermi</b>&nbsp;</kbd> &nbsp;<sup>terminal pet</sup></summary>
+<summary><kbd>&nbsp;🐹 &nbsp;<b>Gotermi</b>&nbsp;</kbd> &nbsp;<sup>terminal pet in Go</sup></summary>
 
 ```
 a little creature that lives in your terminal
@@ -219,8 +216,7 @@ and reacts to your coding habits.
 
 ```
 agent-to-agent commerce protocol.
-AI proposes. rules decide. humans authorize money.
-Razorpay settlement.
+AI proposes. rules decide. humans authorize money. Razorpay settlement.
 
   Python · Razorpay
 ```
@@ -228,11 +224,10 @@ Razorpay settlement.
 </details>
 
 <details>
-<summary><kbd>&nbsp;🌿 &nbsp;<b>cherrypick</b>&nbsp;</kbd> &nbsp;<sup>accountability</sup></summary>
+<summary><kbd>&nbsp;🌿 &nbsp;<b>cherrypick</b>&nbsp;</kbd> &nbsp;<sup>accountability for builders</sup></summary>
 
 ```
-accountability app for women builders.
-deterministic core. no fluff.
+accountability app for women builders. deterministic core. no fluff.
 
   Python · FastAPI · SQLite
 ```
@@ -247,17 +242,32 @@ deterministic core. no fluff.
 
 <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;**by the numbers —**
+&nbsp;&nbsp;&nbsp;&nbsp;**track record** &nbsp;—
+
+<br>
+
+| | | |
+|---|---|---|
+| 🏆 **Top team** | First Commit · Bharat Builds Tour 2026 | WeMakeDevs × AWS Builder Center · Ship It track |
+| 🏆 **Top 7 of 350+** | ProdX @ NAVERA 26 | iffy.ai — typed consequence graphs |
+| 🎓 **BITS Pilani** | B.E. Computer Science | Class of 2028 |
+| ☁️ **AWS Builder** | [builder.aws.com/profile/jattkang](https://builder.aws.com/profile/jattkang) | |
+
+<br>
+
+<div align="center"><img src="divider.svg" width="100%"/></div>
+
+<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;**by the numbers** &nbsp;— *verified against the GitHub API, not a third-party stats widget*
 
 <br>
 
 ```
   602   contributions this year
   539   commits pushed
-   33   repositories owned
-   29   repos actively touched
-    4   pull requests
-    1   issue filed (i fix bugs, not report them)
+   33   repositories · 29 actively touched
+    4   pull requests merged
 ```
 
 <br>
@@ -289,7 +299,7 @@ deterministic core. no fluff.
 
   ┌─ reading ───────────────────────────────────────────────────────┐
   │  Designing Data-Intensive Applications                          │
-  │  Apple Human Interface Guidelines (yes, the whole thing)        │
+  │  Apple Human Interface Guidelines  (yes, the whole thing)       │
   └─────────────────────────────────────────────────────────────────┘
 
   ☕  coffee  ▰▰▰▰▰▰▰▰▰▱  medically concerning
@@ -324,6 +334,10 @@ deterministic core. no fluff.
 <br>
 
 <div align="center"><img src="divider.svg" width="100%"/></div>
+
+<br>
+
+*what's here is what i still stand behind.*
 
 <br>
 
