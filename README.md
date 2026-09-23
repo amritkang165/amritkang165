@@ -247,23 +247,52 @@ deterministic core. no fluff.
 
 <br>
 
+&nbsp;&nbsp;&nbsp;&nbsp;**by the numbers —**
+
+<br>
+
+```
+  602   contributions this year
+  539   commits pushed
+   33   repositories owned
+   29   repos actively touched
+    4   pull requests
+    1   issue filed (i fix bugs, not report them)
+```
+
+<br>
+
+<div align="center"><img src="divider.svg" width="100%"/></div>
+
+<br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;**right now —**
 
 <br>
 
 ```
-  SHIPPING          🚢  MERAWARD is live. Pocki & WearWise are next.
+  ┌─ shipping ──────────────────────────────────────────────────────┐
+  │  🚢  MERAWARD is live                                           │
+  │  🪷  Pocki v2 · WearWise — both blooming                       │
+  └─────────────────────────────────────────────────────────────────┘
 
-  LEARNING
-  ├── 🍎  Swift & Apple frameworks   (SwiftUI · CoreData · StoreKit · WidgetKit)
-  ├── 📐  System Design              (clashing with DSA bare minimum daily)
-  ├── 🧠  LLM tooling layer          (agents · evals · structured outputs)
-  └── 🦀  Rust                       (slowly. painfully. worth it.)
+  ┌─ learning ──────────────────────────────────────────────────────┐
+  │  🍎  Apple-specific deep cuts                                   │
+  │      SwiftUI · CoreData · StoreKit · WidgetKit · CoreML         │
+  │                                                                 │
+  │  📐  System Design                                              │
+  │      clashing with DSA bare minimum daily. both bleeding.       │
+  │                                                                 │
+  │  🤖  LLM tooling layer                                          │
+  │      agents · evals · structured outputs · tool use             │
+  └─────────────────────────────────────────────────────────────────┘
 
-  READING           Designing Data-Intensive Applications
-                    (and way too many Apple dev docs at 2am)
+  ┌─ reading ───────────────────────────────────────────────────────┐
+  │  Designing Data-Intensive Applications                          │
+  │  Apple Human Interface Guidelines (yes, the whole thing)        │
+  └─────────────────────────────────────────────────────────────────┘
 
-  COFFEE            ▰▰▰▰▰▰▰▰▰▱  level: medically concerning
+  ☕  coffee  ▰▰▰▰▰▰▰▰▰▱  medically concerning
 ```
 
 <br>
