@@ -8,7 +8,7 @@
 [![linkedin](https://img.shields.io/badge/linkedin-amritkang28-070417?style=flat-square&logo=linkedin&logoColor=6be3ff)](https://www.linkedin.com/in/amritkang28)&nbsp;
 [![twitter](https://img.shields.io/badge/twitter-jattkang-070417?style=flat-square&logo=x&logoColor=b28dff)](https://x.com/jattkang)&nbsp;
 [![dev.to](https://img.shields.io/badge/dev.to-amritkang165-070417?style=flat-square&logo=devdotto&logoColor=ffd6e0)](https://dev.to/amritkang165)&nbsp;
-[![email](https://img.shields.io/badge/email-say hi-070417?style=flat-square&logo=apple&logoColor=ff9bd8)](mailto:amritkang2805@icloud.com)
+[![email](https://img.shields.io/badge/email-sayhi-070417?style=flat-square&logo=apple&logoColor=ff9bd8)](mailto:amritkang2805@icloud.com)
 
 <br>
 
@@ -251,13 +251,21 @@ deterministic core. no fluff.
 
 <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;🍎&nbsp; getting dangerously good at Swift
-&nbsp;&nbsp;&nbsp;&nbsp;📐&nbsp; reading every system design book i can find
-&nbsp;&nbsp;&nbsp;&nbsp;🤖&nbsp; building at the LLM tooling layer
-&nbsp;&nbsp;&nbsp;&nbsp;🪷&nbsp; Pocki and WearWise are blooming
-&nbsp;&nbsp;&nbsp;&nbsp;☕&nbsp; coffee level: `▰▰▰▰▰▰▰▰▰▱` unreasonable
+```
+  SHIPPING          🚢  MERAWARD is live. Pocki & WearWise are next.
 
-<br>
+  LEARNING
+  ├── 🍎  Swift & Apple frameworks   (SwiftUI · CoreData · StoreKit · WidgetKit)
+  ├── 📐  System Design              (clashing with DSA bare minimum daily)
+  ├── 🧠  LLM tooling layer          (agents · evals · structured outputs)
+  └── 🦀  Rust                       (slowly. painfully. worth it.)
+
+  READING           Designing Data-Intensive Applications
+                    (and way too many Apple dev docs at 2am)
+
+  COFFEE            ▰▰▰▰▰▰▰▰▰▱  level: medically concerning
+```
+
 <br>
 
 <div align="center">
@@ -278,13 +286,9 @@ deterministic core. no fluff.
 
 <div align="center">
 
-<img height="145" src="https://github-readme-stats.vercel.app/api?username=amritkang165&show_icons=true&hide_border=true&title_color=ff7ac6&icon_color=b28dff&text_color=4a3a7a&bg_color=070417"/>
+<img height="145" src="https://github-readme-stats.vercel.app/api?username=amritkang165&show_icons=true&hide_border=true&title_color=ff7ac6&icon_color=b28dff&text_color=8b949e&bg_color=070417&cache_seconds=86400"/>
 &nbsp;&nbsp;
-<img height="145" src="https://github-readme-streak-stats.herokuapp.com/?user=amritkang165&hide_border=true&ring=ff7ac6&fire=b28dff&currStreakLabel=ffd6e0&sideLabels=4a3a7a&dates=4a3a7a&background=070417&stroke=1b1046"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amritkang165&hide_border=true&bg_color=070417&color=4a3a7a&line=ff7ac6&point=b28dff&area=true&area_color=1b1046"/>
+<img height="145" src="https://streak-stats.demolab.com/?user=amritkang165&hide_border=true&ring=ff7ac6&fire=b28dff&currStreakLabel=ffd6e0&sideLabels=8b949e&dates=4a3a7a&background=070417&stroke=1b1046"/>
 
 </div>
 
