@@ -62,15 +62,16 @@
 <summary><kbd>&nbsp;🏙️ &nbsp;<b>MERAWARD</b>&nbsp;</kbd> &nbsp;<sup>civic tech · AWS · First Commit · Bharat Builds Tour 2026</sup></summary>
 
 ```
-Delhi has 250 wards. most people don't know which one they're in.
-MERAWARD fixes that — report by voice, photo, or text. get a formal
-complaint letter in Hindi & English. see the Ward Neglect Index:
-which wards the system keeps ignoring, ranked publicly.
+Delhi has 289 wards. most people don't know which one they're in.
+MERAWARD fixes that — GPS ward lookup, voice/photo/text complaint
+intake, AI-drafted bilingual letters, public neglect-index dashboard.
 
-  9 of 13 frontend commits are mine · ward data pipeline · full UI
+  ~2ms API response · sub-ms spatial lookups · 254 tests · 100 Lighthouse
+  Bedrock decoupled behind SQS · serverless AWS stack via SAM IaC
+  9 of 13 frontend commits are mine · ward pipeline · full UI
   team Sleepy Peeps · WeMakeDevs × AWS Builder Center
 
-  Lambda · Bedrock · DynamoDB · S3 · SQS · React 18 · MapLibre · Python
+  Lambda · DynamoDB · S3 · SQS+DLQ · Bedrock · React 18 · MapLibre
 ```
 
 &nbsp;&nbsp;&nbsp;&nbsp;→ [github.com/amritkang165/meraward](https://github.com/amritkang165/meraward)
@@ -80,7 +81,86 @@ which wards the system keeps ignoring, ranked publicly.
 ---
 
 <details open>
-<summary><kbd>&nbsp;🧠 &nbsp;<b>iffy.ai</b>&nbsp;</kbd> &nbsp;<sup>top 7 of 350+ teams · ProdX @ NAVERA 26</sup></summary>
+<summary><kbd>&nbsp;🧬 &nbsp;<b>ReGit</b>&nbsp;</kbd> &nbsp;<sup>Top 6 · Gradient Rush Hackathon · research VCS</sup></summary>
+
+```
+git diff on a PDF is a crime.
+
+content-addressed commit DAG · semantic diff · 3-way prose merge
+real-time CRDT collaborative editing (pycrdt ↔ yjs) with live presence
+hybrid BM25 + vector retrieval · time-travel queries · delta-reindexing
+fully offline single-process
+
+  120 tests covering CRDT convergence and merge conflicts
+
+  Python · FastAPI · React
+```
+
+&nbsp;&nbsp;&nbsp;&nbsp;→ [github.com/amritkang165/ReGit](https://github.com/amritkang165/ReGit)
+
+</details>
+
+---
+
+<details open>
+<summary><kbd>&nbsp;🍩 &nbsp;<b>Pocki</b>&nbsp;</kbd> &nbsp;<sup>native iOS · v1.2.0 · MIT · offline-first</sup></summary>
+
+```
+screenshot any UPI app. Pocki reads it.
+works across GPay, PhonePe, Paytm, BHIM, Amazon Pay — no manual entry.
+zero data leaves the phone. fully offline-first.
+currently at v1.2.0, MIT-licensed, open source.
+
+  Swift 6 · SwiftUI · SwiftData · Vision
+```
+
+&nbsp;&nbsp;&nbsp;&nbsp;→ [github.com/amritkang165/Pocki](https://github.com/amritkang165/Pocki)
+
+</details>
+
+---
+
+<details open>
+<summary><kbd>&nbsp;📅 &nbsp;<b>Placement Week Scheduler</b>&nbsp;</kbd> &nbsp;<sup>CP-SAT · 800 students · 35 companies</sup></summary>
+
+```
+scheduled 800 students across 35 companies and 20 rooms
+1,123 shortlists · 99.5% interview coverage · zero clashes
+90% room utilization
+
+validity-based replanner re-solves only the affected slice per
+disruption — touches 1.4% of appointments, produces a transparent diff.
+
+  45 tests · Python · OR-Tools · FastAPI · React
+```
+
+&nbsp;&nbsp;&nbsp;&nbsp;→ [github.com/amritkang165/placement-week-scheduler](https://github.com/amritkang165/placement-week-scheduler)
+
+</details>
+
+---
+
+<details open>
+<summary><kbd>&nbsp;🤖 &nbsp;<b>exHacker</b>&nbsp;</kbd> &nbsp;<sup>7-agent pipeline · Hackarena</sup></summary>
+
+```
+challenge statement in. production-ready blueprint out. under 30s.
+
+7-agent pipeline: challenge intel → research → competitor analysis
+→ idea generation → solution architect → docs
+turns a problem statement into a pitch-ready package.
+
+  LangGraph · LangChain · FastAPI · Next.js · Docker
+```
+
+&nbsp;&nbsp;&nbsp;&nbsp;→ [github.com/amritkang165/exHacker](https://github.com/amritkang165/exHacker)
+
+</details>
+
+---
+
+<details open>
+<summary><kbd>&nbsp;🧠 &nbsp;<b>iffy.ai</b>&nbsp;</kbd> &nbsp;<sup>Top 7 of 350+ · ProdX @ NAVERA 26</sup></summary>
 
 ```
 most "what if" tools give you an essay.
@@ -94,65 +174,6 @@ think before you believe.
 ```
 
 &nbsp;&nbsp;&nbsp;&nbsp;→ [github.com/amritkang165/iffy-ai](https://github.com/amritkang165/iffy-ai)
-
-</details>
-
----
-
-<details open>
-<summary><kbd>&nbsp;🍩 &nbsp;<b>Pocki</b>&nbsp;</kbd> &nbsp;<sup>native iOS · UPI OCR · premium expense tracker</sup></summary>
-
-```
-screenshot any UPI app. Pocki reads it.
-zero manual entry. Vision framework OCR.
-analytics that make sense of where your money went.
-built for how people in India actually spend.
-
-  SwiftUI · SwiftData · Vision
-```
-
-&nbsp;&nbsp;&nbsp;&nbsp;→ [github.com/amritkang165/Pocki](https://github.com/amritkang165/Pocki)
-
-</details>
-
----
-
-<details open>
-<summary><kbd>&nbsp;🤖 &nbsp;<b>exHacker</b>&nbsp;</kbd> &nbsp;<sup>multi-agent · autonomous co-founder</sup></summary>
-
-```
-challenge statement in. production-ready blueprint out. under 30s.
-
-a numbered specialist pipeline: challenge intel → research →
-competitor analysis → idea generation → solution architect → docs.
-teams waste the first 3 hours of every hackathon arguing about
-stack choices. this compresses it to minutes.
-
-  LangGraph · LangChain · FastAPI · Next.js · Docker
-```
-
-&nbsp;&nbsp;&nbsp;&nbsp;→ [github.com/amritkang165/exHacker](https://github.com/amritkang165/exHacker)
-
-</details>
-
----
-
-<details open>
-<summary><kbd>&nbsp;🧬 &nbsp;<b>ReGit</b>&nbsp;</kbd> &nbsp;<sup>research VCS · CRDT · semantic diff</sup></summary>
-
-```
-git diff on a PDF is a crime.
-
-content-addressed immutable artifacts · semantic per-type diffing
-three-way prose merge · CRDT concurrent editing
-typed provenance: claim → commit → artifact → source
-
-the version control system research has always deserved.
-
-  Python · CRDT · content-addressed storage
-```
-
-&nbsp;&nbsp;&nbsp;&nbsp;→ [github.com/amritkang165/ReGit](https://github.com/amritkang165/ReGit)
 
 </details>
 
@@ -200,7 +221,31 @@ built in Swift, compiled to WebAssembly via Tokamak. yes, really.
 </details>
 
 <details>
-<summary><kbd>&nbsp;🐹 &nbsp;<b>Gotermi</b>&nbsp;</kbd> &nbsp;<sup>terminal pet in Go</sup></summary>
+<summary><kbd>&nbsp;🔍 &nbsp;<b>LaunderLens</b>&nbsp;</kbd> &nbsp;<sup>RIFT Hackathon · fraud detection</sup></summary>
+
+```
+graph-based fraud detection engine.
+detects circular fund routing and smurfing at 92% accuracy
+on 1,000+ transactions.
+
+  Node.js · Graph Algorithms
+```
+</details>
+
+<details>
+<summary><kbd>&nbsp;🎙️ &nbsp;<b>Oratio</b>&nbsp;</kbd> &nbsp;<sup>Replit Hackathon · AI debate</sup></summary>
+
+```
+voice-enabled AI debate platform.
+real-time transcription · LCR-based judging system.
+
+  WebSockets · LLM APIs
+```
+&nbsp;&nbsp;&nbsp;&nbsp;→ [github.com/amritkang165/Oratio](https://github.com/amritkang165/Oratio)
+</details>
+
+<details>
+<summary><kbd>&nbsp;🐹 &nbsp;<b>Gotermi</b>&nbsp;</kbd> &nbsp;<sup>terminal pet</sup></summary>
 
 ```
 a little creature that lives in your terminal
@@ -209,29 +254,6 @@ and reacts to your coding habits.
   Go · CLI
 ```
 &nbsp;&nbsp;&nbsp;&nbsp;→ [github.com/amritkang165/Gotermi](https://github.com/amritkang165/Gotermi)
-</details>
-
-<details>
-<summary><kbd>&nbsp;💸 &nbsp;<b>x402-in</b>&nbsp;</kbd> &nbsp;<sup>agent commerce</sup></summary>
-
-```
-agent-to-agent commerce protocol.
-AI proposes. rules decide. humans authorize money. Razorpay settlement.
-
-  Python · Razorpay
-```
-&nbsp;&nbsp;&nbsp;&nbsp;→ [github.com/amritkang165/x402-in](https://github.com/amritkang165/x402-in)
-</details>
-
-<details>
-<summary><kbd>&nbsp;🌿 &nbsp;<b>cherrypick</b>&nbsp;</kbd> &nbsp;<sup>accountability for builders</sup></summary>
-
-```
-accountability app for women builders. deterministic core. no fluff.
-
-  Python · FastAPI · SQLite
-```
-&nbsp;&nbsp;&nbsp;&nbsp;→ [github.com/amritkang165/cherrypick](https://github.com/amritkang165/cherrypick)
 </details>
 
 </details>
@@ -246,12 +268,15 @@ accountability app for women builders. deterministic core. no fluff.
 
 <br>
 
-| | | |
-|---|---|---|
-| 🏆 **Top team** | First Commit · Bharat Builds Tour 2026 | WeMakeDevs × AWS Builder Center · Ship It track |
-| 🏆 **Top 7 of 350+** | ProdX @ NAVERA 26 | iffy.ai — typed consequence graphs |
-| 🎓 **BITS Pilani** | B.E. Computer Science | Class of 2028 |
-| ☁️ **AWS Builder** | [builder.aws.com/profile/jattkang](https://builder.aws.com/profile/jattkang) | |
+```
+  🏆  Top team     First Commit · Bharat Builds Tour 2026    WeMakeDevs × AWS Builder Center
+  🏆  Top 6        Gradient Rush Hackathon                   ReGit — research VCS
+  🏆  Top 7/350+   ProdX @ NAVERA 26                         iffy.ai
+  💼  SDE Intern   Grabware  (May–Jul 2026)                  15+ production sites, MERN migration
+  🎓  BITS Pilani  B.E. Computer Science  ·  CGPA 9.27
+  🌐  HackClub     Bengaluru Organizer                       Sunbeam — 40 cities globally
+  🎤  Ignite Room  Events Lead                               venue · volunteers · speakers
+```
 
 <br>
 
