@@ -260,8 +260,6 @@ most "what if" tools give you an essay. iffy gives you a typed consequence graph
 
 <div align="center">
 
-<img height="145" src="https://github-readme-stats.vercel.app/api?username=amritkang165&show_icons=true&hide_border=true&title_color=ff7ac6&icon_color=b28dff&text_color=8b949e&bg_color=070417&cache_seconds=86400"/>
-&nbsp;&nbsp;
 <img height="145" src="https://streak-stats.demolab.com/?user=amritkang165&hide_border=true&ring=ff7ac6&fire=b28dff&currStreakLabel=ffd6e0&sideLabels=8b949e&dates=4a3a7a&background=070417&stroke=1b1046"/>
 
 </div>
