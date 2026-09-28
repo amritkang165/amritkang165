@@ -234,10 +234,10 @@ most "what if" tools give you an essay. iffy gives you a typed consequence graph
 
   ┌─ reading ───────────────────────────────────────────────────────┐
   │  Designing Data-Intensive Applications                          │
-  │  Apple Human Interface Guidelines  (yes, the whole thing)       │
+  │  Apple Human Interface Guidelines        │
   └─────────────────────────────────────────────────────────────────┘
 
-  ☕  coffee  ▰▰▰▰▰▰▰▰▰▱  medically concerning
+  fun fact - I'm Jatt
 ```
 
 <br>
@@ -270,7 +270,7 @@ most "what if" tools give you an essay. iffy gives you a typed consequence graph
 
 <br>
 
-*what's here is what i still stand behind.*
+*what's here is what I still stand behind.*
 
 <br>
 
