@@ -1,0 +1,1242 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1434" height="254" viewBox="0 0 1434 254">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#070417"/>
+    <stop offset="60%" stop-color="#1b1046"/>
+    <stop offset="100%" stop-color="#2a1155"/>
+  </linearGradient>
+  <radialGradient id="glow_pink" cx="50%" cy="50%" r="50%">
+    <stop offset="0%" stop-color="#ff7ac6" stop-opacity="0.35"/>
+    <stop offset="100%" stop-color="#ff7ac6" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="glow_purple" cx="50%" cy="50%" r="50%">
+    <stop offset="0%" stop-color="#b28dff" stop-opacity="0.3"/>
+    <stop offset="100%" stop-color="#b28dff" stop-opacity="0"/>
+  </radialGradient>
+  <filter id="blur4"><feGaussianBlur stdDeviation="4"/></filter>
+  <filter id="blur2"><feGaussianBlur stdDeviation="2"/></filter>
+</defs>
+<rect width="1434" height="254" rx="16" fill="url(#bg)"/>
+<ellipse cx="358" cy="76" rx="287" ry="51" fill="url(#glow_purple)" filter="url(#blur4)"/>
+<ellipse cx="1076" cy="152" rx="258" ry="46" fill="url(#glow_pink)" filter="url(#blur4)"/>
+<circle cx="916.9" cy="2.6" r="0.6" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="2.9s" begin="-1.6s" repeatCount="indefinite"/></circle>
+<circle cx="970.4" cy="93.5" r="0.5" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="3.7s" begin="-5.8s" repeatCount="indefinite"/></circle>
+<circle cx="313.5" cy="53.0" r="0.4" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="2.8s" begin="-2.1s" repeatCount="indefinite"/></circle>
+<circle cx="781.4" cy="23.1" r="0.9" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="5.2s" begin="-6.0s" repeatCount="indefinite"/></circle>
+<circle cx="1155.5" cy="73.2" r="0.7" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="2.6s" begin="-0.3s" repeatCount="indefinite"/></circle>
+<circle cx="482.7" cy="9.7" r="0.5" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="5.4s" begin="-2.4s" repeatCount="indefinite"/></circle>
+<circle cx="1157.4" cy="76.5" r="0.8" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="5.9s" begin="-3.7s" repeatCount="indefinite"/></circle>
+<circle cx="791.6" cy="86.9" r="0.9" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="5.4s" begin="-2.5s" repeatCount="indefinite"/></circle>
+<circle cx="1010.4" cy="4.8" r="0.6" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="3.2s" begin="-5.5s" repeatCount="indefinite"/></circle>
+<circle cx="333.8" cy="10.6" r="0.6" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="4.5s" begin="-3.8s" repeatCount="indefinite"/></circle>
+<circle cx="530.8" cy="22.0" r="0.6" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="5.7s" begin="-2.1s" repeatCount="indefinite"/></circle>
+<circle cx="873.5" cy="17.9" r="1.0" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="2.7s" begin="-3.7s" repeatCount="indefinite"/></circle>
+<circle cx="1419.0" cy="67.1" r="0.8" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="4.7s" begin="-0.9s" repeatCount="indefinite"/></circle>
+<circle cx="1112.8" cy="24.0" r="0.4" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="3.3s" begin="-4.4s" repeatCount="indefinite"/></circle>
+<circle cx="302.5" cy="98.8" r="1.1" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="3.3s" begin="-2.1s" repeatCount="indefinite"/></circle>
+<circle cx="567.3" cy="95.8" r="0.8" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="3.1s" begin="-4.5s" repeatCount="indefinite"/></circle>
+<circle cx="805.0" cy="27.5" r="0.9" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="5.6s" begin="-3.6s" repeatCount="indefinite"/></circle>
+<circle cx="314.5" cy="104.5" r="0.8" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="2.4s" begin="-5.7s" repeatCount="indefinite"/></circle>
+<circle cx="157.2" cy="65.8" r="1.0" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="3.7s" begin="-5.6s" repeatCount="indefinite"/></circle>
+<circle cx="547.2" cy="104.4" r="0.8" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="5.9s" begin="-0.8s" repeatCount="indefinite"/></circle>
+<circle cx="16.5" cy="75.5" r="0.9" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="4.1s" begin="-4.4s" repeatCount="indefinite"/></circle>
+<circle cx="919.1" cy="11.7" r="0.7" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="3.8s" begin="-0.3s" repeatCount="indefinite"/></circle>
+<circle cx="1256.0" cy="27.6" r="0.8" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="2.7s" begin="-0.5s" repeatCount="indefinite"/></circle>
+<circle cx="1248.3" cy="31.3" r="0.9" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="4.4s" begin="-5.1s" repeatCount="indefinite"/></circle>
+<circle cx="1093.4" cy="56.5" r="1.0" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="4.1s" begin="-6.0s" repeatCount="indefinite"/></circle>
+<circle cx="464.8" cy="2.0" r="1.1" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="5.5s" begin="-1.0s" repeatCount="indefinite"/></circle>
+<circle cx="441.0" cy="6.1" r="1.1" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="5.8s" begin="-5.5s" repeatCount="indefinite"/></circle>
+<circle cx="696.9" cy="7.3" r="1.0" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="5.1s" begin="-5.2s" repeatCount="indefinite"/></circle>
+<circle cx="681.6" cy="57.6" r="0.6" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="5.5s" begin="-3.5s" repeatCount="indefinite"/></circle>
+<circle cx="303.7" cy="56.5" r="1.0" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="2.8s" begin="-4.1s" repeatCount="indefinite"/></circle>
+<circle cx="1427.0" cy="68.1" r="0.8" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="4.1s" begin="-5.3s" repeatCount="indefinite"/></circle>
+<circle cx="322.2" cy="35.4" r="0.9" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="2.9s" begin="-4.7s" repeatCount="indefinite"/></circle>
+<circle cx="101.8" cy="66.1" r="0.6" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="5.6s" begin="-0.8s" repeatCount="indefinite"/></circle>
+<circle cx="101.6" cy="24.9" r="0.9" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="2.9s" begin="-5.2s" repeatCount="indefinite"/></circle>
+<circle cx="1341.5" cy="59.8" r="0.8" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="5.1s" begin="-1.2s" repeatCount="indefinite"/></circle>
+<circle cx="273.0" cy="10.2" r="0.7" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="3.7s" begin="-3.2s" repeatCount="indefinite"/></circle>
+<circle cx="1045.5" cy="70.6" r="1.2" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="2.4s" begin="-3.6s" repeatCount="indefinite"/></circle>
+<circle cx="486.6" cy="90.3" r="0.6" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="2.8s" begin="-3.3s" repeatCount="indefinite"/></circle>
+<circle cx="605.0" cy="29.2" r="0.6" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="5.7s" begin="-3.3s" repeatCount="indefinite"/></circle>
+<circle cx="1235.2" cy="57.7" r="0.4" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="6.0s" begin="-1.0s" repeatCount="indefinite"/></circle>
+<circle cx="1389.5" cy="97.1" r="1.1" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="2.7s" begin="-3.1s" repeatCount="indefinite"/></circle>
+<circle cx="306.5" cy="42.0" r="0.4" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="3.5s" begin="-0.1s" repeatCount="indefinite"/></circle>
+<circle cx="380.3" cy="82.2" r="0.8" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="3.7s" begin="-0.3s" repeatCount="indefinite"/></circle>
+<circle cx="1427.4" cy="58.2" r="1.0" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="2.6s" begin="-4.2s" repeatCount="indefinite"/></circle>
+<circle cx="1389.1" cy="60.7" r="0.8" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="5.0s" begin="-5.7s" repeatCount="indefinite"/></circle>
+<circle cx="837.7" cy="52.7" r="1.1" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="2.6s" begin="-0.2s" repeatCount="indefinite"/></circle>
+<circle cx="114.9" cy="19.5" r="0.9" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="4.7s" begin="-4.6s" repeatCount="indefinite"/></circle>
+<circle cx="171.9" cy="93.3" r="0.6" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="4.4s" begin="-2.3s" repeatCount="indefinite"/></circle>
+<circle cx="601.2" cy="61.2" r="0.8" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="5.7s" begin="-4.8s" repeatCount="indefinite"/></circle>
+<circle cx="1027.0" cy="25.0" r="0.7" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="4.7s" begin="-4.2s" repeatCount="indefinite"/></circle>
+<circle cx="453.4" cy="78.8" r="0.5" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="3.8s" begin="-0.0s" repeatCount="indefinite"/></circle>
+<circle cx="1428.4" cy="7.7" r="0.6" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="3.1s" begin="-0.4s" repeatCount="indefinite"/></circle>
+<circle cx="1263.2" cy="92.1" r="0.7" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="2.6s" begin="-1.0s" repeatCount="indefinite"/></circle>
+<circle cx="1008.9" cy="64.1" r="1.2" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="4.6s" begin="-6.0s" repeatCount="indefinite"/></circle>
+<circle cx="1171.7" cy="31.4" r="0.9" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="5.8s" begin="-5.2s" repeatCount="indefinite"/></circle>
+<circle cx="165.5" cy="11.2" r="0.8" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="3.1s" begin="-2.4s" repeatCount="indefinite"/></circle>
+<circle cx="1029.1" cy="21.3" r="0.9" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="3.1s" begin="-3.1s" repeatCount="indefinite"/></circle>
+<circle cx="1298.3" cy="88.7" r="0.5" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="3.7s" begin="-4.3s" repeatCount="indefinite"/></circle>
+<circle cx="5.1" cy="80.8" r="0.9" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="3.0s" begin="-1.6s" repeatCount="indefinite"/></circle>
+<circle cx="791.1" cy="44.8" r="0.4" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="2.3s" begin="-0.7s" repeatCount="indefinite"/></circle>
+<rect x="32" y="52" width="1382" height="4" rx="2" fill="#0d0830" opacity="0.6"/>
+<rect x="32" y="78" width="1382" height="4" rx="2" fill="#0d0830" opacity="0.6"/>
+<rect x="32" y="104" width="1382" height="4" rx="2" fill="#0d0830" opacity="0.6"/>
+<rect x="32" y="130" width="1382" height="4" rx="2" fill="#0d0830" opacity="0.6"/>
+<rect x="32" y="156" width="1382" height="4" rx="2" fill="#0d0830" opacity="0.6"/>
+<rect x="32" y="182" width="1382" height="4" rx="2" fill="#0d0830" opacity="0.6"/>
+<rect x="32" y="208" width="1382" height="4" rx="2" fill="#0d0830" opacity="0.6"/>
+<text x="36" y="22" font-family="'SF Mono','Fira Code',monospace" font-size="9" fill="#4a3a7a" letter-spacing="0.5">Oct</text>
+<text x="88" y="22" font-family="'SF Mono','Fira Code',monospace" font-size="9" fill="#4a3a7a" letter-spacing="0.5">Nov</text>
+<text x="218" y="22" font-family="'SF Mono','Fira Code',monospace" font-size="9" fill="#4a3a7a" letter-spacing="0.5">Dec</text>
+<text x="322" y="22" font-family="'SF Mono','Fira Code',monospace" font-size="9" fill="#4a3a7a" letter-spacing="0.5">Jan</text>
+<text x="452" y="22" font-family="'SF Mono','Fira Code',monospace" font-size="9" fill="#4a3a7a" letter-spacing="0.5">Feb</text>
+<text x="556" y="22" font-family="'SF Mono','Fira Code',monospace" font-size="9" fill="#4a3a7a" letter-spacing="0.5">Mar</text>
+<text x="660" y="22" font-family="'SF Mono','Fira Code',monospace" font-size="9" fill="#4a3a7a" letter-spacing="0.5">Apr</text>
+<text x="764" y="22" font-family="'SF Mono','Fira Code',monospace" font-size="9" fill="#4a3a7a" letter-spacing="0.5">May</text>
+<text x="894" y="22" font-family="'SF Mono','Fira Code',monospace" font-size="9" fill="#4a3a7a" letter-spacing="0.5">Jun</text>
+<text x="998" y="22" font-family="'SF Mono','Fira Code',monospace" font-size="9" fill="#4a3a7a" letter-spacing="0.5">Jul</text>
+<text x="1102" y="22" font-family="'SF Mono','Fira Code',monospace" font-size="9" fill="#4a3a7a" letter-spacing="0.5">Aug</text>
+<text x="1232" y="22" font-family="'SF Mono','Fira Code',monospace" font-size="9" fill="#4a3a7a" letter-spacing="0.5">Sep</text>
+<text x="28" y="47" font-family="'SF Mono','Fira Code',monospace" font-size="8" fill="#4a3a7a" text-anchor="end">Sun</text>
+<text x="28" y="99" font-family="'SF Mono','Fira Code',monospace" font-size="8" fill="#4a3a7a" text-anchor="end">Tue</text>
+<text x="28" y="151" font-family="'SF Mono','Fira Code',monospace" font-size="8" fill="#4a3a7a" text-anchor="end">Thu</text>
+<text x="28" y="203" font-family="'SF Mono','Fira Code',monospace" font-size="8" fill="#4a3a7a" text-anchor="end">Sat</text>
+<circle cx="47" cy="43" r="0.8" fill="#2fc4a5" opacity="0.20"/>
+<circle cx="47" cy="69" r="0.8" fill="#2fc4a5" opacity="0.13"/>
+<circle cx="47" cy="95" r="0.8" fill="#2fc4a5" opacity="0.22"/>
+<circle cx="47" cy="121" r="0.8" fill="#2fc4a5" opacity="0.14"/>
+<circle cx="47" cy="147" r="0.8" fill="#2fc4a5" opacity="0.14"/>
+<circle cx="47" cy="173" r="0.8" fill="#2fc4a5" opacity="0.18"/>
+<circle cx="47" cy="199" r="0.8" fill="#2fc4a5" opacity="0.20"/>
+<circle cx="73" cy="43" r="0.8" fill="#2fc4a5" opacity="0.15"/>
+<circle cx="73" cy="69" r="0.8" fill="#2fc4a5" opacity="0.14"/>
+<circle cx="73" cy="95" r="0.8" fill="#2fc4a5" opacity="0.17"/>
+<circle cx="73" cy="121" r="0.8" fill="#2fc4a5" opacity="0.18"/>
+<circle cx="73" cy="147" r="0.8" fill="#2fc4a5" opacity="0.17"/>
+<circle cx="73" cy="173" r="0.8" fill="#2fc4a5" opacity="0.17"/>
+<circle cx="73" cy="199" r="0.8" fill="#2fc4a5" opacity="0.15"/>
+<circle cx="99" cy="43" r="0.8" fill="#2fc4a5" opacity="0.13"/>
+<circle cx="99" cy="69" r="0.8" fill="#2fc4a5" opacity="0.22"/>
+<circle cx="99" cy="95" r="0.8" fill="#2fc4a5" opacity="0.16"/>
+<circle cx="99" cy="121" r="0.8" fill="#2fc4a5" opacity="0.17"/>
+<circle cx="99" cy="147" r="0.8" fill="#2fc4a5" opacity="0.14"/>
+<circle cx="99" cy="173" r="0.8" fill="#2fc4a5" opacity="0.19"/>
+<circle cx="99" cy="199" r="0.8" fill="#2fc4a5" opacity="0.21"/>
+<circle cx="125" cy="43" r="0.8" fill="#2fc4a5" opacity="0.14"/>
+<circle cx="125" cy="69" r="0.8" fill="#2fc4a5" opacity="0.22"/>
+<circle cx="125" cy="95" r="0.8" fill="#2fc4a5" opacity="0.21"/>
+<circle cx="125" cy="121" r="0.8" fill="#2fc4a5" opacity="0.19"/>
+<circle cx="125" cy="147" r="0.8" fill="#2fc4a5" opacity="0.16"/>
+<circle cx="125" cy="173" r="0.8" fill="#2fc4a5" opacity="0.19"/>
+<circle cx="125" cy="199" r="0.8" fill="#2fc4a5" opacity="0.18"/>
+<circle cx="151" cy="43" r="0.8" fill="#2fc4a5" opacity="0.13"/>
+<circle cx="151" cy="69" r="0.8" fill="#2fc4a5" opacity="0.17"/>
+<circle cx="151" cy="95" r="0.8" fill="#2fc4a5" opacity="0.17"/>
+<circle cx="151" cy="121" r="0.8" fill="#2fc4a5" opacity="0.12"/>
+<circle cx="151" cy="147" r="0.8" fill="#2fc4a5" opacity="0.13"/>
+<circle cx="151" cy="173" r="0.8" fill="#2fc4a5" opacity="0.18"/>
+<circle cx="151" cy="199" r="0.8" fill="#2fc4a5" opacity="0.17"/>
+<circle cx="177" cy="43" r="0.8" fill="#2fc4a5" opacity="0.17"/>
+<circle cx="177" cy="69" r="0.8" fill="#2fc4a5" opacity="0.15"/>
+<circle cx="177" cy="95" r="0.8" fill="#2fc4a5" opacity="0.19"/>
+<circle cx="177" cy="121" r="0.8" fill="#2fc4a5" opacity="0.18"/>
+<circle cx="177" cy="147" r="0.8" fill="#2fc4a5" opacity="0.14"/>
+<circle cx="177" cy="173" r="0.8" fill="#2fc4a5" opacity="0.17"/>
+<circle cx="177" cy="199" r="0.8" fill="#2fc4a5" opacity="0.16"/>
+<circle cx="203" cy="43" r="0.8" fill="#2fc4a5" opacity="0.18"/>
+<circle cx="203" cy="69" r="0.8" fill="#2fc4a5" opacity="0.12"/>
+<circle cx="203" cy="95" r="0.8" fill="#2fc4a5" opacity="0.16"/>
+<circle cx="203" cy="121" r="0.8" fill="#2fc4a5" opacity="0.15"/>
+<circle cx="203" cy="147" r="0.8" fill="#2fc4a5" opacity="0.21"/>
+<circle cx="203" cy="173" r="0.8" fill="#2fc4a5" opacity="0.16"/>
+<circle cx="203" cy="199" r="0.8" fill="#2fc4a5" opacity="0.17"/>
+<circle cx="229" cy="43" r="0.8" fill="#2fc4a5" opacity="0.13"/>
+<circle cx="229" cy="69" r="0.8" fill="#2fc4a5" opacity="0.17"/>
+<circle cx="229" cy="95" r="0.8" fill="#2fc4a5" opacity="0.14"/>
+<circle cx="229" cy="121" r="0.8" fill="#2fc4a5" opacity="0.22"/>
+<circle cx="229" cy="147" r="0.8" fill="#2fc4a5" opacity="0.18"/>
+<circle cx="229" cy="173" r="0.8" fill="#2fc4a5" opacity="0.21"/>
+<circle cx="229" cy="199" r="0.8" fill="#2fc4a5" opacity="0.13"/>
+<circle cx="255" cy="43" r="0.8" fill="#2fc4a5" opacity="0.22"/>
+<circle cx="255" cy="69" r="0.8" fill="#2fc4a5" opacity="0.12"/>
+<circle cx="255" cy="95" r="0.8" fill="#2fc4a5" opacity="0.18"/>
+<circle cx="255" cy="121" r="0.8" fill="#2fc4a5" opacity="0.14"/>
+<circle cx="255" cy="147" r="0.8" fill="#2fc4a5" opacity="0.15"/>
+<circle cx="255" cy="173" r="0.8" fill="#2fc4a5" opacity="0.17"/>
+<circle cx="255" cy="199" r="0.8" fill="#2fc4a5" opacity="0.21"/>
+<circle cx="281" cy="43" r="0.8" fill="#2fc4a5" opacity="0.16"/>
+<circle cx="281" cy="69" r="0.8" fill="#2fc4a5" opacity="0.17"/>
+<circle cx="281" cy="95" r="0.8" fill="#2fc4a5" opacity="0.16"/>
+<circle cx="281" cy="121" r="0.8" fill="#2fc4a5" opacity="0.13"/>
+<circle cx="281" cy="147" r="0.8" fill="#2fc4a5" opacity="0.13"/>
+<circle cx="281" cy="173" r="0.8" fill="#2fc4a5" opacity="0.19"/>
+<circle cx="281" cy="199" r="0.8" fill="#2fc4a5" opacity="0.19"/>
+<circle cx="307" cy="43" r="0.8" fill="#2fc4a5" opacity="0.21"/>
+<circle cx="307" cy="69" r="0.8" fill="#2fc4a5" opacity="0.15"/>
+<circle cx="307" cy="95" r="0.8" fill="#2fc4a5" opacity="0.13"/>
+<circle cx="307" cy="121" r="0.8" fill="#2fc4a5" opacity="0.15"/>
+<circle cx="307" cy="147" r="0.8" fill="#2fc4a5" opacity="0.21"/>
+<circle cx="307" cy="173" r="0.8" fill="#2fc4a5" opacity="0.17"/>
+<circle cx="307" cy="199" r="0.8" fill="#2fc4a5" opacity="0.16"/>
+<circle cx="333" cy="43" r="0.8" fill="#2fc4a5" opacity="0.20"/>
+<circle cx="333" cy="69" r="0.8" fill="#2fc4a5" opacity="0.20"/>
+<circle cx="333" cy="95" r="0.8" fill="#2fc4a5" opacity="0.13"/>
+<circle cx="333" cy="121" r="0.8" fill="#2fc4a5" opacity="0.15"/>
+<circle cx="333" cy="147" r="0.8" fill="#2fc4a5" opacity="0.17"/>
+<circle cx="333" cy="173" r="0.8" fill="#2fc4a5" opacity="0.13"/>
+<circle cx="333" cy="199" r="0.8" fill="#2fc4a5" opacity="0.17"/>
+<circle cx="359" cy="43" r="0.8" fill="#2fc4a5" opacity="0.19"/>
+<circle cx="359" cy="69" r="0.8" fill="#2fc4a5" opacity="0.14"/>
+<circle cx="359" cy="95" r="0.8" fill="#2fc4a5" opacity="0.20"/>
+<circle cx="359" cy="121" r="0.8" fill="#2fc4a5" opacity="0.13"/>
+<circle cx="359" cy="147" r="0.8" fill="#2fc4a5" opacity="0.16"/>
+<circle cx="359" cy="173" r="0.8" fill="#2fc4a5" opacity="0.13"/>
+<circle cx="359" cy="199" r="0.8" fill="#2fc4a5" opacity="0.14"/>
+<circle cx="385" cy="43" r="0.8" fill="#2fc4a5" opacity="0.13"/>
+<circle cx="385" cy="69" r="0.8" fill="#2fc4a5" opacity="0.16"/>
+<rect x="374" y="84" width="22" height="22" rx="4" fill="#ff7ac6" opacity="0.05"/>
+
+  <g transform="translate(385,98) rotate(12.370300780792476)">
+    <line x1="0" y1="2" x2="0" y2="-7" stroke="#2fc4a5" stroke-width="1.4" stroke-linecap="round"/>
+    <ellipse cx="-2.5" cy="-5" rx="2.8" ry="4.5" fill="#ff7ac6" opacity="0.9" transform="rotate(-25,-2.5,-5)"/>
+    <ellipse cx="2.5" cy="-5" rx="2.8" ry="4.5" fill="#ff7ac6" opacity="0.9" transform="rotate(25,2.5,-5)"/>
+  </g>
+<circle cx="385" cy="121" r="0.8" fill="#2fc4a5" opacity="0.17"/>
+<circle cx="385" cy="147" r="0.8" fill="#2fc4a5" opacity="0.20"/>
+<circle cx="385" cy="173" r="0.8" fill="#2fc4a5" opacity="0.16"/>
+<circle cx="385" cy="199" r="0.8" fill="#2fc4a5" opacity="0.14"/>
+<circle cx="411" cy="43" r="0.8" fill="#2fc4a5" opacity="0.16"/>
+<circle cx="411" cy="69" r="0.8" fill="#2fc4a5" opacity="0.16"/>
+<circle cx="411" cy="95" r="0.8" fill="#2fc4a5" opacity="0.13"/>
+<circle cx="411" cy="121" r="0.8" fill="#2fc4a5" opacity="0.18"/>
+<circle cx="411" cy="147" r="0.8" fill="#2fc4a5" opacity="0.13"/>
+<circle cx="411" cy="173" r="0.8" fill="#2fc4a5" opacity="0.22"/>
+<circle cx="411" cy="199" r="0.8" fill="#2fc4a5" opacity="0.22"/>
+<circle cx="437" cy="43" r="0.8" fill="#2fc4a5" opacity="0.21"/>
+<rect x="426" y="58" width="22" height="22" rx="4" fill="#ff7ac6" opacity="0.07"/>
+
+  <g transform="translate(437,72)">
+    <line x1="0" y1="6" x2="0" y2="-2" stroke="#2fc4a5" stroke-width="1.2" stroke-linecap="round"/>
+    <ellipse cx="4.05" cy="3.73" rx="2.2" ry="4.8" fill="#ff7ac6" opacity="0.88" transform="rotate(42.6,4.05,3.73)"/><ellipse cx="-1.20" cy="5.37" rx="2.2" ry="4.8" fill="#ff7ac6" opacity="0.88" transform="rotate(102.6,-1.20,5.37)"/><ellipse cx="-5.25" cy="1.64" rx="2.2" ry="4.8" fill="#ff7ac6" opacity="0.88" transform="rotate(162.6,-5.25,1.64)"/><ellipse cx="-4.05" cy="-3.73" rx="2.2" ry="4.8" fill="#ff7ac6" opacity="0.88" transform="rotate(222.6,-4.05,-3.73)"/><ellipse cx="1.20" cy="-5.37" rx="2.2" ry="4.8" fill="#ff7ac6" opacity="0.88" transform="rotate(282.6,1.20,-5.37)"/><ellipse cx="5.25" cy="-1.64" rx="2.2" ry="4.8" fill="#ff7ac6" opacity="0.88" transform="rotate(342.6,5.25,-1.64)"/>
+    <circle r="2.4" fill="#fff3b0"/>
+  </g>
+<circle cx="437" cy="95" r="0.8" fill="#2fc4a5" opacity="0.14"/>
+<circle cx="437" cy="121" r="0.8" fill="#2fc4a5" opacity="0.13"/>
+<circle cx="437" cy="147" r="0.8" fill="#2fc4a5" opacity="0.15"/>
+<circle cx="437" cy="173" r="0.8" fill="#2fc4a5" opacity="0.21"/>
+<circle cx="437" cy="199" r="0.8" fill="#2fc4a5" opacity="0.20"/>
+<circle cx="463" cy="43" r="0.8" fill="#2fc4a5" opacity="0.17"/>
+<circle cx="463" cy="69" r="0.8" fill="#2fc4a5" opacity="0.12"/>
+<circle cx="463" cy="95" r="0.8" fill="#2fc4a5" opacity="0.14"/>
+<circle cx="463" cy="121" r="0.8" fill="#2fc4a5" opacity="0.21"/>
+<circle cx="463" cy="147" r="0.8" fill="#2fc4a5" opacity="0.20"/>
+<circle cx="463" cy="173" r="0.8" fill="#2fc4a5" opacity="0.14"/>
+<circle cx="463" cy="199" r="0.8" fill="#2fc4a5" opacity="0.19"/>
+<circle cx="489" cy="43" r="0.8" fill="#2fc4a5" opacity="0.21"/>
+<circle cx="489" cy="69" r="0.8" fill="#2fc4a5" opacity="0.17"/>
+<circle cx="489" cy="95" r="0.8" fill="#2fc4a5" opacity="0.13"/>
+<circle cx="489" cy="121" r="0.8" fill="#2fc4a5" opacity="0.17"/>
+<circle cx="489" cy="147" r="0.8" fill="#2fc4a5" opacity="0.13"/>
+<circle cx="489" cy="173" r="0.8" fill="#2fc4a5" opacity="0.22"/>
+<circle cx="489" cy="199" r="0.8" fill="#2fc4a5" opacity="0.21"/>
+<circle cx="515" cy="43" r="0.8" fill="#2fc4a5" opacity="0.18"/>
+<circle cx="515" cy="69" r="0.8" fill="#2fc4a5" opacity="0.12"/>
+<circle cx="515" cy="95" r="0.8" fill="#2fc4a5" opacity="0.21"/>
+<circle cx="515" cy="121" r="0.8" fill="#2fc4a5" opacity="0.18"/>
+<rect x="504" y="136" width="22" height="22" rx="4" fill="#8ff0d8" opacity="0.05"/>
+
+  <g transform="translate(515,150) rotate(0.5933382568056107)">
+    <line x1="0" y1="2" x2="0" y2="-7" stroke="#2fc4a5" stroke-width="1.4" stroke-linecap="round"/>
+    <ellipse cx="-2.5" cy="-5" rx="2.8" ry="4.5" fill="#8ff0d8" opacity="0.9" transform="rotate(-25,-2.5,-5)"/>
+    <ellipse cx="2.5" cy="-5" rx="2.8" ry="4.5" fill="#8ff0d8" opacity="0.9" transform="rotate(25,2.5,-5)"/>
+  </g>
+<circle cx="515" cy="173" r="0.8" fill="#2fc4a5" opacity="0.15"/>
+<circle cx="515" cy="199" r="0.8" fill="#2fc4a5" opacity="0.16"/>
+<circle cx="541" cy="43" r="0.8" fill="#2fc4a5" opacity="0.17"/>
+<circle cx="541" cy="69" r="0.8" fill="#2fc4a5" opacity="0.17"/>
+<circle cx="541" cy="95" r="0.8" fill="#2fc4a5" opacity="0.19"/>
+<circle cx="541" cy="121" r="0.8" fill="#2fc4a5" opacity="0.18"/>
+<circle cx="541" cy="147" r="0.8" fill="#2fc4a5" opacity="0.13"/>
+<circle cx="541" cy="173" r="0.8" fill="#2fc4a5" opacity="0.14"/>
+<circle cx="541" cy="199" r="0.8" fill="#2fc4a5" opacity="0.12"/>
+<circle cx="567" cy="43" r="0.8" fill="#2fc4a5" opacity="0.20"/>
+<rect x="556" y="58" width="22" height="22" rx="4" fill="#ff7ac6" opacity="0.05"/>
+
+  <g transform="translate(567,72) rotate(0.5196269852017128)">
+    <line x1="0" y1="2" x2="0" y2="-7" stroke="#2fc4a5" stroke-width="1.4" stroke-linecap="round"/>
+    <ellipse cx="-2.5" cy="-5" rx="2.8" ry="4.5" fill="#ff7ac6" opacity="0.9" transform="rotate(-25,-2.5,-5)"/>
+    <ellipse cx="2.5" cy="-5" rx="2.8" ry="4.5" fill="#ff7ac6" opacity="0.9" transform="rotate(25,2.5,-5)"/>
+  </g>
+<circle cx="567" cy="95" r="0.8" fill="#2fc4a5" opacity="0.18"/>
+<circle cx="567" cy="121" r="0.8" fill="#2fc4a5" opacity="0.21"/>
+<circle cx="567" cy="147" r="0.8" fill="#2fc4a5" opacity="0.16"/>
+<circle cx="567" cy="173" r="0.8" fill="#2fc4a5" opacity="0.21"/>
+<circle cx="567" cy="199" r="0.8" fill="#2fc4a5" opacity="0.13"/>
+<circle cx="593" cy="43" r="0.8" fill="#2fc4a5" opacity="0.18"/>
+<circle cx="593" cy="69" r="0.8" fill="#2fc4a5" opacity="0.16"/>
+<circle cx="593" cy="95" r="0.8" fill="#2fc4a5" opacity="0.13"/>
+<circle cx="593" cy="121" r="0.8" fill="#2fc4a5" opacity="0.20"/>
+<circle cx="593" cy="147" r="0.8" fill="#2fc4a5" opacity="0.19"/>
+<circle cx="593" cy="173" r="0.8" fill="#2fc4a5" opacity="0.22"/>
+<circle cx="593" cy="199" r="0.8" fill="#2fc4a5" opacity="0.22"/>
+<circle cx="619" cy="43" r="0.8" fill="#2fc4a5" opacity="0.14"/>
+<circle cx="619" cy="69" r="0.8" fill="#2fc4a5" opacity="0.18"/>
+<rect x="608" y="84" width="22" height="22" rx="4" fill="#ff7ac6" opacity="0.05"/>
+
+  <g transform="translate(619,98) rotate(-0.3666156342012279)">
+    <line x1="0" y1="2" x2="0" y2="-7" stroke="#2fc4a5" stroke-width="1.4" stroke-linecap="round"/>
+    <ellipse cx="-2.5" cy="-5" rx="2.8" ry="4.5" fill="#ff7ac6" opacity="0.9" transform="rotate(-25,-2.5,-5)"/>
+    <ellipse cx="2.5" cy="-5" rx="2.8" ry="4.5" fill="#ff7ac6" opacity="0.9" transform="rotate(25,2.5,-5)"/>
+  </g>
+<circle cx="619" cy="121" r="0.8" fill="#2fc4a5" opacity="0.18"/>
+<circle cx="619" cy="147" r="0.8" fill="#2fc4a5" opacity="0.19"/>
+<rect x="608" y="162" width="22" height="22" rx="4" fill="#ff7ac6" opacity="0.05"/>
+
+  <g transform="translate(619,176) rotate(-3.1644035494436658)">
+    <line x1="0" y1="2" x2="0" y2="-7" stroke="#2fc4a5" stroke-width="1.4" stroke-linecap="round"/>
+    <ellipse cx="-2.5" cy="-5" rx="2.8" ry="4.5" fill="#ff7ac6" opacity="0.9" transform="rotate(-25,-2.5,-5)"/>
+    <ellipse cx="2.5" cy="-5" rx="2.8" ry="4.5" fill="#ff7ac6" opacity="0.9" transform="rotate(25,2.5,-5)"/>
+  </g>
+<rect x="608" y="188" width="22" height="22" rx="4" fill="#ff7ac6" opacity="0.07"/>
+
+  <g transform="translate(619,202)">
+    <line x1="0" y1="6" x2="0" y2="-2" stroke="#2fc4a5" stroke-width="1.2" stroke-linecap="round"/>
+    <ellipse cx="5.45" cy="0.70" rx="2.2" ry="4.8" fill="#ff7ac6" opacity="0.88" transform="rotate(7.4,5.45,0.70)"/><ellipse cx="2.12" cy="5.08" rx="2.2" ry="4.8" fill="#ff7ac6" opacity="0.88" transform="rotate(67.4,2.12,5.08)"/><ellipse cx="-3.34" cy="4.37" rx="2.2" ry="4.8" fill="#ff7ac6" opacity="0.88" transform="rotate(127.4,-3.34,4.37)"/><ellipse cx="-5.45" cy="-0.70" rx="2.2" ry="4.8" fill="#ff7ac6" opacity="0.88" transform="rotate(187.4,-5.45,-0.70)"/><ellipse cx="-2.12" cy="-5.08" rx="2.2" ry="4.8" fill="#ff7ac6" opacity="0.88" transform="rotate(247.4,-2.12,-5.08)"/><ellipse cx="3.34" cy="-4.37" rx="2.2" ry="4.8" fill="#ff7ac6" opacity="0.88" transform="rotate(307.4,3.34,-4.37)"/>
+    <circle r="2.4" fill="#fff3b0"/>
+  </g>
+<rect x="634" y="32" width="22" height="22" rx="4" fill="#c9a7ff" opacity="0.06"/>
+
+  <g transform="translate(645,46) rotate(0.5463020959862455)">
+    <line x1="0" y1="2" x2="0" y2="-7" stroke="#2fc4a5" stroke-width="1.4" stroke-linecap="round"/>
+    <ellipse cx="-2.5" cy="-5" rx="2.8" ry="4.5" fill="#c9a7ff" opacity="0.9" transform="rotate(-25,-2.5,-5)"/>
+    <ellipse cx="2.5" cy="-5" rx="2.8" ry="4.5" fill="#c9a7ff" opacity="0.9" transform="rotate(25,2.5,-5)"/>
+  </g>
+<rect x="634" y="58" width="22" height="22" rx="4" fill="#ff7ac6" opacity="0.05"/>
+
+  <g transform="translate(645,72) rotate(-13.388874898076823)">
+    <line x1="0" y1="2" x2="0" y2="-7" stroke="#2fc4a5" stroke-width="1.4" stroke-linecap="round"/>
+    <ellipse cx="-2.5" cy="-5" rx="2.8" ry="4.5" fill="#ff7ac6" opacity="0.9" transform="rotate(-25,-2.5,-5)"/>
+    <ellipse cx="2.5" cy="-5" rx="2.8" ry="4.5" fill="#ff7ac6" opacity="0.9" transform="rotate(25,2.5,-5)"/>
+  </g>
+<rect x="634" y="84" width="22" height="22" rx="4" fill="#8ff0d8" opacity="0.05"/>
+
+  <g transform="translate(645,98) rotate(1.2426206368047232)">
+    <line x1="0" y1="2" x2="0" y2="-7" stroke="#2fc4a5" stroke-width="1.4" stroke-linecap="round"/>
+    <ellipse cx="-2.5" cy="-5" rx="2.8" ry="4.5" fill="#8ff0d8" opacity="0.9" transform="rotate(-25,-2.5,-5)"/>
+    <ellipse cx="2.5" cy="-5" rx="2.8" ry="4.5" fill="#8ff0d8" opacity="0.9" transform="rotate(25,2.5,-5)"/>
+  </g>
+<rect x="634" y="110" width="22" height="22" rx="4" fill="#c9a7ff" opacity="0.05"/>
+
+  <g transform="translate(645,124) rotate(-12.13995298564879)">
+    <line x1="0" y1="2" x2="0" y2="-7" stroke="#2fc4a5" stroke-width="1.4" stroke-linecap="round"/>
+    <ellipse cx="-2.5" cy="-5" rx="2.8" ry="4.5" fill="#c9a7ff" opacity="0.9" transform="rotate(-25,-2.5,-5)"/>
+    <ellipse cx="2.5" cy="-5" rx="2.8" ry="4.5" fill="#c9a7ff" opacity="0.9" transform="rotate(25,2.5,-5)"/>
+  </g>
+<rect x="634" y="136" width="22" height="22" rx="4" fill="#ff7ac6" opacity="0.05"/>
+
+  <g transform="translate(645,150) rotate(-14.495249823827788)">
+    <line x1="0" y1="2" x2="0" y2="-7" stroke="#2fc4a5" stroke-width="1.4" stroke-linecap="round"/>
+    <ellipse cx="-2.5" cy="-5" rx="2.8" ry="4.5" fill="#ff7ac6" opacity="0.9" transform="rotate(-25,-2.5,-5)"/>
+    <ellipse cx="2.5" cy="-5" rx="2.8" ry="4.5" fill="#ff7ac6" opacity="0.9" transform="rotate(25,2.5,-5)"/>
+  </g>
+<rect x="634" y="162" width="22" height="22" rx="4" fill="#ffd6e0" opacity="0.11"/>
+
+  <g transform="translate(645,175)">
+    <line x1="0" y1="7" x2="0" y2="-1" stroke="#2fc4a5" stroke-width="1.4" stroke-linecap="round"/>
+    <ellipse cx="5.85" cy="1.34" rx="3.5" ry="5.5" fill="#ffd6e0" opacity="0.85" transform="rotate(12.9,5.85,1.34)"/><ellipse cx="0.54" cy="5.98" rx="3.5" ry="5.5" fill="#ffd6e0" opacity="0.85" transform="rotate(84.9,0.54,5.98)"/><ellipse cx="-5.52" cy="2.36" rx="3.5" ry="5.5" fill="#ffd6e0" opacity="0.85" transform="rotate(156.9,-5.52,2.36)"/><ellipse cx="-3.95" cy="-4.52" rx="3.5" ry="5.5" fill="#ffd6e0" opacity="0.85" transform="rotate(228.9,-3.95,-4.52)"/><ellipse cx="3.08" cy="-5.15" rx="3.5" ry="5.5" fill="#ffd6e0" opacity="0.85" transform="rotate(300.9,3.08,-5.15)"/>
+    <circle r="3" fill="#fff3b0"/>
+    <circle r="3" fill="#ffd6e0" opacity="0.25">
+      <animate attributeName="r" values="3;5;3" dur="4.8s" begin="-3.4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.25;0;0.25" dur="4.8s" begin="-3.4s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+<rect x="634" y="188" width="22" height="22" rx="4" fill="#c9a7ff" opacity="0.05"/>
+
+  <g transform="translate(645,202) rotate(-8.135132829687516)">
+    <line x1="0" y1="2" x2="0" y2="-7" stroke="#2fc4a5" stroke-width="1.4" stroke-linecap="round"/>
+    <ellipse cx="-2.5" cy="-5" rx="2.8" ry="4.5" fill="#c9a7ff" opacity="0.9" transform="rotate(-25,-2.5,-5)"/>
+    <ellipse cx="2.5" cy="-5" rx="2.8" ry="4.5" fill="#c9a7ff" opacity="0.9" transform="rotate(25,2.5,-5)"/>
+  </g>
+<rect x="660" y="32" width="22" height="22" rx="4" fill="#ff7ac6" opacity="0.05"/>
+
+  <g transform="translate(671,46) rotate(7.366788785505083)">
+    <line x1="0" y1="2" x2="0" y2="-7" stroke="#2fc4a5" stroke-width="1.4" stroke-linecap="round"/>
+    <ellipse cx="-2.5" cy="-5" rx="2.8" ry="4.5" fill="#ff7ac6" opacity="0.9" transform="rotate(-25,-2.5,-5)"/>
+    <ellipse cx="2.5" cy="-5" rx="2.8" ry="4.5" fill="#ff7ac6" opacity="0.9" transform="rotate(25,2.5,-5)"/>
+  </g>
+<circle cx="671" cy="69" r="0.8" fill="#2fc4a5" opacity="0.15"/>
+<circle cx="671" cy="95" r="0.8" fill="#2fc4a5" opacity="0.20"/>
+<circle cx="671" cy="121" r="0.8" fill="#2fc4a5" opacity="0.20"/>
+<circle cx="671" cy="147" r="0.8" fill="#2fc4a5" opacity="0.16"/>
+<circle cx="671" cy="173" r="0.8" fill="#2fc4a5" opacity="0.15"/>
+<circle cx="671" cy="199" r="0.8" fill="#2fc4a5" opacity="0.20"/>
+<rect x="686" y="32" width="22" height="22" rx="4" fill="#8ff0d8" opacity="0.05"/>
+
+  <g transform="translate(697,46) rotate(-1.6812181693371873)">
+    <line x1="0" y1="2" x2="0" y2="-7" stroke="#2fc4a5" stroke-width="1.4" stroke-linecap="round"/>
+    <ellipse cx="-2.5" cy="-5" rx="2.8" ry="4.5" fill="#8ff0d8" opacity="0.9" transform="rotate(-25,-2.5,-5)"/>
+    <ellipse cx="2.5" cy="-5" rx="2.8" ry="4.5" fill="#8ff0d8" opacity="0.9" transform="rotate(25,2.5,-5)"/>
+  </g>
+<rect x="686" y="58" width="22" height="22" rx="4" fill="#ff9bd8" opacity="0.07"/>
+
+  <g transform="translate(697,72)">
+    <line x1="0" y1="6" x2="0" y2="-2" stroke="#2fc4a5" stroke-width="1.2" stroke-linecap="round"/>
+    <ellipse cx="5.50" cy="0.17" rx="2.2" ry="4.8" fill="#ff9bd8" opacity="0.88" transform="rotate(1.8,5.50,0.17)"/><ellipse cx="2.60" cy="4.85" rx="2.2" ry="4.8" fill="#ff9bd8" opacity="0.88" transform="rotate(61.8,2.60,4.85)"/><ellipse cx="-2.90" cy="4.68" rx="2.2" ry="4.8" fill="#ff9bd8" opacity="0.88" transform="rotate(121.8,-2.90,4.68)"/><ellipse cx="-5.50" cy="-0.17" rx="2.2" ry="4.8" fill="#ff9bd8" opacity="0.88" transform="rotate(181.8,-5.50,-0.17)"/><ellipse cx="-2.60" cy="-4.85" rx="2.2" ry="4.8" fill="#ff9bd8" opacity="0.88" transform="rotate(241.8,-2.60,-4.85)"/><ellipse cx="2.90" cy="-4.68" rx="2.2" ry="4.8" fill="#ff9bd8" opacity="0.88" transform="rotate(301.8,2.90,-4.68)"/>
+    <circle r="2.4" fill="#fff3b0"/>
+  </g>
+<circle cx="697" cy="95" r="0.8" fill="#2fc4a5" opacity="0.22"/>
+<circle cx="697" cy="121" r="0.8" fill="#2fc4a5" opacity="0.21"/>
+<circle cx="697" cy="147" r="0.8" fill="#2fc4a5" opacity="0.21"/>
+<circle cx="697" cy="173" r="0.8" fill="#2fc4a5" opacity="0.13"/>
+<circle cx="697" cy="199" r="0.8" fill="#2fc4a5" opacity="0.18"/>
+<circle cx="723" cy="43" r="0.8" fill="#2fc4a5" opacity="0.17"/>
+<circle cx="723" cy="69" r="0.8" fill="#2fc4a5" opacity="0.13"/>
+<circle cx="723" cy="95" r="0.8" fill="#2fc4a5" opacity="0.15"/>
+<circle cx="723" cy="121" r="0.8" fill="#2fc4a5" opacity="0.21"/>
+<circle cx="723" cy="147" r="0.8" fill="#2fc4a5" opacity="0.15"/>
+<circle cx="723" cy="173" r="0.8" fill="#2fc4a5" opacity="0.16"/>
+<circle cx="723" cy="199" r="0.8" fill="#2fc4a5" opacity="0.20"/>
+<circle cx="749" cy="43" r="0.8" fill="#2fc4a5" opacity="0.17"/>
+<rect x="738" y="58" width="22" height="22" rx="4" fill="#ffd6e0" opacity="0.12"/>
+
+  <g transform="translate(749,71)">
+    <line x1="0" y1="7" x2="0" y2="-1" stroke="#2fc4a5" stroke-width="1.4" stroke-linecap="round"/>
+    <ellipse cx="5.97" cy="0.56" rx="3.5" ry="5.5" fill="#ffd6e0" opacity="0.85" transform="rotate(5.4,5.97,0.56)"/><ellipse cx="1.31" cy="5.85" rx="3.5" ry="5.5" fill="#ffd6e0" opacity="0.85" transform="rotate(77.4,1.31,5.85)"/><ellipse cx="-5.16" cy="3.06" rx="3.5" ry="5.5" fill="#ffd6e0" opacity="0.85" transform="rotate(149.4,-5.16,3.06)"/><ellipse cx="-4.50" cy="-3.97" rx="3.5" ry="5.5" fill="#ffd6e0" opacity="0.85" transform="rotate(221.4,-4.50,-3.97)"/><ellipse cx="2.38" cy="-5.51" rx="3.5" ry="5.5" fill="#ffd6e0" opacity="0.85" transform="rotate(293.4,2.38,-5.51)"/>
+    <circle r="3" fill="#fff3b0"/>
+    <circle r="3" fill="#ffd6e0" opacity="0.25">
+      <animate attributeName="r" values="3;5;3" dur="5.3s" begin="-0.6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.25;0;0.25" dur="5.3s" begin="-0.6s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+<rect x="738" y="84" width="22" height="22" rx="4" fill="#c9a7ff" opacity="0.06"/>
+
+  <g transform="translate(749,98) rotate(7.77525578309929)">
+    <line x1="0" y1="2" x2="0" y2="-7" stroke="#2fc4a5" stroke-width="1.4" stroke-linecap="round"/>
+    <ellipse cx="-2.5" cy="-5" rx="2.8" ry="4.5" fill="#c9a7ff" opacity="0.9" transform="rotate(-25,-2.5,-5)"/>
+    <ellipse cx="2.5" cy="-5" rx="2.8" ry="4.5" fill="#c9a7ff" opacity="0.9" transform="rotate(25,2.5,-5)"/>
+  </g>
+<circle cx="749" cy="121" r="0.8" fill="#2fc4a5" opacity="0.16"/>
+<rect x="738" y="136" width="22" height="22" rx="4" fill="#8ff0d8" opacity="0.05"/>
+
+  <g transform="translate(749,150) rotate(1.8537827123308688)">
+    <line x1="0" y1="2" x2="0" y2="-7" stroke="#2fc4a5" stroke-width="1.4" stroke-linecap="round"/>
+    <ellipse cx="-2.5" cy="-5" rx="2.8" ry="4.5" fill="#8ff0d8" opacity="0.9" transform="rotate(-25,-2.5,-5)"/>
+    <ellipse cx="2.5" cy="-5" rx="2.8" ry="4.5" fill="#8ff0d8" opacity="0.9" transform="rotate(25,2.5,-5)"/>
+  </g>
+<circle cx="749" cy="173" r="0.8" fill="#2fc4a5" opacity="0.20"/>
+<circle cx="749" cy="199" r="0.8" fill="#2fc4a5" opacity="0.18"/>
+<circle cx="775" cy="43" r="0.8" fill="#2fc4a5" opacity="0.18"/>
+<circle cx="775" cy="69" r="0.8" fill="#2fc4a5" opacity="0.17"/>
+<circle cx="775" cy="95" r="0.8" fill="#2fc4a5" opacity="0.13"/>
+<rect x="764" y="110" width="22" height="22" rx="4" fill="#b28dff" opacity="0.10"/>
+
+  <g transform="translate(775,123)">
+    <line x1="0" y1="7" x2="0" y2="-1" stroke="#2fc4a5" stroke-width="1.4" stroke-linecap="round"/>
+    <ellipse cx="5.45" cy="2.52" rx="3.5" ry="5.5" fill="#b28dff" opacity="0.85" transform="rotate(24.8,5.45,2.52)"/><ellipse cx="-0.71" cy="5.96" rx="3.5" ry="5.5" fill="#b28dff" opacity="0.85" transform="rotate(96.8,-0.71,5.96)"/><ellipse cx="-5.89" cy="1.17" rx="3.5" ry="5.5" fill="#b28dff" opacity="0.85" transform="rotate(168.8,-5.89,1.17)"/><ellipse cx="-2.93" cy="-5.24" rx="3.5" ry="5.5" fill="#b28dff" opacity="0.85" transform="rotate(240.8,-2.93,-5.24)"/><ellipse cx="4.08" cy="-4.40" rx="3.5" ry="5.5" fill="#b28dff" opacity="0.85" transform="rotate(312.8,4.08,-4.40)"/>
+    <circle r="3" fill="#fff3b0"/>
+    <circle r="3" fill="#b28dff" opacity="0.25">
+      <animate attributeName="r" values="3;5;3" dur="4.2s" begin="-4.3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.25;0;0.25" dur="4.2s" begin="-4.3s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+<circle cx="775" cy="147" r="0.8" fill="#2fc4a5" opacity="0.12"/>
+<circle cx="775" cy="173" r="0.8" fill="#2fc4a5" opacity="0.13"/>
+<circle cx="775" cy="199" r="0.8" fill="#2fc4a5" opacity="0.20"/>
+<circle cx="801" cy="43" r="0.8" fill="#2fc4a5" opacity="0.13"/>
+<circle cx="801" cy="69" r="0.8" fill="#2fc4a5" opacity="0.16"/>
+<circle cx="801" cy="95" r="0.8" fill="#2fc4a5" opacity="0.16"/>
+<rect x="790" y="110" width="22" height="22" rx="4" fill="#ff9bd8" opacity="0.07"/>
+
+  <g transform="translate(801,124)">
+    <line x1="0" y1="6" x2="0" y2="-2" stroke="#2fc4a5" stroke-width="1.2" stroke-linecap="round"/>
+    <ellipse cx="5.50" cy="0.05" rx="2.2" ry="4.8" fill="#ff9bd8" opacity="0.88" transform="rotate(0.5,5.50,0.05)"/><ellipse cx="2.71" cy="4.79" rx="2.2" ry="4.8" fill="#ff9bd8" opacity="0.88" transform="rotate(60.5,2.71,4.79)"/><ellipse cx="-2.79" cy="4.74" rx="2.2" ry="4.8" fill="#ff9bd8" opacity="0.88" transform="rotate(120.5,-2.79,4.74)"/><ellipse cx="-5.50" cy="-0.05" rx="2.2" ry="4.8" fill="#ff9bd8" opacity="0.88" transform="rotate(180.5,-5.50,-0.05)"/><ellipse cx="-2.71" cy="-4.79" rx="2.2" ry="4.8" fill="#ff9bd8" opacity="0.88" transform="rotate(240.5,-2.71,-4.79)"/><ellipse cx="2.79" cy="-4.74" rx="2.2" ry="4.8" fill="#ff9bd8" opacity="0.88" transform="rotate(300.5,2.79,-4.74)"/>
+    <circle r="2.4" fill="#fff3b0"/>
+  </g>
+<circle cx="801" cy="147" r="0.8" fill="#2fc4a5" opacity="0.17"/>
+<circle cx="801" cy="173" r="0.8" fill="#2fc4a5" opacity="0.15"/>
+<rect x="790" y="188" width="22" height="22" rx="4" fill="#6be3ff" opacity="0.12"/>
+
+  <g transform="translate(801,200)">
+    <circle r="10.9" fill="#6be3ff" opacity="0.08">
+      <animate attributeName="opacity" values="0.08;0.18;0.08" dur="3.9s" begin="-4.9s" repeatCount="indefinite"/>
+    </circle>
+    <line x1="0" y1="8" x2="0" y2="0" stroke="#2fc4a5" stroke-width="1.5" stroke-linecap="round"/>
+    <ellipse cx="0.00" cy="-6.50" rx="4" ry="7" fill="#6be3ff" opacity="0.7" transform="rotate(-90.0,0.00,-6.50)"/><ellipse cx="6.18" cy="-2.01" rx="4" ry="7" fill="#6be3ff" opacity="0.7" transform="rotate(-18.0,6.18,-2.01)"/><ellipse cx="3.82" cy="5.26" rx="4" ry="7" fill="#6be3ff" opacity="0.7" transform="rotate(54.0,3.82,5.26)"/><ellipse cx="-3.82" cy="5.26" rx="4" ry="7" fill="#6be3ff" opacity="0.7" transform="rotate(126.0,-3.82,5.26)"/><ellipse cx="-6.18" cy="-2.01" rx="4" ry="7" fill="#6be3ff" opacity="0.7" transform="rotate(198.0,-6.18,-2.01)"/>
+    <ellipse cx="2.06" cy="-2.83" rx="2.5" ry="4.5" fill="#6be3ff" opacity="0.9" transform="rotate(-54.0,2.06,-2.83)"/><ellipse cx="3.33" cy="1.08" rx="2.5" ry="4.5" fill="#6be3ff" opacity="0.9" transform="rotate(18.0,3.33,1.08)"/><ellipse cx="0.00" cy="3.50" rx="2.5" ry="4.5" fill="#6be3ff" opacity="0.9" transform="rotate(90.0,0.00,3.50)"/><ellipse cx="-3.33" cy="1.08" rx="2.5" ry="4.5" fill="#6be3ff" opacity="0.9" transform="rotate(162.0,-3.33,1.08)"/><ellipse cx="-2.06" cy="-2.83" rx="2.5" ry="4.5" fill="#6be3ff" opacity="0.9" transform="rotate(234.0,-2.06,-2.83)"/>
+    <circle r="2.8" fill="#fff3b0"/>
+    <circle r="1.4" fill="#fffde7"/>
+  </g>
+<circle cx="827" cy="43" r="0.8" fill="#2fc4a5" opacity="0.16"/>
+<rect x="816" y="58" width="22" height="22" rx="4" fill="#b28dff" opacity="0.12"/>
+
+  <g transform="translate(827,71)">
+    <line x1="0" y1="7" x2="0" y2="-1" stroke="#2fc4a5" stroke-width="1.4" stroke-linecap="round"/>
+    <ellipse cx="4.55" cy="3.91" rx="3.5" ry="5.5" fill="#b28dff" opacity="0.85" transform="rotate(40.7,4.55,3.91)"/><ellipse cx="-2.31" cy="5.54" rx="3.5" ry="5.5" fill="#b28dff" opacity="0.85" transform="rotate(112.7,-2.31,5.54)"/><ellipse cx="-5.98" cy="-0.49" rx="3.5" ry="5.5" fill="#b28dff" opacity="0.85" transform="rotate(184.7,-5.98,-0.49)"/><ellipse cx="-1.38" cy="-5.84" rx="3.5" ry="5.5" fill="#b28dff" opacity="0.85" transform="rotate(256.7,-1.38,-5.84)"/><ellipse cx="5.13" cy="-3.12" rx="3.5" ry="5.5" fill="#b28dff" opacity="0.85" transform="rotate(328.7,5.13,-3.12)"/>
+    <circle r="3" fill="#fff3b0"/>
+    <circle r="3" fill="#b28dff" opacity="0.25">
+      <animate attributeName="r" values="3;5;3" dur="5.2s" begin="-5.9s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.25;0;0.25" dur="5.2s" begin="-5.9s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+<circle cx="827" cy="95" r="0.8" fill="#2fc4a5" opacity="0.16"/>
+<circle cx="827" cy="121" r="0.8" fill="#2fc4a5" opacity="0.14"/>
+<circle cx="827" cy="147" r="0.8" fill="#2fc4a5" opacity="0.17"/>
+<circle cx="827" cy="173" r="0.8" fill="#2fc4a5" opacity="0.12"/>
+<circle cx="827" cy="199" r="0.8" fill="#2fc4a5" opacity="0.21"/>
+<circle cx="853" cy="43" r="0.8" fill="#2fc4a5" opacity="0.22"/>
+<circle cx="853" cy="69" r="0.8" fill="#2fc4a5" opacity="0.15"/>
+<circle cx="853" cy="95" r="0.8" fill="#2fc4a5" opacity="0.19"/>
+<circle cx="853" cy="121" r="0.8" fill="#2fc4a5" opacity="0.19"/>
+<circle cx="853" cy="147" r="0.8" fill="#2fc4a5" opacity="0.14"/>
+<circle cx="853" cy="173" r="0.8" fill="#2fc4a5" opacity="0.20"/>
+<circle cx="853" cy="199" r="0.8" fill="#2fc4a5" opacity="0.15"/>
+<rect x="868" y="32" width="22" height="22" rx="4" fill="#ff9bd8" opacity="0.08"/>
+
+  <g transform="translate(879,46)">
+    <line x1="0" y1="6" x2="0" y2="-2" stroke="#2fc4a5" stroke-width="1.2" stroke-linecap="round"/>
+    <ellipse cx="5.49" cy="0.37" rx="2.2" ry="4.8" fill="#ff9bd8" opacity="0.88" transform="rotate(3.8,5.49,0.37)"/><ellipse cx="2.43" cy="4.94" rx="2.2" ry="4.8" fill="#ff9bd8" opacity="0.88" transform="rotate(63.8,2.43,4.94)"/><ellipse cx="-3.06" cy="4.57" rx="2.2" ry="4.8" fill="#ff9bd8" opacity="0.88" transform="rotate(123.8,-3.06,4.57)"/><ellipse cx="-5.49" cy="-0.37" rx="2.2" ry="4.8" fill="#ff9bd8" opacity="0.88" transform="rotate(183.8,-5.49,-0.37)"/><ellipse cx="-2.43" cy="-4.94" rx="2.2" ry="4.8" fill="#ff9bd8" opacity="0.88" transform="rotate(243.8,-2.43,-4.94)"/><ellipse cx="3.06" cy="-4.57" rx="2.2" ry="4.8" fill="#ff9bd8" opacity="0.88" transform="rotate(303.8,3.06,-4.57)"/>
+    <circle r="2.4" fill="#fff3b0"/>
+  </g>
+<rect x="868" y="58" width="22" height="22" rx="4" fill="#6be3ff" opacity="0.07"/>
+
+  <g transform="translate(879,72)">
+    <line x1="0" y1="6" x2="0" y2="-2" stroke="#2fc4a5" stroke-width="1.2" stroke-linecap="round"/>
+    <ellipse cx="4.09" cy="3.68" rx="2.2" ry="4.8" fill="#6be3ff" opacity="0.88" transform="rotate(42.0,4.09,3.68)"/><ellipse cx="-1.14" cy="5.38" rx="2.2" ry="4.8" fill="#6be3ff" opacity="0.88" transform="rotate(102.0,-1.14,5.38)"/><ellipse cx="-5.23" cy="1.70" rx="2.2" ry="4.8" fill="#6be3ff" opacity="0.88" transform="rotate(162.0,-5.23,1.70)"/><ellipse cx="-4.09" cy="-3.68" rx="2.2" ry="4.8" fill="#6be3ff" opacity="0.88" transform="rotate(222.0,-4.09,-3.68)"/><ellipse cx="1.14" cy="-5.38" rx="2.2" ry="4.8" fill="#6be3ff" opacity="0.88" transform="rotate(282.0,1.14,-5.38)"/><ellipse cx="5.23" cy="-1.70" rx="2.2" ry="4.8" fill="#6be3ff" opacity="0.88" transform="rotate(342.0,5.23,-1.70)"/>
+    <circle r="2.4" fill="#fff3b0"/>
+  </g>
+<rect x="868" y="84" width="22" height="22" rx="4" fill="#ff7ac6" opacity="0.07"/>
+
+  <g transform="translate(879,98)">
+    <line x1="0" y1="6" x2="0" y2="-2" stroke="#2fc4a5" stroke-width="1.2" stroke-linecap="round"/>
+    <ellipse cx="4.81" cy="2.67" rx="2.2" ry="4.8" fill="#ff7ac6" opacity="0.88" transform="rotate(29.0,4.81,2.67)"/><ellipse cx="0.09" cy="5.50" rx="2.2" ry="4.8" fill="#ff7ac6" opacity="0.88" transform="rotate(89.0,0.09,5.50)"/><ellipse cx="-4.72" cy="2.83" rx="2.2" ry="4.8" fill="#ff7ac6" opacity="0.88" transform="rotate(149.0,-4.72,2.83)"/><ellipse cx="-4.81" cy="-2.67" rx="2.2" ry="4.8" fill="#ff7ac6" opacity="0.88" transform="rotate(209.0,-4.81,-2.67)"/><ellipse cx="-0.09" cy="-5.50" rx="2.2" ry="4.8" fill="#ff7ac6" opacity="0.88" transform="rotate(269.0,-0.09,-5.50)"/><ellipse cx="4.72" cy="-2.83" rx="2.2" ry="4.8" fill="#ff7ac6" opacity="0.88" transform="rotate(329.0,4.72,-2.83)"/>
+    <circle r="2.4" fill="#fff3b0"/>
+  </g>
+<rect x="868" y="110" width="22" height="22" rx="4" fill="#ffeaa7" opacity="0.09"/>
+
+  <g transform="translate(879,123)">
+    <line x1="0" y1="7" x2="0" y2="-1" stroke="#2fc4a5" stroke-width="1.4" stroke-linecap="round"/>
+    <ellipse cx="5.26" cy="2.88" rx="3.5" ry="5.5" fill="#ffeaa7" opacity="0.85" transform="rotate(28.7,5.26,2.88)"/><ellipse cx="-1.12" cy="5.90" rx="3.5" ry="5.5" fill="#ffeaa7" opacity="0.85" transform="rotate(100.7,-1.12,5.90)"/><ellipse cx="-5.95" cy="0.76" rx="3.5" ry="5.5" fill="#ffeaa7" opacity="0.85" transform="rotate(172.7,-5.95,0.76)"/><ellipse cx="-2.56" cy="-5.43" rx="3.5" ry="5.5" fill="#ffeaa7" opacity="0.85" transform="rotate(244.7,-2.56,-5.43)"/><ellipse cx="4.37" cy="-4.11" rx="3.5" ry="5.5" fill="#ffeaa7" opacity="0.85" transform="rotate(316.7,4.37,-4.11)"/>
+    <circle r="3" fill="#fff3b0"/>
+    <circle r="3" fill="#ffeaa7" opacity="0.25">
+      <animate attributeName="r" values="3;5;3" dur="5.4s" begin="-1.9s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.25;0;0.25" dur="5.4s" begin="-1.9s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+<circle cx="879" cy="147" r="0.8" fill="#2fc4a5" opacity="0.21"/>
+<rect x="868" y="162" width="22" height="22" rx="4" fill="#8ff0d8" opacity="0.05"/>
+
+  <g transform="translate(879,176) rotate(0.8641820712357138)">
+    <line x1="0" y1="2" x2="0" y2="-7" stroke="#2fc4a5" stroke-width="1.4" stroke-linecap="round"/>
+    <ellipse cx="-2.5" cy="-5" rx="2.8" ry="4.5" fill="#8ff0d8" opacity="0.9" transform="rotate(-25,-2.5,-5)"/>
+    <ellipse cx="2.5" cy="-5" rx="2.8" ry="4.5" fill="#8ff0d8" opacity="0.9" transform="rotate(25,2.5,-5)"/>
+  </g>
+<circle cx="879" cy="199" r="0.8" fill="#2fc4a5" opacity="0.19"/>
+<circle cx="905" cy="43" r="0.8" fill="#2fc4a5" opacity="0.21"/>
+<rect x="894" y="58" width="22" height="22" rx="4" fill="#8ff0d8" opacity="0.05"/>
+
+  <g transform="translate(905,72) rotate(-6.569421189338545)">
+    <line x1="0" y1="2" x2="0" y2="-7" stroke="#2fc4a5" stroke-width="1.4" stroke-linecap="round"/>
+    <ellipse cx="-2.5" cy="-5" rx="2.8" ry="4.5" fill="#8ff0d8" opacity="0.9" transform="rotate(-25,-2.5,-5)"/>
+    <ellipse cx="2.5" cy="-5" rx="2.8" ry="4.5" fill="#8ff0d8" opacity="0.9" transform="rotate(25,2.5,-5)"/>
+  </g>
+<circle cx="905" cy="95" r="0.8" fill="#2fc4a5" opacity="0.19"/>
+<rect x="894" y="110" width="22" height="22" rx="4" fill="#b28dff" opacity="0.07"/>
+
+  <g transform="translate(905,124)">
+    <line x1="0" y1="6" x2="0" y2="-2" stroke="#2fc4a5" stroke-width="1.2" stroke-linecap="round"/>
+    <ellipse cx="5.15" cy="1.93" rx="2.2" ry="4.8" fill="#b28dff" opacity="0.88" transform="rotate(20.5,5.15,1.93)"/><ellipse cx="0.91" cy="5.42" rx="2.2" ry="4.8" fill="#b28dff" opacity="0.88" transform="rotate(80.5,0.91,5.42)"/><ellipse cx="-4.24" cy="3.50" rx="2.2" ry="4.8" fill="#b28dff" opacity="0.88" transform="rotate(140.5,-4.24,3.50)"/><ellipse cx="-5.15" cy="-1.93" rx="2.2" ry="4.8" fill="#b28dff" opacity="0.88" transform="rotate(200.5,-5.15,-1.93)"/><ellipse cx="-0.91" cy="-5.42" rx="2.2" ry="4.8" fill="#b28dff" opacity="0.88" transform="rotate(260.5,-0.91,-5.42)"/><ellipse cx="4.24" cy="-3.50" rx="2.2" ry="4.8" fill="#b28dff" opacity="0.88" transform="rotate(320.5,4.24,-3.50)"/>
+    <circle r="2.4" fill="#fff3b0"/>
+  </g>
+<rect x="894" y="136" width="22" height="22" rx="4" fill="#ffd6e0" opacity="0.08"/>
+
+  <g transform="translate(905,150)">
+    <line x1="0" y1="6" x2="0" y2="-2" stroke="#2fc4a5" stroke-width="1.2" stroke-linecap="round"/>
+    <ellipse cx="5.14" cy="1.95" rx="2.2" ry="4.8" fill="#ffd6e0" opacity="0.88" transform="rotate(20.8,5.14,1.95)"/><ellipse cx="0.88" cy="5.43" rx="2.2" ry="4.8" fill="#ffd6e0" opacity="0.88" transform="rotate(80.8,0.88,5.43)"/><ellipse cx="-4.26" cy="3.48" rx="2.2" ry="4.8" fill="#ffd6e0" opacity="0.88" transform="rotate(140.8,-4.26,3.48)"/><ellipse cx="-5.14" cy="-1.95" rx="2.2" ry="4.8" fill="#ffd6e0" opacity="0.88" transform="rotate(200.8,-5.14,-1.95)"/><ellipse cx="-0.88" cy="-5.43" rx="2.2" ry="4.8" fill="#ffd6e0" opacity="0.88" transform="rotate(260.8,-0.88,-5.43)"/><ellipse cx="4.26" cy="-3.48" rx="2.2" ry="4.8" fill="#ffd6e0" opacity="0.88" transform="rotate(320.8,4.26,-3.48)"/>
+    <circle r="2.4" fill="#fff3b0"/>
+  </g>
+<rect x="894" y="162" width="22" height="22" rx="4" fill="#ff9bd8" opacity="0.08"/>
+
+  <g transform="translate(905,176)">
+    <line x1="0" y1="6" x2="0" y2="-2" stroke="#2fc4a5" stroke-width="1.2" stroke-linecap="round"/>
+    <ellipse cx="4.19" cy="3.56" rx="2.2" ry="4.8" fill="#ff9bd8" opacity="0.88" transform="rotate(40.4,4.19,3.56)"/><ellipse cx="-0.99" cy="5.41" rx="2.2" ry="4.8" fill="#ff9bd8" opacity="0.88" transform="rotate(100.4,-0.99,5.41)"/><ellipse cx="-5.18" cy="1.85" rx="2.2" ry="4.8" fill="#ff9bd8" opacity="0.88" transform="rotate(160.4,-5.18,1.85)"/><ellipse cx="-4.19" cy="-3.56" rx="2.2" ry="4.8" fill="#ff9bd8" opacity="0.88" transform="rotate(220.4,-4.19,-3.56)"/><ellipse cx="0.99" cy="-5.41" rx="2.2" ry="4.8" fill="#ff9bd8" opacity="0.88" transform="rotate(280.4,0.99,-5.41)"/><ellipse cx="5.18" cy="-1.85" rx="2.2" ry="4.8" fill="#ff9bd8" opacity="0.88" transform="rotate(340.4,5.18,-1.85)"/>
+    <circle r="2.4" fill="#fff3b0"/>
+  </g>
+<circle cx="905" cy="199" r="0.8" fill="#2fc4a5" opacity="0.18"/>
+<circle cx="931" cy="43" r="0.8" fill="#2fc4a5" opacity="0.20"/>
+<rect x="920" y="58" width="22" height="22" rx="4" fill="#c9a7ff" opacity="0.06"/>
+
+  <g transform="translate(931,72) rotate(-11.43847096155536)">
+    <line x1="0" y1="2" x2="0" y2="-7" stroke="#2fc4a5" stroke-width="1.4" stroke-linecap="round"/>
+    <ellipse cx="-2.5" cy="-5" rx="2.8" ry="4.5" fill="#c9a7ff" opacity="0.9" transform="rotate(-25,-2.5,-5)"/>
+    <ellipse cx="2.5" cy="-5" rx="2.8" ry="4.5" fill="#c9a7ff" opacity="0.9" transform="rotate(25,2.5,-5)"/>
+  </g>
+<circle cx="931" cy="95" r="0.8" fill="#2fc4a5" opacity="0.21"/>
+<circle cx="931" cy="121" r="0.8" fill="#2fc4a5" opacity="0.19"/>
+<circle cx="931" cy="147" r="0.8" fill="#2fc4a5" opacity="0.15"/>
+<rect x="920" y="162" width="22" height="22" rx="4" fill="#ff7ac6" opacity="0.05"/>
+
+  <g transform="translate(931,176) rotate(14.339818484023251)">
+    <line x1="0" y1="2" x2="0" y2="-7" stroke="#2fc4a5" stroke-width="1.4" stroke-linecap="round"/>
+    <ellipse cx="-2.5" cy="-5" rx="2.8" ry="4.5" fill="#ff7ac6" opacity="0.9" transform="rotate(-25,-2.5,-5)"/>
+    <ellipse cx="2.5" cy="-5" rx="2.8" ry="4.5" fill="#ff7ac6" opacity="0.9" transform="rotate(25,2.5,-5)"/>
+  </g>
+<circle cx="931" cy="199" r="0.8" fill="#2fc4a5" opacity="0.21"/>
+<circle cx="957" cy="43" r="0.8" fill="#2fc4a5" opacity="0.13"/>
+<circle cx="957" cy="69" r="0.8" fill="#2fc4a5" opacity="0.21"/>
+<circle cx="957" cy="95" r="0.8" fill="#2fc4a5" opacity="0.17"/>
+<circle cx="957" cy="121" r="0.8" fill="#2fc4a5" opacity="0.20"/>
+<rect x="946" y="136" width="22" height="22" rx="4" fill="#6be3ff" opacity="0.14"/>
+
+  <g transform="translate(957,148)">
+    <circle r="8.8" fill="#6be3ff" opacity="0.08">
+      <animate attributeName="opacity" values="0.08;0.18;0.08" dur="3.2s" begin="-0.7s" repeatCount="indefinite"/>
+    </circle>
+    <line x1="0" y1="8" x2="0" y2="0" stroke="#2fc4a5" stroke-width="1.5" stroke-linecap="round"/>
+    <ellipse cx="0.00" cy="-6.50" rx="4" ry="7" fill="#6be3ff" opacity="0.7" transform="rotate(-90.0,0.00,-6.50)"/><ellipse cx="6.18" cy="-2.01" rx="4" ry="7" fill="#6be3ff" opacity="0.7" transform="rotate(-18.0,6.18,-2.01)"/><ellipse cx="3.82" cy="5.26" rx="4" ry="7" fill="#6be3ff" opacity="0.7" transform="rotate(54.0,3.82,5.26)"/><ellipse cx="-3.82" cy="5.26" rx="4" ry="7" fill="#6be3ff" opacity="0.7" transform="rotate(126.0,-3.82,5.26)"/><ellipse cx="-6.18" cy="-2.01" rx="4" ry="7" fill="#6be3ff" opacity="0.7" transform="rotate(198.0,-6.18,-2.01)"/>
+    <ellipse cx="2.06" cy="-2.83" rx="2.5" ry="4.5" fill="#6be3ff" opacity="0.9" transform="rotate(-54.0,2.06,-2.83)"/><ellipse cx="3.33" cy="1.08" rx="2.5" ry="4.5" fill="#6be3ff" opacity="0.9" transform="rotate(18.0,3.33,1.08)"/><ellipse cx="0.00" cy="3.50" rx="2.5" ry="4.5" fill="#6be3ff" opacity="0.9" transform="rotate(90.0,0.00,3.50)"/><ellipse cx="-3.33" cy="1.08" rx="2.5" ry="4.5" fill="#6be3ff" opacity="0.9" transform="rotate(162.0,-3.33,1.08)"/><ellipse cx="-2.06" cy="-2.83" rx="2.5" ry="4.5" fill="#6be3ff" opacity="0.9" transform="rotate(234.0,-2.06,-2.83)"/>
+    <circle r="2.8" fill="#fff3b0"/>
+    <circle r="1.4" fill="#fffde7"/>
+  </g>
+<rect x="946" y="162" width="22" height="22" rx="4" fill="#ff7ac6" opacity="0.08"/>
+
+  <g transform="translate(957,176)">
+    <line x1="0" y1="6" x2="0" y2="-2" stroke="#2fc4a5" stroke-width="1.2" stroke-linecap="round"/>
+    <ellipse cx="5.05" cy="2.17" rx="2.2" ry="4.8" fill="#ff7ac6" opacity="0.88" transform="rotate(23.3,5.05,2.17)"/><ellipse cx="0.65" cy="5.46" rx="2.2" ry="4.8" fill="#ff7ac6" opacity="0.88" transform="rotate(83.3,0.65,5.46)"/><ellipse cx="-4.41" cy="3.29" rx="2.2" ry="4.8" fill="#ff7ac6" opacity="0.88" transform="rotate(143.3,-4.41,3.29)"/><ellipse cx="-5.05" cy="-2.17" rx="2.2" ry="4.8" fill="#ff7ac6" opacity="0.88" transform="rotate(203.3,-5.05,-2.17)"/><ellipse cx="-0.65" cy="-5.46" rx="2.2" ry="4.8" fill="#ff7ac6" opacity="0.88" transform="rotate(263.3,-0.65,-5.46)"/><ellipse cx="4.41" cy="-3.29" rx="2.2" ry="4.8" fill="#ff7ac6" opacity="0.88" transform="rotate(323.3,4.41,-3.29)"/>
+    <circle r="2.4" fill="#fff3b0"/>
+  </g>
+<circle cx="957" cy="199" r="0.8" fill="#2fc4a5" opacity="0.16"/>
+<rect x="972" y="32" width="22" height="22" rx="4" fill="#b28dff" opacity="0.08"/>
+
+  <g transform="translate(983,46)">
+    <line x1="0" y1="6" x2="0" y2="-2" stroke="#2fc4a5" stroke-width="1.2" stroke-linecap="round"/>
+    <ellipse cx="3.78" cy="4.00" rx="2.2" ry="4.8" fill="#b28dff" opacity="0.88" transform="rotate(46.6,3.78,4.00)"/><ellipse cx="-1.57" cy="5.27" rx="2.2" ry="4.8" fill="#b28dff" opacity="0.88" transform="rotate(106.6,-1.57,5.27)"/><ellipse cx="-5.35" cy="1.27" rx="2.2" ry="4.8" fill="#b28dff" opacity="0.88" transform="rotate(166.6,-5.35,1.27)"/><ellipse cx="-3.78" cy="-4.00" rx="2.2" ry="4.8" fill="#b28dff" opacity="0.88" transform="rotate(226.6,-3.78,-4.00)"/><ellipse cx="1.57" cy="-5.27" rx="2.2" ry="4.8" fill="#b28dff" opacity="0.88" transform="rotate(286.6,1.57,-5.27)"/><ellipse cx="5.35" cy="-1.27" rx="2.2" ry="4.8" fill="#b28dff" opacity="0.88" transform="rotate(346.6,5.35,-1.27)"/>
+    <circle r="2.4" fill="#fff3b0"/>
+  </g>
+<rect x="972" y="58" width="22" height="22" rx="4" fill="#ffd6e0" opacity="0.07"/>
+
+  <g transform="translate(983,72)">
+    <line x1="0" y1="6" x2="0" y2="-2" stroke="#2fc4a5" stroke-width="1.2" stroke-linecap="round"/>
+    <ellipse cx="4.65" cy="2.94" rx="2.2" ry="4.8" fill="#ffd6e0" opacity="0.88" transform="rotate(32.3,4.65,2.94)"/><ellipse cx="-0.22" cy="5.50" rx="2.2" ry="4.8" fill="#ffd6e0" opacity="0.88" transform="rotate(92.3,-0.22,5.50)"/><ellipse cx="-4.87" cy="2.56" rx="2.2" ry="4.8" fill="#ffd6e0" opacity="0.88" transform="rotate(152.3,-4.87,2.56)"/><ellipse cx="-4.65" cy="-2.94" rx="2.2" ry="4.8" fill="#ffd6e0" opacity="0.88" transform="rotate(212.3,-4.65,-2.94)"/><ellipse cx="0.22" cy="-5.50" rx="2.2" ry="4.8" fill="#ffd6e0" opacity="0.88" transform="rotate(272.3,0.22,-5.50)"/><ellipse cx="4.87" cy="-2.56" rx="2.2" ry="4.8" fill="#ffd6e0" opacity="0.88" transform="rotate(332.3,4.87,-2.56)"/>
+    <circle r="2.4" fill="#fff3b0"/>
+  </g>
+<circle cx="983" cy="95" r="0.8" fill="#2fc4a5" opacity="0.16"/>
+<rect x="972" y="110" width="22" height="22" rx="4" fill="#ff9bd8" opacity="0.12"/>
+
+  <g transform="translate(983,123)">
+    <line x1="0" y1="7" x2="0" y2="-1" stroke="#2fc4a5" stroke-width="1.4" stroke-linecap="round"/>
+    <ellipse cx="5.99" cy="0.42" rx="3.5" ry="5.5" fill="#ff9bd8" opacity="0.85" transform="rotate(4.0,5.99,0.42)"/><ellipse cx="1.45" cy="5.82" rx="3.5" ry="5.5" fill="#ff9bd8" opacity="0.85" transform="rotate(76.0,1.45,5.82)"/><ellipse cx="-5.09" cy="3.18" rx="3.5" ry="5.5" fill="#ff9bd8" opacity="0.85" transform="rotate(148.0,-5.09,3.18)"/><ellipse cx="-4.60" cy="-3.86" rx="3.5" ry="5.5" fill="#ff9bd8" opacity="0.85" transform="rotate(220.0,-4.60,-3.86)"/><ellipse cx="2.25" cy="-5.56" rx="3.5" ry="5.5" fill="#ff9bd8" opacity="0.85" transform="rotate(292.0,2.25,-5.56)"/>
+    <circle r="3" fill="#fff3b0"/>
+    <circle r="3" fill="#ff9bd8" opacity="0.25">
+      <animate attributeName="r" values="3;5;3" dur="4.9s" begin="-1.2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.25;0;0.25" dur="4.9s" begin="-1.2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+<circle cx="983" cy="147" r="0.8" fill="#2fc4a5" opacity="0.17"/>
+<rect x="972" y="162" width="22" height="22" rx="4" fill="#c9a7ff" opacity="0.06"/>
+
+  <g transform="translate(983,176) rotate(-5.488078055241042)">
+    <line x1="0" y1="2" x2="0" y2="-7" stroke="#2fc4a5" stroke-width="1.4" stroke-linecap="round"/>
+    <ellipse cx="-2.5" cy="-5" rx="2.8" ry="4.5" fill="#c9a7ff" opacity="0.9" transform="rotate(-25,-2.5,-5)"/>
+    <ellipse cx="2.5" cy="-5" rx="2.8" ry="4.5" fill="#c9a7ff" opacity="0.9" transform="rotate(25,2.5,-5)"/>
+  </g>
+<circle cx="983" cy="199" r="0.8" fill="#2fc4a5" opacity="0.19"/>
+<circle cx="1009" cy="43" r="0.8" fill="#2fc4a5" opacity="0.12"/>
+<circle cx="1009" cy="69" r="0.8" fill="#2fc4a5" opacity="0.14"/>
+<circle cx="1009" cy="95" r="0.8" fill="#2fc4a5" opacity="0.16"/>
+<circle cx="1009" cy="121" r="0.8" fill="#2fc4a5" opacity="0.15"/>
+<circle cx="1009" cy="147" r="0.8" fill="#2fc4a5" opacity="0.19"/>
+<circle cx="1009" cy="173" r="0.8" fill="#2fc4a5" opacity="0.18"/>
+<circle cx="1009" cy="199" r="0.8" fill="#2fc4a5" opacity="0.20"/>
+<circle cx="1035" cy="43" r="0.8" fill="#2fc4a5" opacity="0.22"/>
+<circle cx="1035" cy="69" r="0.8" fill="#2fc4a5" opacity="0.14"/>
+<circle cx="1035" cy="95" r="0.8" fill="#2fc4a5" opacity="0.20"/>
+<rect x="1024" y="110" width="22" height="22" rx="4" fill="#8ff0d8" opacity="0.08"/>
+
+  <g transform="translate(1035,124)">
+    <line x1="0" y1="6" x2="0" y2="-2" stroke="#2fc4a5" stroke-width="1.2" stroke-linecap="round"/>
+    <ellipse cx="5.50" cy="0.23" rx="2.2" ry="4.8" fill="#8ff0d8" opacity="0.88" transform="rotate(2.4,5.50,0.23)"/><ellipse cx="2.55" cy="4.87" rx="2.2" ry="4.8" fill="#8ff0d8" opacity="0.88" transform="rotate(62.4,2.55,4.87)"/><ellipse cx="-2.95" cy="4.64" rx="2.2" ry="4.8" fill="#8ff0d8" opacity="0.88" transform="rotate(122.4,-2.95,4.64)"/><ellipse cx="-5.50" cy="-0.23" rx="2.2" ry="4.8" fill="#8ff0d8" opacity="0.88" transform="rotate(182.4,-5.50,-0.23)"/><ellipse cx="-2.55" cy="-4.87" rx="2.2" ry="4.8" fill="#8ff0d8" opacity="0.88" transform="rotate(242.4,-2.55,-4.87)"/><ellipse cx="2.95" cy="-4.64" rx="2.2" ry="4.8" fill="#8ff0d8" opacity="0.88" transform="rotate(302.4,2.95,-4.64)"/>
+    <circle r="2.4" fill="#fff3b0"/>
+  </g>
+<rect x="1024" y="136" width="22" height="22" rx="4" fill="#b28dff" opacity="0.07"/>
+
+  <g transform="translate(1035,150)">
+    <line x1="0" y1="6" x2="0" y2="-2" stroke="#2fc4a5" stroke-width="1.2" stroke-linecap="round"/>
+    <ellipse cx="3.48" cy="4.26" rx="2.2" ry="4.8" fill="#b28dff" opacity="0.88" transform="rotate(50.8,3.48,4.26)"/><ellipse cx="-1.95" cy="5.14" rx="2.2" ry="4.8" fill="#b28dff" opacity="0.88" transform="rotate(110.8,-1.95,5.14)"/><ellipse cx="-5.43" cy="0.88" rx="2.2" ry="4.8" fill="#b28dff" opacity="0.88" transform="rotate(170.8,-5.43,0.88)"/><ellipse cx="-3.48" cy="-4.26" rx="2.2" ry="4.8" fill="#b28dff" opacity="0.88" transform="rotate(230.8,-3.48,-4.26)"/><ellipse cx="1.95" cy="-5.14" rx="2.2" ry="4.8" fill="#b28dff" opacity="0.88" transform="rotate(290.8,1.95,-5.14)"/><ellipse cx="5.43" cy="-0.88" rx="2.2" ry="4.8" fill="#b28dff" opacity="0.88" transform="rotate(350.8,5.43,-0.88)"/>
+    <circle r="2.4" fill="#fff3b0"/>
+  </g>
+<circle cx="1035" cy="173" r="0.8" fill="#2fc4a5" opacity="0.17"/>
+<rect x="1024" y="188" width="22" height="22" rx="4" fill="#c9a7ff" opacity="0.06"/>
+
+  <g transform="translate(1035,202) rotate(14.365610735903395)">
+    <line x1="0" y1="2" x2="0" y2="-7" stroke="#2fc4a5" stroke-width="1.4" stroke-linecap="round"/>
+    <ellipse cx="-2.5" cy="-5" rx="2.8" ry="4.5" fill="#c9a7ff" opacity="0.9" transform="rotate(-25,-2.5,-5)"/>
+    <ellipse cx="2.5" cy="-5" rx="2.8" ry="4.5" fill="#c9a7ff" opacity="0.9" transform="rotate(25,2.5,-5)"/>
+  </g>
+<rect x="1050" y="32" width="22" height="22" rx="4" fill="#ff7ac6" opacity="0.05"/>
+
+  <g transform="translate(1061,46) rotate(-9.238204956281068)">
+    <line x1="0" y1="2" x2="0" y2="-7" stroke="#2fc4a5" stroke-width="1.4" stroke-linecap="round"/>
+    <ellipse cx="-2.5" cy="-5" rx="2.8" ry="4.5" fill="#ff7ac6" opacity="0.9" transform="rotate(-25,-2.5,-5)"/>
+    <ellipse cx="2.5" cy="-5" rx="2.8" ry="4.5" fill="#ff7ac6" opacity="0.9" transform="rotate(25,2.5,-5)"/>
+  </g>
+<rect x="1050" y="58" width="22" height="22" rx="4" fill="#8ff0d8" opacity="0.05"/>
+
+  <g transform="translate(1061,72) rotate(-10.665461839983667)">
+    <line x1="0" y1="2" x2="0" y2="-7" stroke="#2fc4a5" stroke-width="1.4" stroke-linecap="round"/>
+    <ellipse cx="-2.5" cy="-5" rx="2.8" ry="4.5" fill="#8ff0d8" opacity="0.9" transform="rotate(-25,-2.5,-5)"/>
+    <ellipse cx="2.5" cy="-5" rx="2.8" ry="4.5" fill="#8ff0d8" opacity="0.9" transform="rotate(25,2.5,-5)"/>
+  </g>
+<rect x="1050" y="84" width="22" height="22" rx="4" fill="#c9a7ff" opacity="0.05"/>
+
+  <g transform="translate(1061,98) rotate(7.789319563443037)">
+    <line x1="0" y1="2" x2="0" y2="-7" stroke="#2fc4a5" stroke-width="1.4" stroke-linecap="round"/>
+    <ellipse cx="-2.5" cy="-5" rx="2.8" ry="4.5" fill="#c9a7ff" opacity="0.9" transform="rotate(-25,-2.5,-5)"/>
+    <ellipse cx="2.5" cy="-5" rx="2.8" ry="4.5" fill="#c9a7ff" opacity="0.9" transform="rotate(25,2.5,-5)"/>
+  </g>
+<rect x="1050" y="110" width="22" height="22" rx="4" fill="#b28dff" opacity="0.07"/>
+
+  <g transform="translate(1061,124)">
+    <line x1="0" y1="6" x2="0" y2="-2" stroke="#2fc4a5" stroke-width="1.2" stroke-linecap="round"/>
+    <ellipse cx="5.09" cy="2.09" rx="2.2" ry="4.8" fill="#b28dff" opacity="0.88" transform="rotate(22.4,5.09,2.09)"/><ellipse cx="0.73" cy="5.45" rx="2.2" ry="4.8" fill="#b28dff" opacity="0.88" transform="rotate(82.4,0.73,5.45)"/><ellipse cx="-4.36" cy="3.36" rx="2.2" ry="4.8" fill="#b28dff" opacity="0.88" transform="rotate(142.4,-4.36,3.36)"/><ellipse cx="-5.09" cy="-2.09" rx="2.2" ry="4.8" fill="#b28dff" opacity="0.88" transform="rotate(202.4,-5.09,-2.09)"/><ellipse cx="-0.73" cy="-5.45" rx="2.2" ry="4.8" fill="#b28dff" opacity="0.88" transform="rotate(262.4,-0.73,-5.45)"/><ellipse cx="4.36" cy="-3.36" rx="2.2" ry="4.8" fill="#b28dff" opacity="0.88" transform="rotate(322.4,4.36,-3.36)"/>
+    <circle r="2.4" fill="#fff3b0"/>
+  </g>
+<circle cx="1061" cy="147" r="0.8" fill="#2fc4a5" opacity="0.21"/>
+<circle cx="1061" cy="173" r="0.8" fill="#2fc4a5" opacity="0.21"/>
+<circle cx="1061" cy="199" r="0.8" fill="#2fc4a5" opacity="0.16"/>
+<circle cx="1087" cy="43" r="0.8" fill="#2fc4a5" opacity="0.15"/>
+<circle cx="1087" cy="69" r="0.8" fill="#2fc4a5" opacity="0.12"/>
+<rect x="1076" y="84" width="22" height="22" rx="4" fill="#b28dff" opacity="0.07"/>
+
+  <g transform="translate(1087,98)">
+    <line x1="0" y1="6" x2="0" y2="-2" stroke="#2fc4a5" stroke-width="1.2" stroke-linecap="round"/>
+    <ellipse cx="4.19" cy="3.56" rx="2.2" ry="4.8" fill="#b28dff" opacity="0.88" transform="rotate(40.3,4.19,3.56)"/><ellipse cx="-0.98" cy="5.41" rx="2.2" ry="4.8" fill="#b28dff" opacity="0.88" transform="rotate(100.3,-0.98,5.41)"/><ellipse cx="-5.18" cy="1.85" rx="2.2" ry="4.8" fill="#b28dff" opacity="0.88" transform="rotate(160.3,-5.18,1.85)"/><ellipse cx="-4.19" cy="-3.56" rx="2.2" ry="4.8" fill="#b28dff" opacity="0.88" transform="rotate(220.3,-4.19,-3.56)"/><ellipse cx="0.98" cy="-5.41" rx="2.2" ry="4.8" fill="#b28dff" opacity="0.88" transform="rotate(280.3,0.98,-5.41)"/><ellipse cx="5.18" cy="-1.85" rx="2.2" ry="4.8" fill="#b28dff" opacity="0.88" transform="rotate(340.3,5.18,-1.85)"/>
+    <circle r="2.4" fill="#fff3b0"/>
+  </g>
+<circle cx="1087" cy="121" r="0.8" fill="#2fc4a5" opacity="0.19"/>
+<circle cx="1087" cy="147" r="0.8" fill="#2fc4a5" opacity="0.12"/>
+<rect x="1076" y="162" width="22" height="22" rx="4" fill="#ff7ac6" opacity="0.06"/>
+
+  <g transform="translate(1087,176) rotate(2.4242272858703906)">
+    <line x1="0" y1="2" x2="0" y2="-7" stroke="#2fc4a5" stroke-width="1.4" stroke-linecap="round"/>
+    <ellipse cx="-2.5" cy="-5" rx="2.8" ry="4.5" fill="#ff7ac6" opacity="0.9" transform="rotate(-25,-2.5,-5)"/>
+    <ellipse cx="2.5" cy="-5" rx="2.8" ry="4.5" fill="#ff7ac6" opacity="0.9" transform="rotate(25,2.5,-5)"/>
+  </g>
+<circle cx="1087" cy="199" r="0.8" fill="#2fc4a5" opacity="0.17"/>
+<rect x="1102" y="32" width="22" height="22" rx="4" fill="#ffeaa7" opacity="0.10"/>
+
+  <g transform="translate(1113,45)">
+    <line x1="0" y1="7" x2="0" y2="-1" stroke="#2fc4a5" stroke-width="1.4" stroke-linecap="round"/>
+    <ellipse cx="4.59" cy="3.86" rx="3.5" ry="5.5" fill="#ffeaa7" opacity="0.85" transform="rotate(40.0,4.59,3.86)"/><ellipse cx="-2.25" cy="5.56" rx="3.5" ry="5.5" fill="#ffeaa7" opacity="0.85" transform="rotate(112.0,-2.25,5.56)"/><ellipse cx="-5.99" cy="-0.42" rx="3.5" ry="5.5" fill="#ffeaa7" opacity="0.85" transform="rotate(184.0,-5.99,-0.42)"/><ellipse cx="-1.45" cy="-5.82" rx="3.5" ry="5.5" fill="#ffeaa7" opacity="0.85" transform="rotate(256.0,-1.45,-5.82)"/><ellipse cx="5.09" cy="-3.18" rx="3.5" ry="5.5" fill="#ffeaa7" opacity="0.85" transform="rotate(328.0,5.09,-3.18)"/>
+    <circle r="3" fill="#fff3b0"/>
+    <circle r="3" fill="#ffeaa7" opacity="0.25">
+      <animate attributeName="r" values="3;5;3" dur="3.9s" begin="-5.3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.25;0;0.25" dur="3.9s" begin="-5.3s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+<rect x="1102" y="58" width="22" height="22" rx="4" fill="#6be3ff" opacity="0.14"/>
+
+  <g transform="translate(1113,70)">
+    <circle r="9.5" fill="#6be3ff" opacity="0.08">
+      <animate attributeName="opacity" values="0.08;0.18;0.08" dur="4.8s" begin="-3.6s" repeatCount="indefinite"/>
+    </circle>
+    <line x1="0" y1="8" x2="0" y2="0" stroke="#2fc4a5" stroke-width="1.5" stroke-linecap="round"/>
+    <ellipse cx="0.00" cy="-6.50" rx="4" ry="7" fill="#6be3ff" opacity="0.7" transform="rotate(-90.0,0.00,-6.50)"/><ellipse cx="6.18" cy="-2.01" rx="4" ry="7" fill="#6be3ff" opacity="0.7" transform="rotate(-18.0,6.18,-2.01)"/><ellipse cx="3.82" cy="5.26" rx="4" ry="7" fill="#6be3ff" opacity="0.7" transform="rotate(54.0,3.82,5.26)"/><ellipse cx="-3.82" cy="5.26" rx="4" ry="7" fill="#6be3ff" opacity="0.7" transform="rotate(126.0,-3.82,5.26)"/><ellipse cx="-6.18" cy="-2.01" rx="4" ry="7" fill="#6be3ff" opacity="0.7" transform="rotate(198.0,-6.18,-2.01)"/>
+    <ellipse cx="2.06" cy="-2.83" rx="2.5" ry="4.5" fill="#6be3ff" opacity="0.9" transform="rotate(-54.0,2.06,-2.83)"/><ellipse cx="3.33" cy="1.08" rx="2.5" ry="4.5" fill="#6be3ff" opacity="0.9" transform="rotate(18.0,3.33,1.08)"/><ellipse cx="0.00" cy="3.50" rx="2.5" ry="4.5" fill="#6be3ff" opacity="0.9" transform="rotate(90.0,0.00,3.50)"/><ellipse cx="-3.33" cy="1.08" rx="2.5" ry="4.5" fill="#6be3ff" opacity="0.9" transform="rotate(162.0,-3.33,1.08)"/><ellipse cx="-2.06" cy="-2.83" rx="2.5" ry="4.5" fill="#6be3ff" opacity="0.9" transform="rotate(234.0,-2.06,-2.83)"/>
+    <circle r="2.8" fill="#fff3b0"/>
+    <circle r="1.4" fill="#fffde7"/>
+  </g>
+<rect x="1102" y="84" width="22" height="22" rx="4" fill="#ffd6e0" opacity="0.14"/>
+
+  <g transform="translate(1113,96)">
+    <circle r="10.1" fill="#ffd6e0" opacity="0.08">
+      <animate attributeName="opacity" values="0.08;0.18;0.08" dur="4.6s" begin="-3.6s" repeatCount="indefinite"/>
+    </circle>
+    <line x1="0" y1="8" x2="0" y2="0" stroke="#2fc4a5" stroke-width="1.5" stroke-linecap="round"/>
+    <ellipse cx="0.00" cy="-6.50" rx="4" ry="7" fill="#ffd6e0" opacity="0.7" transform="rotate(-90.0,0.00,-6.50)"/><ellipse cx="6.18" cy="-2.01" rx="4" ry="7" fill="#ffd6e0" opacity="0.7" transform="rotate(-18.0,6.18,-2.01)"/><ellipse cx="3.82" cy="5.26" rx="4" ry="7" fill="#ffd6e0" opacity="0.7" transform="rotate(54.0,3.82,5.26)"/><ellipse cx="-3.82" cy="5.26" rx="4" ry="7" fill="#ffd6e0" opacity="0.7" transform="rotate(126.0,-3.82,5.26)"/><ellipse cx="-6.18" cy="-2.01" rx="4" ry="7" fill="#ffd6e0" opacity="0.7" transform="rotate(198.0,-6.18,-2.01)"/>
+    <ellipse cx="2.06" cy="-2.83" rx="2.5" ry="4.5" fill="#ffd6e0" opacity="0.9" transform="rotate(-54.0,2.06,-2.83)"/><ellipse cx="3.33" cy="1.08" rx="2.5" ry="4.5" fill="#ffd6e0" opacity="0.9" transform="rotate(18.0,3.33,1.08)"/><ellipse cx="0.00" cy="3.50" rx="2.5" ry="4.5" fill="#ffd6e0" opacity="0.9" transform="rotate(90.0,0.00,3.50)"/><ellipse cx="-3.33" cy="1.08" rx="2.5" ry="4.5" fill="#ffd6e0" opacity="0.9" transform="rotate(162.0,-3.33,1.08)"/><ellipse cx="-2.06" cy="-2.83" rx="2.5" ry="4.5" fill="#ffd6e0" opacity="0.9" transform="rotate(234.0,-2.06,-2.83)"/>
+    <circle r="2.8" fill="#fff3b0"/>
+    <circle r="1.4" fill="#fffde7"/>
+  </g>
+<rect x="1102" y="110" width="22" height="22" rx="4" fill="#ff9bd8" opacity="0.07"/>
+
+  <g transform="translate(1113,124)">
+    <line x1="0" y1="6" x2="0" y2="-2" stroke="#2fc4a5" stroke-width="1.2" stroke-linecap="round"/>
+    <ellipse cx="4.64" cy="2.96" rx="2.2" ry="4.8" fill="#ff9bd8" opacity="0.88" transform="rotate(32.6,4.64,2.96)"/><ellipse cx="-0.25" cy="5.49" rx="2.2" ry="4.8" fill="#ff9bd8" opacity="0.88" transform="rotate(92.6,-0.25,5.49)"/><ellipse cx="-4.88" cy="2.53" rx="2.2" ry="4.8" fill="#ff9bd8" opacity="0.88" transform="rotate(152.6,-4.88,2.53)"/><ellipse cx="-4.64" cy="-2.96" rx="2.2" ry="4.8" fill="#ff9bd8" opacity="0.88" transform="rotate(212.6,-4.64,-2.96)"/><ellipse cx="0.25" cy="-5.49" rx="2.2" ry="4.8" fill="#ff9bd8" opacity="0.88" transform="rotate(272.6,0.25,-5.49)"/><ellipse cx="4.88" cy="-2.53" rx="2.2" ry="4.8" fill="#ff9bd8" opacity="0.88" transform="rotate(332.6,4.88,-2.53)"/>
+    <circle r="2.4" fill="#fff3b0"/>
+  </g>
+<rect x="1102" y="136" width="22" height="22" rx="4" fill="#ff7ac6" opacity="0.05"/>
+
+  <g transform="translate(1113,150) rotate(4.7531252665911765)">
+    <line x1="0" y1="2" x2="0" y2="-7" stroke="#2fc4a5" stroke-width="1.4" stroke-linecap="round"/>
+    <ellipse cx="-2.5" cy="-5" rx="2.8" ry="4.5" fill="#ff7ac6" opacity="0.9" transform="rotate(-25,-2.5,-5)"/>
+    <ellipse cx="2.5" cy="-5" rx="2.8" ry="4.5" fill="#ff7ac6" opacity="0.9" transform="rotate(25,2.5,-5)"/>
+  </g>
+<rect x="1102" y="162" width="22" height="22" rx="4" fill="#ff7ac6" opacity="0.14"/>
+
+  <g transform="translate(1113,174)">
+    <circle r="8.4" fill="#ff7ac6" opacity="0.08">
+      <animate attributeName="opacity" values="0.08;0.18;0.08" dur="4.4s" begin="-1.2s" repeatCount="indefinite"/>
+    </circle>
+    <line x1="0" y1="8" x2="0" y2="0" stroke="#2fc4a5" stroke-width="1.5" stroke-linecap="round"/>
+    <ellipse cx="0.00" cy="-6.50" rx="4" ry="7" fill="#ff7ac6" opacity="0.7" transform="rotate(-90.0,0.00,-6.50)"/><ellipse cx="6.18" cy="-2.01" rx="4" ry="7" fill="#ff7ac6" opacity="0.7" transform="rotate(-18.0,6.18,-2.01)"/><ellipse cx="3.82" cy="5.26" rx="4" ry="7" fill="#ff7ac6" opacity="0.7" transform="rotate(54.0,3.82,5.26)"/><ellipse cx="-3.82" cy="5.26" rx="4" ry="7" fill="#ff7ac6" opacity="0.7" transform="rotate(126.0,-3.82,5.26)"/><ellipse cx="-6.18" cy="-2.01" rx="4" ry="7" fill="#ff7ac6" opacity="0.7" transform="rotate(198.0,-6.18,-2.01)"/>
+    <ellipse cx="2.06" cy="-2.83" rx="2.5" ry="4.5" fill="#ff7ac6" opacity="0.9" transform="rotate(-54.0,2.06,-2.83)"/><ellipse cx="3.33" cy="1.08" rx="2.5" ry="4.5" fill="#ff7ac6" opacity="0.9" transform="rotate(18.0,3.33,1.08)"/><ellipse cx="0.00" cy="3.50" rx="2.5" ry="4.5" fill="#ff7ac6" opacity="0.9" transform="rotate(90.0,0.00,3.50)"/><ellipse cx="-3.33" cy="1.08" rx="2.5" ry="4.5" fill="#ff7ac6" opacity="0.9" transform="rotate(162.0,-3.33,1.08)"/><ellipse cx="-2.06" cy="-2.83" rx="2.5" ry="4.5" fill="#ff7ac6" opacity="0.9" transform="rotate(234.0,-2.06,-2.83)"/>
+    <circle r="2.8" fill="#fff3b0"/>
+    <circle r="1.4" fill="#fffde7"/>
+  </g>
+<rect x="1102" y="188" width="22" height="22" rx="4" fill="#ffeaa7" opacity="0.14"/>
+
+  <g transform="translate(1113,200)">
+    <circle r="9.5" fill="#ffeaa7" opacity="0.08">
+      <animate attributeName="opacity" values="0.08;0.18;0.08" dur="3.7s" begin="-4.4s" repeatCount="indefinite"/>
+    </circle>
+    <line x1="0" y1="8" x2="0" y2="0" stroke="#2fc4a5" stroke-width="1.5" stroke-linecap="round"/>
+    <ellipse cx="0.00" cy="-6.50" rx="4" ry="7" fill="#ffeaa7" opacity="0.7" transform="rotate(-90.0,0.00,-6.50)"/><ellipse cx="6.18" cy="-2.01" rx="4" ry="7" fill="#ffeaa7" opacity="0.7" transform="rotate(-18.0,6.18,-2.01)"/><ellipse cx="3.82" cy="5.26" rx="4" ry="7" fill="#ffeaa7" opacity="0.7" transform="rotate(54.0,3.82,5.26)"/><ellipse cx="-3.82" cy="5.26" rx="4" ry="7" fill="#ffeaa7" opacity="0.7" transform="rotate(126.0,-3.82,5.26)"/><ellipse cx="-6.18" cy="-2.01" rx="4" ry="7" fill="#ffeaa7" opacity="0.7" transform="rotate(198.0,-6.18,-2.01)"/>
+    <ellipse cx="2.06" cy="-2.83" rx="2.5" ry="4.5" fill="#ffeaa7" opacity="0.9" transform="rotate(-54.0,2.06,-2.83)"/><ellipse cx="3.33" cy="1.08" rx="2.5" ry="4.5" fill="#ffeaa7" opacity="0.9" transform="rotate(18.0,3.33,1.08)"/><ellipse cx="0.00" cy="3.50" rx="2.5" ry="4.5" fill="#ffeaa7" opacity="0.9" transform="rotate(90.0,0.00,3.50)"/><ellipse cx="-3.33" cy="1.08" rx="2.5" ry="4.5" fill="#ffeaa7" opacity="0.9" transform="rotate(162.0,-3.33,1.08)"/><ellipse cx="-2.06" cy="-2.83" rx="2.5" ry="4.5" fill="#ffeaa7" opacity="0.9" transform="rotate(234.0,-2.06,-2.83)"/>
+    <circle r="2.8" fill="#fff3b0"/>
+    <circle r="1.4" fill="#fffde7"/>
+  </g>
+<rect x="1128" y="32" width="22" height="22" rx="4" fill="#b28dff" opacity="0.13"/>
+
+  <g transform="translate(1139,44)">
+    <circle r="8.6" fill="#b28dff" opacity="0.08">
+      <animate attributeName="opacity" values="0.08;0.18;0.08" dur="2.9s" begin="-2.6s" repeatCount="indefinite"/>
+    </circle>
+    <line x1="0" y1="8" x2="0" y2="0" stroke="#2fc4a5" stroke-width="1.5" stroke-linecap="round"/>
+    <ellipse cx="0.00" cy="-6.50" rx="4" ry="7" fill="#b28dff" opacity="0.7" transform="rotate(-90.0,0.00,-6.50)"/><ellipse cx="6.18" cy="-2.01" rx="4" ry="7" fill="#b28dff" opacity="0.7" transform="rotate(-18.0,6.18,-2.01)"/><ellipse cx="3.82" cy="5.26" rx="4" ry="7" fill="#b28dff" opacity="0.7" transform="rotate(54.0,3.82,5.26)"/><ellipse cx="-3.82" cy="5.26" rx="4" ry="7" fill="#b28dff" opacity="0.7" transform="rotate(126.0,-3.82,5.26)"/><ellipse cx="-6.18" cy="-2.01" rx="4" ry="7" fill="#b28dff" opacity="0.7" transform="rotate(198.0,-6.18,-2.01)"/>
+    <ellipse cx="2.06" cy="-2.83" rx="2.5" ry="4.5" fill="#b28dff" opacity="0.9" transform="rotate(-54.0,2.06,-2.83)"/><ellipse cx="3.33" cy="1.08" rx="2.5" ry="4.5" fill="#b28dff" opacity="0.9" transform="rotate(18.0,3.33,1.08)"/><ellipse cx="0.00" cy="3.50" rx="2.5" ry="4.5" fill="#b28dff" opacity="0.9" transform="rotate(90.0,0.00,3.50)"/><ellipse cx="-3.33" cy="1.08" rx="2.5" ry="4.5" fill="#b28dff" opacity="0.9" transform="rotate(162.0,-3.33,1.08)"/><ellipse cx="-2.06" cy="-2.83" rx="2.5" ry="4.5" fill="#b28dff" opacity="0.9" transform="rotate(234.0,-2.06,-2.83)"/>
+    <circle r="2.8" fill="#fff3b0"/>
+    <circle r="1.4" fill="#fffde7"/>
+  </g>
+<rect x="1128" y="58" width="22" height="22" rx="4" fill="#b28dff" opacity="0.10"/>
+
+  <g transform="translate(1139,71)">
+    <line x1="0" y1="7" x2="0" y2="-1" stroke="#2fc4a5" stroke-width="1.4" stroke-linecap="round"/>
+    <ellipse cx="2.81" cy="5.30" rx="3.5" ry="5.5" fill="#b28dff" opacity="0.85" transform="rotate(62.1,2.81,5.30)"/><ellipse cx="-4.17" cy="4.31" rx="3.5" ry="5.5" fill="#b28dff" opacity="0.85" transform="rotate(134.1,-4.17,4.31)"/><ellipse cx="-5.39" cy="-2.64" rx="3.5" ry="5.5" fill="#b28dff" opacity="0.85" transform="rotate(206.1,-5.39,-2.64)"/><ellipse cx="0.84" cy="-5.94" rx="3.5" ry="5.5" fill="#b28dff" opacity="0.85" transform="rotate(278.1,0.84,-5.94)"/><ellipse cx="5.91" cy="-1.03" rx="3.5" ry="5.5" fill="#b28dff" opacity="0.85" transform="rotate(350.1,5.91,-1.03)"/>
+    <circle r="3" fill="#fff3b0"/>
+    <circle r="3" fill="#b28dff" opacity="0.25">
+      <animate attributeName="r" values="3;5;3" dur="3.8s" begin="-1.7s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.25;0;0.25" dur="3.8s" begin="-1.7s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+<rect x="1128" y="84" width="22" height="22" rx="4" fill="#c9a7ff" opacity="0.12"/>
+
+  <g transform="translate(1139,96)">
+    <circle r="9.1" fill="#c9a7ff" opacity="0.08">
+      <animate attributeName="opacity" values="0.08;0.18;0.08" dur="2.7s" begin="-0.4s" repeatCount="indefinite"/>
+    </circle>
+    <line x1="0" y1="8" x2="0" y2="0" stroke="#2fc4a5" stroke-width="1.5" stroke-linecap="round"/>
+    <ellipse cx="0.00" cy="-6.50" rx="4" ry="7" fill="#c9a7ff" opacity="0.7" transform="rotate(-90.0,0.00,-6.50)"/><ellipse cx="6.18" cy="-2.01" rx="4" ry="7" fill="#c9a7ff" opacity="0.7" transform="rotate(-18.0,6.18,-2.01)"/><ellipse cx="3.82" cy="5.26" rx="4" ry="7" fill="#c9a7ff" opacity="0.7" transform="rotate(54.0,3.82,5.26)"/><ellipse cx="-3.82" cy="5.26" rx="4" ry="7" fill="#c9a7ff" opacity="0.7" transform="rotate(126.0,-3.82,5.26)"/><ellipse cx="-6.18" cy="-2.01" rx="4" ry="7" fill="#c9a7ff" opacity="0.7" transform="rotate(198.0,-6.18,-2.01)"/>
+    <ellipse cx="2.06" cy="-2.83" rx="2.5" ry="4.5" fill="#c9a7ff" opacity="0.9" transform="rotate(-54.0,2.06,-2.83)"/><ellipse cx="3.33" cy="1.08" rx="2.5" ry="4.5" fill="#c9a7ff" opacity="0.9" transform="rotate(18.0,3.33,1.08)"/><ellipse cx="0.00" cy="3.50" rx="2.5" ry="4.5" fill="#c9a7ff" opacity="0.9" transform="rotate(90.0,0.00,3.50)"/><ellipse cx="-3.33" cy="1.08" rx="2.5" ry="4.5" fill="#c9a7ff" opacity="0.9" transform="rotate(162.0,-3.33,1.08)"/><ellipse cx="-2.06" cy="-2.83" rx="2.5" ry="4.5" fill="#c9a7ff" opacity="0.9" transform="rotate(234.0,-2.06,-2.83)"/>
+    <circle r="2.8" fill="#fff3b0"/>
+    <circle r="1.4" fill="#fffde7"/>
+  </g>
+<rect x="1128" y="110" width="22" height="22" rx="4" fill="#ff9bd8" opacity="0.10"/>
+
+  <g transform="translate(1139,123)">
+    <line x1="0" y1="7" x2="0" y2="-1" stroke="#2fc4a5" stroke-width="1.4" stroke-linecap="round"/>
+    <ellipse cx="4.74" cy="3.68" rx="3.5" ry="5.5" fill="#ff9bd8" opacity="0.85" transform="rotate(37.8,4.74,3.68)"/><ellipse cx="-2.04" cy="5.64" rx="3.5" ry="5.5" fill="#ff9bd8" opacity="0.85" transform="rotate(109.8,-2.04,5.64)"/><ellipse cx="-6.00" cy="-0.19" rx="3.5" ry="5.5" fill="#ff9bd8" opacity="0.85" transform="rotate(181.8,-6.00,-0.19)"/><ellipse cx="-1.67" cy="-5.76" rx="3.5" ry="5.5" fill="#ff9bd8" opacity="0.85" transform="rotate(253.8,-1.67,-5.76)"/><ellipse cx="4.96" cy="-3.37" rx="3.5" ry="5.5" fill="#ff9bd8" opacity="0.85" transform="rotate(325.8,4.96,-3.37)"/>
+    <circle r="3" fill="#fff3b0"/>
+    <circle r="3" fill="#ff9bd8" opacity="0.25">
+      <animate attributeName="r" values="3;5;3" dur="5.2s" begin="-0.1s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.25;0;0.25" dur="5.2s" begin="-0.1s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+<rect x="1128" y="136" width="22" height="22" rx="4" fill="#8ff0d8" opacity="0.06"/>
+
+  <g transform="translate(1139,150) rotate(-8.825689951794207)">
+    <line x1="0" y1="2" x2="0" y2="-7" stroke="#2fc4a5" stroke-width="1.4" stroke-linecap="round"/>
+    <ellipse cx="-2.5" cy="-5" rx="2.8" ry="4.5" fill="#8ff0d8" opacity="0.9" transform="rotate(-25,-2.5,-5)"/>
+    <ellipse cx="2.5" cy="-5" rx="2.8" ry="4.5" fill="#8ff0d8" opacity="0.9" transform="rotate(25,2.5,-5)"/>
+  </g>
+<circle cx="1139" cy="173" r="0.8" fill="#2fc4a5" opacity="0.16"/>
+<circle cx="1139" cy="199" r="0.8" fill="#2fc4a5" opacity="0.18"/>
+<circle cx="1165" cy="43" r="0.8" fill="#2fc4a5" opacity="0.16"/>
+<circle cx="1165" cy="69" r="0.8" fill="#2fc4a5" opacity="0.22"/>
+<rect x="1154" y="84" width="22" height="22" rx="4" fill="#6be3ff" opacity="0.07"/>
+
+  <g transform="translate(1165,98)">
+    <line x1="0" y1="6" x2="0" y2="-2" stroke="#2fc4a5" stroke-width="1.2" stroke-linecap="round"/>
+    <ellipse cx="5.50" cy="0.18" rx="2.2" ry="4.8" fill="#6be3ff" opacity="0.88" transform="rotate(1.9,5.50,0.18)"/><ellipse cx="2.59" cy="4.85" rx="2.2" ry="4.8" fill="#6be3ff" opacity="0.88" transform="rotate(61.9,2.59,4.85)"/><ellipse cx="-2.91" cy="4.67" rx="2.2" ry="4.8" fill="#6be3ff" opacity="0.88" transform="rotate(121.9,-2.91,4.67)"/><ellipse cx="-5.50" cy="-0.18" rx="2.2" ry="4.8" fill="#6be3ff" opacity="0.88" transform="rotate(181.9,-5.50,-0.18)"/><ellipse cx="-2.59" cy="-4.85" rx="2.2" ry="4.8" fill="#6be3ff" opacity="0.88" transform="rotate(241.9,-2.59,-4.85)"/><ellipse cx="2.91" cy="-4.67" rx="2.2" ry="4.8" fill="#6be3ff" opacity="0.88" transform="rotate(301.9,2.91,-4.67)"/>
+    <circle r="2.4" fill="#fff3b0"/>
+  </g>
+<circle cx="1165" cy="121" r="0.8" fill="#2fc4a5" opacity="0.13"/>
+<circle cx="1165" cy="147" r="0.8" fill="#2fc4a5" opacity="0.14"/>
+<circle cx="1165" cy="173" r="0.8" fill="#2fc4a5" opacity="0.16"/>
+<rect x="1154" y="188" width="22" height="22" rx="4" fill="#ffd6e0" opacity="0.07"/>
+
+  <g transform="translate(1165,202)">
+    <line x1="0" y1="6" x2="0" y2="-2" stroke="#2fc4a5" stroke-width="1.2" stroke-linecap="round"/>
+    <ellipse cx="4.32" cy="3.41" rx="2.2" ry="4.8" fill="#ffd6e0" opacity="0.88" transform="rotate(38.3,4.32,3.41)"/><ellipse cx="-0.79" cy="5.44" rx="2.2" ry="4.8" fill="#ffd6e0" opacity="0.88" transform="rotate(98.3,-0.79,5.44)"/><ellipse cx="-5.11" cy="2.04" rx="2.2" ry="4.8" fill="#ffd6e0" opacity="0.88" transform="rotate(158.3,-5.11,2.04)"/><ellipse cx="-4.32" cy="-3.41" rx="2.2" ry="4.8" fill="#ffd6e0" opacity="0.88" transform="rotate(218.3,-4.32,-3.41)"/><ellipse cx="0.79" cy="-5.44" rx="2.2" ry="4.8" fill="#ffd6e0" opacity="0.88" transform="rotate(278.3,0.79,-5.44)"/><ellipse cx="5.11" cy="-2.04" rx="2.2" ry="4.8" fill="#ffd6e0" opacity="0.88" transform="rotate(338.3,5.11,-2.04)"/>
+    <circle r="2.4" fill="#fff3b0"/>
+  </g>
+<circle cx="1191" cy="43" r="0.8" fill="#2fc4a5" opacity="0.14"/>
+<rect x="1180" y="58" width="22" height="22" rx="4" fill="#ff7ac6" opacity="0.05"/>
+
+  <g transform="translate(1191,72) rotate(-13.09656494172981)">
+    <line x1="0" y1="2" x2="0" y2="-7" stroke="#2fc4a5" stroke-width="1.4" stroke-linecap="round"/>
+    <ellipse cx="-2.5" cy="-5" rx="2.8" ry="4.5" fill="#ff7ac6" opacity="0.9" transform="rotate(-25,-2.5,-5)"/>
+    <ellipse cx="2.5" cy="-5" rx="2.8" ry="4.5" fill="#ff7ac6" opacity="0.9" transform="rotate(25,2.5,-5)"/>
+  </g>
+<rect x="1180" y="84" width="22" height="22" rx="4" fill="#6be3ff" opacity="0.14"/>
+
+  <g transform="translate(1191,96)">
+    <circle r="8.8" fill="#6be3ff" opacity="0.08">
+      <animate attributeName="opacity" values="0.08;0.18;0.08" dur="3.9s" begin="-4.1s" repeatCount="indefinite"/>
+    </circle>
+    <line x1="0" y1="8" x2="0" y2="0" stroke="#2fc4a5" stroke-width="1.5" stroke-linecap="round"/>
+    <ellipse cx="0.00" cy="-6.50" rx="4" ry="7" fill="#6be3ff" opacity="0.7" transform="rotate(-90.0,0.00,-6.50)"/><ellipse cx="6.18" cy="-2.01" rx="4" ry="7" fill="#6be3ff" opacity="0.7" transform="rotate(-18.0,6.18,-2.01)"/><ellipse cx="3.82" cy="5.26" rx="4" ry="7" fill="#6be3ff" opacity="0.7" transform="rotate(54.0,3.82,5.26)"/><ellipse cx="-3.82" cy="5.26" rx="4" ry="7" fill="#6be3ff" opacity="0.7" transform="rotate(126.0,-3.82,5.26)"/><ellipse cx="-6.18" cy="-2.01" rx="4" ry="7" fill="#6be3ff" opacity="0.7" transform="rotate(198.0,-6.18,-2.01)"/>
+    <ellipse cx="2.06" cy="-2.83" rx="2.5" ry="4.5" fill="#6be3ff" opacity="0.9" transform="rotate(-54.0,2.06,-2.83)"/><ellipse cx="3.33" cy="1.08" rx="2.5" ry="4.5" fill="#6be3ff" opacity="0.9" transform="rotate(18.0,3.33,1.08)"/><ellipse cx="0.00" cy="3.50" rx="2.5" ry="4.5" fill="#6be3ff" opacity="0.9" transform="rotate(90.0,0.00,3.50)"/><ellipse cx="-3.33" cy="1.08" rx="2.5" ry="4.5" fill="#6be3ff" opacity="0.9" transform="rotate(162.0,-3.33,1.08)"/><ellipse cx="-2.06" cy="-2.83" rx="2.5" ry="4.5" fill="#6be3ff" opacity="0.9" transform="rotate(234.0,-2.06,-2.83)"/>
+    <circle r="2.8" fill="#fff3b0"/>
+    <circle r="1.4" fill="#fffde7"/>
+  </g>
+<rect x="1180" y="110" width="22" height="22" rx="4" fill="#8ff0d8" opacity="0.13"/>
+
+  <g transform="translate(1191,122)">
+    <circle r="8.2" fill="#8ff0d8" opacity="0.08">
+      <animate attributeName="opacity" values="0.08;0.18;0.08" dur="4.6s" begin="-3.7s" repeatCount="indefinite"/>
+    </circle>
+    <line x1="0" y1="8" x2="0" y2="0" stroke="#2fc4a5" stroke-width="1.5" stroke-linecap="round"/>
+    <ellipse cx="0.00" cy="-6.50" rx="4" ry="7" fill="#8ff0d8" opacity="0.7" transform="rotate(-90.0,0.00,-6.50)"/><ellipse cx="6.18" cy="-2.01" rx="4" ry="7" fill="#8ff0d8" opacity="0.7" transform="rotate(-18.0,6.18,-2.01)"/><ellipse cx="3.82" cy="5.26" rx="4" ry="7" fill="#8ff0d8" opacity="0.7" transform="rotate(54.0,3.82,5.26)"/><ellipse cx="-3.82" cy="5.26" rx="4" ry="7" fill="#8ff0d8" opacity="0.7" transform="rotate(126.0,-3.82,5.26)"/><ellipse cx="-6.18" cy="-2.01" rx="4" ry="7" fill="#8ff0d8" opacity="0.7" transform="rotate(198.0,-6.18,-2.01)"/>
+    <ellipse cx="2.06" cy="-2.83" rx="2.5" ry="4.5" fill="#8ff0d8" opacity="0.9" transform="rotate(-54.0,2.06,-2.83)"/><ellipse cx="3.33" cy="1.08" rx="2.5" ry="4.5" fill="#8ff0d8" opacity="0.9" transform="rotate(18.0,3.33,1.08)"/><ellipse cx="0.00" cy="3.50" rx="2.5" ry="4.5" fill="#8ff0d8" opacity="0.9" transform="rotate(90.0,0.00,3.50)"/><ellipse cx="-3.33" cy="1.08" rx="2.5" ry="4.5" fill="#8ff0d8" opacity="0.9" transform="rotate(162.0,-3.33,1.08)"/><ellipse cx="-2.06" cy="-2.83" rx="2.5" ry="4.5" fill="#8ff0d8" opacity="0.9" transform="rotate(234.0,-2.06,-2.83)"/>
+    <circle r="2.8" fill="#fff3b0"/>
+    <circle r="1.4" fill="#fffde7"/>
+  </g>
+<circle cx="1191" cy="147" r="0.8" fill="#2fc4a5" opacity="0.19"/>
+<rect x="1180" y="162" width="22" height="22" rx="4" fill="#8ff0d8" opacity="0.06"/>
+
+  <g transform="translate(1191,176) rotate(1.9380969919148505)">
+    <line x1="0" y1="2" x2="0" y2="-7" stroke="#2fc4a5" stroke-width="1.4" stroke-linecap="round"/>
+    <ellipse cx="-2.5" cy="-5" rx="2.8" ry="4.5" fill="#8ff0d8" opacity="0.9" transform="rotate(-25,-2.5,-5)"/>
+    <ellipse cx="2.5" cy="-5" rx="2.8" ry="4.5" fill="#8ff0d8" opacity="0.9" transform="rotate(25,2.5,-5)"/>
+  </g>
+<rect x="1180" y="188" width="22" height="22" rx="4" fill="#8ff0d8" opacity="0.10"/>
+
+  <g transform="translate(1191,201)">
+    <line x1="0" y1="7" x2="0" y2="-1" stroke="#2fc4a5" stroke-width="1.4" stroke-linecap="round"/>
+    <ellipse cx="5.82" cy="1.47" rx="3.5" ry="5.5" fill="#8ff0d8" opacity="0.85" transform="rotate(14.1,5.82,1.47)"/><ellipse cx="0.40" cy="5.99" rx="3.5" ry="5.5" fill="#8ff0d8" opacity="0.85" transform="rotate(86.1,0.40,5.99)"/><ellipse cx="-5.57" cy="2.23" rx="3.5" ry="5.5" fill="#8ff0d8" opacity="0.85" transform="rotate(158.1,-5.57,2.23)"/><ellipse cx="-3.85" cy="-4.61" rx="3.5" ry="5.5" fill="#8ff0d8" opacity="0.85" transform="rotate(230.1,-3.85,-4.61)"/><ellipse cx="3.19" cy="-5.08" rx="3.5" ry="5.5" fill="#8ff0d8" opacity="0.85" transform="rotate(302.1,3.19,-5.08)"/>
+    <circle r="3" fill="#fff3b0"/>
+    <circle r="3" fill="#8ff0d8" opacity="0.25">
+      <animate attributeName="r" values="3;5;3" dur="3.3s" begin="-6.0s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.25;0;0.25" dur="3.3s" begin="-6.0s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+<rect x="1206" y="32" width="22" height="22" rx="4" fill="#ff9bd8" opacity="0.14"/>
+
+  <g transform="translate(1217,44)">
+    <circle r="8.0" fill="#ff9bd8" opacity="0.08">
+      <animate attributeName="opacity" values="0.08;0.18;0.08" dur="3.5s" begin="-2.9s" repeatCount="indefinite"/>
+    </circle>
+    <line x1="0" y1="8" x2="0" y2="0" stroke="#2fc4a5" stroke-width="1.5" stroke-linecap="round"/>
+    <ellipse cx="0.00" cy="-6.50" rx="4" ry="7" fill="#ff9bd8" opacity="0.7" transform="rotate(-90.0,0.00,-6.50)"/><ellipse cx="6.18" cy="-2.01" rx="4" ry="7" fill="#ff9bd8" opacity="0.7" transform="rotate(-18.0,6.18,-2.01)"/><ellipse cx="3.82" cy="5.26" rx="4" ry="7" fill="#ff9bd8" opacity="0.7" transform="rotate(54.0,3.82,5.26)"/><ellipse cx="-3.82" cy="5.26" rx="4" ry="7" fill="#ff9bd8" opacity="0.7" transform="rotate(126.0,-3.82,5.26)"/><ellipse cx="-6.18" cy="-2.01" rx="4" ry="7" fill="#ff9bd8" opacity="0.7" transform="rotate(198.0,-6.18,-2.01)"/>
+    <ellipse cx="2.06" cy="-2.83" rx="2.5" ry="4.5" fill="#ff9bd8" opacity="0.9" transform="rotate(-54.0,2.06,-2.83)"/><ellipse cx="3.33" cy="1.08" rx="2.5" ry="4.5" fill="#ff9bd8" opacity="0.9" transform="rotate(18.0,3.33,1.08)"/><ellipse cx="0.00" cy="3.50" rx="2.5" ry="4.5" fill="#ff9bd8" opacity="0.9" transform="rotate(90.0,0.00,3.50)"/><ellipse cx="-3.33" cy="1.08" rx="2.5" ry="4.5" fill="#ff9bd8" opacity="0.9" transform="rotate(162.0,-3.33,1.08)"/><ellipse cx="-2.06" cy="-2.83" rx="2.5" ry="4.5" fill="#ff9bd8" opacity="0.9" transform="rotate(234.0,-2.06,-2.83)"/>
+    <circle r="2.8" fill="#fff3b0"/>
+    <circle r="1.4" fill="#fffde7"/>
+  </g>
+<rect x="1206" y="58" width="22" height="22" rx="4" fill="#ffd6e0" opacity="0.11"/>
+
+  <g transform="translate(1217,71)">
+    <line x1="0" y1="7" x2="0" y2="-1" stroke="#2fc4a5" stroke-width="1.4" stroke-linecap="round"/>
+    <ellipse cx="6.00" cy="0.20" rx="3.5" ry="5.5" fill="#ffd6e0" opacity="0.85" transform="rotate(1.9,6.00,0.20)"/><ellipse cx="1.66" cy="5.76" rx="3.5" ry="5.5" fill="#ffd6e0" opacity="0.85" transform="rotate(73.9,1.66,5.76)"/><ellipse cx="-4.97" cy="3.36" rx="3.5" ry="5.5" fill="#ffd6e0" opacity="0.85" transform="rotate(145.9,-4.97,3.36)"/><ellipse cx="-4.73" cy="-3.69" rx="3.5" ry="5.5" fill="#ffd6e0" opacity="0.85" transform="rotate(217.9,-4.73,-3.69)"/><ellipse cx="2.04" cy="-5.64" rx="3.5" ry="5.5" fill="#ffd6e0" opacity="0.85" transform="rotate(289.9,2.04,-5.64)"/>
+    <circle r="3" fill="#fff3b0"/>
+    <circle r="3" fill="#ffd6e0" opacity="0.25">
+      <animate attributeName="r" values="3;5;3" dur="5.8s" begin="-5.9s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.25;0;0.25" dur="5.8s" begin="-5.9s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+<rect x="1206" y="84" width="22" height="22" rx="4" fill="#ffeaa7" opacity="0.14"/>
+
+  <g transform="translate(1217,96)">
+    <circle r="9.2" fill="#ffeaa7" opacity="0.08">
+      <animate attributeName="opacity" values="0.08;0.18;0.08" dur="3.7s" begin="-1.5s" repeatCount="indefinite"/>
+    </circle>
+    <line x1="0" y1="8" x2="0" y2="0" stroke="#2fc4a5" stroke-width="1.5" stroke-linecap="round"/>
+    <ellipse cx="0.00" cy="-6.50" rx="4" ry="7" fill="#ffeaa7" opacity="0.7" transform="rotate(-90.0,0.00,-6.50)"/><ellipse cx="6.18" cy="-2.01" rx="4" ry="7" fill="#ffeaa7" opacity="0.7" transform="rotate(-18.0,6.18,-2.01)"/><ellipse cx="3.82" cy="5.26" rx="4" ry="7" fill="#ffeaa7" opacity="0.7" transform="rotate(54.0,3.82,5.26)"/><ellipse cx="-3.82" cy="5.26" rx="4" ry="7" fill="#ffeaa7" opacity="0.7" transform="rotate(126.0,-3.82,5.26)"/><ellipse cx="-6.18" cy="-2.01" rx="4" ry="7" fill="#ffeaa7" opacity="0.7" transform="rotate(198.0,-6.18,-2.01)"/>
+    <ellipse cx="2.06" cy="-2.83" rx="2.5" ry="4.5" fill="#ffeaa7" opacity="0.9" transform="rotate(-54.0,2.06,-2.83)"/><ellipse cx="3.33" cy="1.08" rx="2.5" ry="4.5" fill="#ffeaa7" opacity="0.9" transform="rotate(18.0,3.33,1.08)"/><ellipse cx="0.00" cy="3.50" rx="2.5" ry="4.5" fill="#ffeaa7" opacity="0.9" transform="rotate(90.0,0.00,3.50)"/><ellipse cx="-3.33" cy="1.08" rx="2.5" ry="4.5" fill="#ffeaa7" opacity="0.9" transform="rotate(162.0,-3.33,1.08)"/><ellipse cx="-2.06" cy="-2.83" rx="2.5" ry="4.5" fill="#ffeaa7" opacity="0.9" transform="rotate(234.0,-2.06,-2.83)"/>
+    <circle r="2.8" fill="#fff3b0"/>
+    <circle r="1.4" fill="#fffde7"/>
+  </g>
+<rect x="1206" y="110" width="22" height="22" rx="4" fill="#ff7ac6" opacity="0.14"/>
+
+  <g transform="translate(1217,122)">
+    <circle r="9.2" fill="#ff7ac6" opacity="0.08">
+      <animate attributeName="opacity" values="0.08;0.18;0.08" dur="4.2s" begin="-4.8s" repeatCount="indefinite"/>
+    </circle>
+    <line x1="0" y1="8" x2="0" y2="0" stroke="#2fc4a5" stroke-width="1.5" stroke-linecap="round"/>
+    <ellipse cx="0.00" cy="-6.50" rx="4" ry="7" fill="#ff7ac6" opacity="0.7" transform="rotate(-90.0,0.00,-6.50)"/><ellipse cx="6.18" cy="-2.01" rx="4" ry="7" fill="#ff7ac6" opacity="0.7" transform="rotate(-18.0,6.18,-2.01)"/><ellipse cx="3.82" cy="5.26" rx="4" ry="7" fill="#ff7ac6" opacity="0.7" transform="rotate(54.0,3.82,5.26)"/><ellipse cx="-3.82" cy="5.26" rx="4" ry="7" fill="#ff7ac6" opacity="0.7" transform="rotate(126.0,-3.82,5.26)"/><ellipse cx="-6.18" cy="-2.01" rx="4" ry="7" fill="#ff7ac6" opacity="0.7" transform="rotate(198.0,-6.18,-2.01)"/>
+    <ellipse cx="2.06" cy="-2.83" rx="2.5" ry="4.5" fill="#ff7ac6" opacity="0.9" transform="rotate(-54.0,2.06,-2.83)"/><ellipse cx="3.33" cy="1.08" rx="2.5" ry="4.5" fill="#ff7ac6" opacity="0.9" transform="rotate(18.0,3.33,1.08)"/><ellipse cx="0.00" cy="3.50" rx="2.5" ry="4.5" fill="#ff7ac6" opacity="0.9" transform="rotate(90.0,0.00,3.50)"/><ellipse cx="-3.33" cy="1.08" rx="2.5" ry="4.5" fill="#ff7ac6" opacity="0.9" transform="rotate(162.0,-3.33,1.08)"/><ellipse cx="-2.06" cy="-2.83" rx="2.5" ry="4.5" fill="#ff7ac6" opacity="0.9" transform="rotate(234.0,-2.06,-2.83)"/>
+    <circle r="2.8" fill="#fff3b0"/>
+    <circle r="1.4" fill="#fffde7"/>
+  </g>
+<rect x="1206" y="136" width="22" height="22" rx="4" fill="#ff7ac6" opacity="0.14"/>
+
+  <g transform="translate(1217,148)">
+    <circle r="10.4" fill="#ff7ac6" opacity="0.08">
+      <animate attributeName="opacity" values="0.08;0.18;0.08" dur="2.9s" begin="-0.4s" repeatCount="indefinite"/>
+    </circle>
+    <line x1="0" y1="8" x2="0" y2="0" stroke="#2fc4a5" stroke-width="1.5" stroke-linecap="round"/>
+    <ellipse cx="0.00" cy="-6.50" rx="4" ry="7" fill="#ff7ac6" opacity="0.7" transform="rotate(-90.0,0.00,-6.50)"/><ellipse cx="6.18" cy="-2.01" rx="4" ry="7" fill="#ff7ac6" opacity="0.7" transform="rotate(-18.0,6.18,-2.01)"/><ellipse cx="3.82" cy="5.26" rx="4" ry="7" fill="#ff7ac6" opacity="0.7" transform="rotate(54.0,3.82,5.26)"/><ellipse cx="-3.82" cy="5.26" rx="4" ry="7" fill="#ff7ac6" opacity="0.7" transform="rotate(126.0,-3.82,5.26)"/><ellipse cx="-6.18" cy="-2.01" rx="4" ry="7" fill="#ff7ac6" opacity="0.7" transform="rotate(198.0,-6.18,-2.01)"/>
+    <ellipse cx="2.06" cy="-2.83" rx="2.5" ry="4.5" fill="#ff7ac6" opacity="0.9" transform="rotate(-54.0,2.06,-2.83)"/><ellipse cx="3.33" cy="1.08" rx="2.5" ry="4.5" fill="#ff7ac6" opacity="0.9" transform="rotate(18.0,3.33,1.08)"/><ellipse cx="0.00" cy="3.50" rx="2.5" ry="4.5" fill="#ff7ac6" opacity="0.9" transform="rotate(90.0,0.00,3.50)"/><ellipse cx="-3.33" cy="1.08" rx="2.5" ry="4.5" fill="#ff7ac6" opacity="0.9" transform="rotate(162.0,-3.33,1.08)"/><ellipse cx="-2.06" cy="-2.83" rx="2.5" ry="4.5" fill="#ff7ac6" opacity="0.9" transform="rotate(234.0,-2.06,-2.83)"/>
+    <circle r="2.8" fill="#fff3b0"/>
+    <circle r="1.4" fill="#fffde7"/>
+  </g>
+<rect x="1206" y="162" width="22" height="22" rx="4" fill="#8ff0d8" opacity="0.10"/>
+
+  <g transform="translate(1217,175)">
+    <line x1="0" y1="7" x2="0" y2="-1" stroke="#2fc4a5" stroke-width="1.4" stroke-linecap="round"/>
+    <ellipse cx="5.08" cy="3.19" rx="3.5" ry="5.5" fill="#8ff0d8" opacity="0.85" transform="rotate(32.1,5.08,3.19)"/><ellipse cx="-1.46" cy="5.82" rx="3.5" ry="5.5" fill="#8ff0d8" opacity="0.85" transform="rotate(104.1,-1.46,5.82)"/><ellipse cx="-5.99" cy="0.41" rx="3.5" ry="5.5" fill="#8ff0d8" opacity="0.85" transform="rotate(176.1,-5.99,0.41)"/><ellipse cx="-2.24" cy="-5.57" rx="3.5" ry="5.5" fill="#8ff0d8" opacity="0.85" transform="rotate(248.1,-2.24,-5.57)"/><ellipse cx="4.60" cy="-3.85" rx="3.5" ry="5.5" fill="#8ff0d8" opacity="0.85" transform="rotate(320.1,4.60,-3.85)"/>
+    <circle r="3" fill="#fff3b0"/>
+    <circle r="3" fill="#8ff0d8" opacity="0.25">
+      <animate attributeName="r" values="3;5;3" dur="4.9s" begin="-3.4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.25;0;0.25" dur="4.9s" begin="-3.4s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+<rect x="1206" y="188" width="22" height="22" rx="4" fill="#ff9bd8" opacity="0.10"/>
+
+  <g transform="translate(1217,201)">
+    <line x1="0" y1="7" x2="0" y2="-1" stroke="#2fc4a5" stroke-width="1.4" stroke-linecap="round"/>
+    <ellipse cx="5.64" cy="2.04" rx="3.5" ry="5.5" fill="#ff9bd8" opacity="0.85" transform="rotate(19.8,5.64,2.04)"/><ellipse cx="-0.19" cy="6.00" rx="3.5" ry="5.5" fill="#ff9bd8" opacity="0.85" transform="rotate(91.8,-0.19,6.00)"/><ellipse cx="-5.76" cy="1.67" rx="3.5" ry="5.5" fill="#ff9bd8" opacity="0.85" transform="rotate(163.8,-5.76,1.67)"/><ellipse cx="-3.37" cy="-4.96" rx="3.5" ry="5.5" fill="#ff9bd8" opacity="0.85" transform="rotate(235.8,-3.37,-4.96)"/><ellipse cx="3.68" cy="-4.74" rx="3.5" ry="5.5" fill="#ff9bd8" opacity="0.85" transform="rotate(307.8,3.68,-4.74)"/>
+    <circle r="3" fill="#fff3b0"/>
+    <circle r="3" fill="#ff9bd8" opacity="0.25">
+      <animate attributeName="r" values="3;5;3" dur="3.4s" begin="-2.6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.25;0;0.25" dur="3.4s" begin="-2.6s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+<rect x="1232" y="32" width="22" height="22" rx="4" fill="#ffd6e0" opacity="0.09"/>
+
+  <g transform="translate(1243,45)">
+    <line x1="0" y1="7" x2="0" y2="-1" stroke="#2fc4a5" stroke-width="1.4" stroke-linecap="round"/>
+    <ellipse cx="2.73" cy="5.34" rx="3.5" ry="5.5" fill="#ffd6e0" opacity="0.85" transform="rotate(62.9,2.73,5.34)"/><ellipse cx="-4.23" cy="4.25" rx="3.5" ry="5.5" fill="#ffd6e0" opacity="0.85" transform="rotate(134.9,-4.23,4.25)"/><ellipse cx="-5.35" cy="-2.71" rx="3.5" ry="5.5" fill="#ffd6e0" opacity="0.85" transform="rotate(206.9,-5.35,-2.71)"/><ellipse cx="0.93" cy="-5.93" rx="3.5" ry="5.5" fill="#ffd6e0" opacity="0.85" transform="rotate(278.9,0.93,-5.93)"/><ellipse cx="5.92" cy="-0.95" rx="3.5" ry="5.5" fill="#ffd6e0" opacity="0.85" transform="rotate(350.9,5.92,-0.95)"/>
+    <circle r="3" fill="#fff3b0"/>
+    <circle r="3" fill="#ffd6e0" opacity="0.25">
+      <animate attributeName="r" values="3;5;3" dur="5.4s" begin="-3.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.25;0;0.25" dur="5.4s" begin="-3.5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+<rect x="1232" y="58" width="22" height="22" rx="4" fill="#ffeaa7" opacity="0.09"/>
+
+  <g transform="translate(1243,71)">
+    <line x1="0" y1="7" x2="0" y2="-1" stroke="#2fc4a5" stroke-width="1.4" stroke-linecap="round"/>
+    <ellipse cx="3.63" cy="4.78" rx="3.5" ry="5.5" fill="#ffeaa7" opacity="0.85" transform="rotate(52.8,3.63,4.78)"/><ellipse cx="-3.42" cy="4.93" rx="3.5" ry="5.5" fill="#ffeaa7" opacity="0.85" transform="rotate(124.8,-3.42,4.93)"/><ellipse cx="-5.74" cy="-1.73" rx="3.5" ry="5.5" fill="#ffeaa7" opacity="0.85" transform="rotate(196.8,-5.74,-1.73)"/><ellipse cx="-0.13" cy="-6.00" rx="3.5" ry="5.5" fill="#ffeaa7" opacity="0.85" transform="rotate(268.8,-0.13,-6.00)"/><ellipse cx="5.67" cy="-1.98" rx="3.5" ry="5.5" fill="#ffeaa7" opacity="0.85" transform="rotate(340.8,5.67,-1.98)"/>
+    <circle r="3" fill="#fff3b0"/>
+    <circle r="3" fill="#ffeaa7" opacity="0.25">
+      <animate attributeName="r" values="3;5;3" dur="5.2s" begin="-5.2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.25;0;0.25" dur="5.2s" begin="-5.2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+<rect x="1232" y="84" width="22" height="22" rx="4" fill="#6be3ff" opacity="0.09"/>
+
+  <g transform="translate(1243,97)">
+    <line x1="0" y1="7" x2="0" y2="-1" stroke="#2fc4a5" stroke-width="1.4" stroke-linecap="round"/>
+    <ellipse cx="4.42" cy="4.05" rx="3.5" ry="5.5" fill="#6be3ff" opacity="0.85" transform="rotate(42.5,4.42,4.05)"/><ellipse cx="-2.49" cy="5.46" rx="3.5" ry="5.5" fill="#6be3ff" opacity="0.85" transform="rotate(114.5,-2.49,5.46)"/><ellipse cx="-5.96" cy="-0.68" rx="3.5" ry="5.5" fill="#6be3ff" opacity="0.85" transform="rotate(186.5,-5.96,-0.68)"/><ellipse cx="-1.20" cy="-5.88" rx="3.5" ry="5.5" fill="#6be3ff" opacity="0.85" transform="rotate(258.5,-1.20,-5.88)"/><ellipse cx="5.22" cy="-2.96" rx="3.5" ry="5.5" fill="#6be3ff" opacity="0.85" transform="rotate(330.5,5.22,-2.96)"/>
+    <circle r="3" fill="#fff3b0"/>
+    <circle r="3" fill="#6be3ff" opacity="0.25">
+      <animate attributeName="r" values="3;5;3" dur="5.1s" begin="-0.2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.25;0;0.25" dur="5.1s" begin="-0.2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+<rect x="1232" y="110" width="22" height="22" rx="4" fill="#6be3ff" opacity="0.14"/>
+
+  <g transform="translate(1243,122)">
+    <circle r="8.4" fill="#6be3ff" opacity="0.08">
+      <animate attributeName="opacity" values="0.08;0.18;0.08" dur="3.9s" begin="-4.4s" repeatCount="indefinite"/>
+    </circle>
+    <line x1="0" y1="8" x2="0" y2="0" stroke="#2fc4a5" stroke-width="1.5" stroke-linecap="round"/>
+    <ellipse cx="0.00" cy="-6.50" rx="4" ry="7" fill="#6be3ff" opacity="0.7" transform="rotate(-90.0,0.00,-6.50)"/><ellipse cx="6.18" cy="-2.01" rx="4" ry="7" fill="#6be3ff" opacity="0.7" transform="rotate(-18.0,6.18,-2.01)"/><ellipse cx="3.82" cy="5.26" rx="4" ry="7" fill="#6be3ff" opacity="0.7" transform="rotate(54.0,3.82,5.26)"/><ellipse cx="-3.82" cy="5.26" rx="4" ry="7" fill="#6be3ff" opacity="0.7" transform="rotate(126.0,-3.82,5.26)"/><ellipse cx="-6.18" cy="-2.01" rx="4" ry="7" fill="#6be3ff" opacity="0.7" transform="rotate(198.0,-6.18,-2.01)"/>
+    <ellipse cx="2.06" cy="-2.83" rx="2.5" ry="4.5" fill="#6be3ff" opacity="0.9" transform="rotate(-54.0,2.06,-2.83)"/><ellipse cx="3.33" cy="1.08" rx="2.5" ry="4.5" fill="#6be3ff" opacity="0.9" transform="rotate(18.0,3.33,1.08)"/><ellipse cx="0.00" cy="3.50" rx="2.5" ry="4.5" fill="#6be3ff" opacity="0.9" transform="rotate(90.0,0.00,3.50)"/><ellipse cx="-3.33" cy="1.08" rx="2.5" ry="4.5" fill="#6be3ff" opacity="0.9" transform="rotate(162.0,-3.33,1.08)"/><ellipse cx="-2.06" cy="-2.83" rx="2.5" ry="4.5" fill="#6be3ff" opacity="0.9" transform="rotate(234.0,-2.06,-2.83)"/>
+    <circle r="2.8" fill="#fff3b0"/>
+    <circle r="1.4" fill="#fffde7"/>
+  </g>
+<circle cx="1243" cy="147" r="0.8" fill="#2fc4a5" opacity="0.13"/>
+<circle cx="1243" cy="173" r="0.8" fill="#2fc4a5" opacity="0.21"/>
+<circle cx="1243" cy="199" r="0.8" fill="#2fc4a5" opacity="0.18"/>
+<circle cx="1269" cy="43" r="0.8" fill="#2fc4a5" opacity="0.20"/>
+<circle cx="1269" cy="69" r="0.8" fill="#2fc4a5" opacity="0.22"/>
+<circle cx="1269" cy="95" r="0.8" fill="#2fc4a5" opacity="0.20"/>
+<circle cx="1269" cy="121" r="0.8" fill="#2fc4a5" opacity="0.14"/>
+<circle cx="1269" cy="147" r="0.8" fill="#2fc4a5" opacity="0.18"/>
+<circle cx="1269" cy="173" r="0.8" fill="#2fc4a5" opacity="0.21"/>
+<circle cx="1269" cy="199" r="0.8" fill="#2fc4a5" opacity="0.13"/>
+<circle cx="1295" cy="43" r="0.8" fill="#2fc4a5" opacity="0.12"/>
+<circle cx="1295" cy="69" r="0.8" fill="#2fc4a5" opacity="0.14"/>
+<circle cx="1295" cy="95" r="0.8" fill="#2fc4a5" opacity="0.13"/>
+<rect x="1284" y="110" width="22" height="22" rx="4" fill="#b28dff" opacity="0.14"/>
+
+  <g transform="translate(1295,122)">
+    <circle r="9.9" fill="#b28dff" opacity="0.08">
+      <animate attributeName="opacity" values="0.08;0.18;0.08" dur="2.9s" begin="-0.1s" repeatCount="indefinite"/>
+    </circle>
+    <line x1="0" y1="8" x2="0" y2="0" stroke="#2fc4a5" stroke-width="1.5" stroke-linecap="round"/>
+    <ellipse cx="0.00" cy="-6.50" rx="4" ry="7" fill="#b28dff" opacity="0.7" transform="rotate(-90.0,0.00,-6.50)"/><ellipse cx="6.18" cy="-2.01" rx="4" ry="7" fill="#b28dff" opacity="0.7" transform="rotate(-18.0,6.18,-2.01)"/><ellipse cx="3.82" cy="5.26" rx="4" ry="7" fill="#b28dff" opacity="0.7" transform="rotate(54.0,3.82,5.26)"/><ellipse cx="-3.82" cy="5.26" rx="4" ry="7" fill="#b28dff" opacity="0.7" transform="rotate(126.0,-3.82,5.26)"/><ellipse cx="-6.18" cy="-2.01" rx="4" ry="7" fill="#b28dff" opacity="0.7" transform="rotate(198.0,-6.18,-2.01)"/>
+    <ellipse cx="2.06" cy="-2.83" rx="2.5" ry="4.5" fill="#b28dff" opacity="0.9" transform="rotate(-54.0,2.06,-2.83)"/><ellipse cx="3.33" cy="1.08" rx="2.5" ry="4.5" fill="#b28dff" opacity="0.9" transform="rotate(18.0,3.33,1.08)"/><ellipse cx="0.00" cy="3.50" rx="2.5" ry="4.5" fill="#b28dff" opacity="0.9" transform="rotate(90.0,0.00,3.50)"/><ellipse cx="-3.33" cy="1.08" rx="2.5" ry="4.5" fill="#b28dff" opacity="0.9" transform="rotate(162.0,-3.33,1.08)"/><ellipse cx="-2.06" cy="-2.83" rx="2.5" ry="4.5" fill="#b28dff" opacity="0.9" transform="rotate(234.0,-2.06,-2.83)"/>
+    <circle r="2.8" fill="#fff3b0"/>
+    <circle r="1.4" fill="#fffde7"/>
+  </g>
+<circle cx="1295" cy="147" r="0.8" fill="#2fc4a5" opacity="0.16"/>
+<rect x="1284" y="162" width="22" height="22" rx="4" fill="#c9a7ff" opacity="0.05"/>
+
+  <g transform="translate(1295,176) rotate(2.4693033762773524)">
+    <line x1="0" y1="2" x2="0" y2="-7" stroke="#2fc4a5" stroke-width="1.4" stroke-linecap="round"/>
+    <ellipse cx="-2.5" cy="-5" rx="2.8" ry="4.5" fill="#c9a7ff" opacity="0.9" transform="rotate(-25,-2.5,-5)"/>
+    <ellipse cx="2.5" cy="-5" rx="2.8" ry="4.5" fill="#c9a7ff" opacity="0.9" transform="rotate(25,2.5,-5)"/>
+  </g>
+<rect x="1284" y="188" width="22" height="22" rx="4" fill="#6be3ff" opacity="0.09"/>
+
+  <g transform="translate(1295,201)">
+    <line x1="0" y1="7" x2="0" y2="-1" stroke="#2fc4a5" stroke-width="1.4" stroke-linecap="round"/>
+    <ellipse cx="5.93" cy="0.91" rx="3.5" ry="5.5" fill="#6be3ff" opacity="0.85" transform="rotate(8.7,5.93,0.91)"/><ellipse cx="0.97" cy="5.92" rx="3.5" ry="5.5" fill="#6be3ff" opacity="0.85" transform="rotate(80.7,0.97,5.92)"/><ellipse cx="-5.33" cy="2.75" rx="3.5" ry="5.5" fill="#6be3ff" opacity="0.85" transform="rotate(152.7,-5.33,2.75)"/><ellipse cx="-4.27" cy="-4.22" rx="3.5" ry="5.5" fill="#6be3ff" opacity="0.85" transform="rotate(224.7,-4.27,-4.22)"/><ellipse cx="2.70" cy="-5.36" rx="3.5" ry="5.5" fill="#6be3ff" opacity="0.85" transform="rotate(296.7,2.70,-5.36)"/>
+    <circle r="3" fill="#fff3b0"/>
+    <circle r="3" fill="#6be3ff" opacity="0.25">
+      <animate attributeName="r" values="3;5;3" dur="4.8s" begin="-5.6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.25;0;0.25" dur="4.8s" begin="-5.6s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+<rect x="1310" y="32" width="22" height="22" rx="4" fill="#8ff0d8" opacity="0.05"/>
+
+  <g transform="translate(1321,46) rotate(-9.373519309001152)">
+    <line x1="0" y1="2" x2="0" y2="-7" stroke="#2fc4a5" stroke-width="1.4" stroke-linecap="round"/>
+    <ellipse cx="-2.5" cy="-5" rx="2.8" ry="4.5" fill="#8ff0d8" opacity="0.9" transform="rotate(-25,-2.5,-5)"/>
+    <ellipse cx="2.5" cy="-5" rx="2.8" ry="4.5" fill="#8ff0d8" opacity="0.9" transform="rotate(25,2.5,-5)"/>
+  </g>
+<rect x="1310" y="58" width="22" height="22" rx="4" fill="#c9a7ff" opacity="0.06"/>
+
+  <g transform="translate(1321,72) rotate(-3.711578387517797)">
+    <line x1="0" y1="2" x2="0" y2="-7" stroke="#2fc4a5" stroke-width="1.4" stroke-linecap="round"/>
+    <ellipse cx="-2.5" cy="-5" rx="2.8" ry="4.5" fill="#c9a7ff" opacity="0.9" transform="rotate(-25,-2.5,-5)"/>
+    <ellipse cx="2.5" cy="-5" rx="2.8" ry="4.5" fill="#c9a7ff" opacity="0.9" transform="rotate(25,2.5,-5)"/>
+  </g>
+<rect x="1310" y="84" width="22" height="22" rx="4" fill="#6be3ff" opacity="0.14"/>
+
+  <g transform="translate(1321,96)">
+    <circle r="11.0" fill="#6be3ff" opacity="0.08">
+      <animate attributeName="opacity" values="0.08;0.18;0.08" dur="4.4s" begin="-5.0s" repeatCount="indefinite"/>
+    </circle>
+    <line x1="0" y1="8" x2="0" y2="0" stroke="#2fc4a5" stroke-width="1.5" stroke-linecap="round"/>
+    <ellipse cx="0.00" cy="-6.50" rx="4" ry="7" fill="#6be3ff" opacity="0.7" transform="rotate(-90.0,0.00,-6.50)"/><ellipse cx="6.18" cy="-2.01" rx="4" ry="7" fill="#6be3ff" opacity="0.7" transform="rotate(-18.0,6.18,-2.01)"/><ellipse cx="3.82" cy="5.26" rx="4" ry="7" fill="#6be3ff" opacity="0.7" transform="rotate(54.0,3.82,5.26)"/><ellipse cx="-3.82" cy="5.26" rx="4" ry="7" fill="#6be3ff" opacity="0.7" transform="rotate(126.0,-3.82,5.26)"/><ellipse cx="-6.18" cy="-2.01" rx="4" ry="7" fill="#6be3ff" opacity="0.7" transform="rotate(198.0,-6.18,-2.01)"/>
+    <ellipse cx="2.06" cy="-2.83" rx="2.5" ry="4.5" fill="#6be3ff" opacity="0.9" transform="rotate(-54.0,2.06,-2.83)"/><ellipse cx="3.33" cy="1.08" rx="2.5" ry="4.5" fill="#6be3ff" opacity="0.9" transform="rotate(18.0,3.33,1.08)"/><ellipse cx="0.00" cy="3.50" rx="2.5" ry="4.5" fill="#6be3ff" opacity="0.9" transform="rotate(90.0,0.00,3.50)"/><ellipse cx="-3.33" cy="1.08" rx="2.5" ry="4.5" fill="#6be3ff" opacity="0.9" transform="rotate(162.0,-3.33,1.08)"/><ellipse cx="-2.06" cy="-2.83" rx="2.5" ry="4.5" fill="#6be3ff" opacity="0.9" transform="rotate(234.0,-2.06,-2.83)"/>
+    <circle r="2.8" fill="#fff3b0"/>
+    <circle r="1.4" fill="#fffde7"/>
+  </g>
+<rect x="1310" y="110" width="22" height="22" rx="4" fill="#ff7ac6" opacity="0.07"/>
+
+  <g transform="translate(1321,124)">
+    <line x1="0" y1="6" x2="0" y2="-2" stroke="#2fc4a5" stroke-width="1.2" stroke-linecap="round"/>
+    <ellipse cx="4.58" cy="3.04" rx="2.2" ry="4.8" fill="#ff7ac6" opacity="0.88" transform="rotate(33.6,4.58,3.04)"/><ellipse cx="-0.35" cy="5.49" rx="2.2" ry="4.8" fill="#ff7ac6" opacity="0.88" transform="rotate(93.6,-0.35,5.49)"/><ellipse cx="-4.93" cy="2.45" rx="2.2" ry="4.8" fill="#ff7ac6" opacity="0.88" transform="rotate(153.6,-4.93,2.45)"/><ellipse cx="-4.58" cy="-3.04" rx="2.2" ry="4.8" fill="#ff7ac6" opacity="0.88" transform="rotate(213.6,-4.58,-3.04)"/><ellipse cx="0.35" cy="-5.49" rx="2.2" ry="4.8" fill="#ff7ac6" opacity="0.88" transform="rotate(273.6,0.35,-5.49)"/><ellipse cx="4.93" cy="-2.45" rx="2.2" ry="4.8" fill="#ff7ac6" opacity="0.88" transform="rotate(333.6,4.93,-2.45)"/>
+    <circle r="2.4" fill="#fff3b0"/>
+  </g>
+<rect x="1310" y="136" width="22" height="22" rx="4" fill="#8ff0d8" opacity="0.14"/>
+
+  <g transform="translate(1321,148)">
+    <circle r="10.7" fill="#8ff0d8" opacity="0.08">
+      <animate attributeName="opacity" values="0.08;0.18;0.08" dur="3.4s" begin="-2.7s" repeatCount="indefinite"/>
+    </circle>
+    <line x1="0" y1="8" x2="0" y2="0" stroke="#2fc4a5" stroke-width="1.5" stroke-linecap="round"/>
+    <ellipse cx="0.00" cy="-6.50" rx="4" ry="7" fill="#8ff0d8" opacity="0.7" transform="rotate(-90.0,0.00,-6.50)"/><ellipse cx="6.18" cy="-2.01" rx="4" ry="7" fill="#8ff0d8" opacity="0.7" transform="rotate(-18.0,6.18,-2.01)"/><ellipse cx="3.82" cy="5.26" rx="4" ry="7" fill="#8ff0d8" opacity="0.7" transform="rotate(54.0,3.82,5.26)"/><ellipse cx="-3.82" cy="5.26" rx="4" ry="7" fill="#8ff0d8" opacity="0.7" transform="rotate(126.0,-3.82,5.26)"/><ellipse cx="-6.18" cy="-2.01" rx="4" ry="7" fill="#8ff0d8" opacity="0.7" transform="rotate(198.0,-6.18,-2.01)"/>
+    <ellipse cx="2.06" cy="-2.83" rx="2.5" ry="4.5" fill="#8ff0d8" opacity="0.9" transform="rotate(-54.0,2.06,-2.83)"/><ellipse cx="3.33" cy="1.08" rx="2.5" ry="4.5" fill="#8ff0d8" opacity="0.9" transform="rotate(18.0,3.33,1.08)"/><ellipse cx="0.00" cy="3.50" rx="2.5" ry="4.5" fill="#8ff0d8" opacity="0.9" transform="rotate(90.0,0.00,3.50)"/><ellipse cx="-3.33" cy="1.08" rx="2.5" ry="4.5" fill="#8ff0d8" opacity="0.9" transform="rotate(162.0,-3.33,1.08)"/><ellipse cx="-2.06" cy="-2.83" rx="2.5" ry="4.5" fill="#8ff0d8" opacity="0.9" transform="rotate(234.0,-2.06,-2.83)"/>
+    <circle r="2.8" fill="#fff3b0"/>
+    <circle r="1.4" fill="#fffde7"/>
+  </g>
+<rect x="1310" y="162" width="22" height="22" rx="4" fill="#6be3ff" opacity="0.11"/>
+
+  <g transform="translate(1321,175)">
+    <line x1="0" y1="7" x2="0" y2="-1" stroke="#2fc4a5" stroke-width="1.4" stroke-linecap="round"/>
+    <ellipse cx="2.74" cy="5.34" rx="3.5" ry="5.5" fill="#6be3ff" opacity="0.85" transform="rotate(62.8,2.74,5.34)"/><ellipse cx="-4.23" cy="4.26" rx="3.5" ry="5.5" fill="#6be3ff" opacity="0.85" transform="rotate(134.8,-4.23,4.26)"/><ellipse cx="-5.36" cy="-2.70" rx="3.5" ry="5.5" fill="#6be3ff" opacity="0.85" transform="rotate(206.8,-5.36,-2.70)"/><ellipse cx="0.92" cy="-5.93" rx="3.5" ry="5.5" fill="#6be3ff" opacity="0.85" transform="rotate(278.8,0.92,-5.93)"/><ellipse cx="5.92" cy="-0.96" rx="3.5" ry="5.5" fill="#6be3ff" opacity="0.85" transform="rotate(350.8,5.92,-0.96)"/>
+    <circle r="3" fill="#fff3b0"/>
+    <circle r="3" fill="#6be3ff" opacity="0.25">
+      <animate attributeName="r" values="3;5;3" dur="5.3s" begin="-4.9s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.25;0;0.25" dur="5.3s" begin="-4.9s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+<rect x="1310" y="188" width="22" height="22" rx="4" fill="#ffd6e0" opacity="0.07"/>
+
+  <g transform="translate(1321,202)">
+    <line x1="0" y1="6" x2="0" y2="-2" stroke="#2fc4a5" stroke-width="1.2" stroke-linecap="round"/>
+    <ellipse cx="5.00" cy="2.29" rx="2.2" ry="4.8" fill="#ffd6e0" opacity="0.88" transform="rotate(24.6,5.00,2.29)"/><ellipse cx="0.52" cy="5.48" rx="2.2" ry="4.8" fill="#ffd6e0" opacity="0.88" transform="rotate(84.6,0.52,5.48)"/><ellipse cx="-4.48" cy="3.19" rx="2.2" ry="4.8" fill="#ffd6e0" opacity="0.88" transform="rotate(144.6,-4.48,3.19)"/><ellipse cx="-5.00" cy="-2.29" rx="2.2" ry="4.8" fill="#ffd6e0" opacity="0.88" transform="rotate(204.6,-5.00,-2.29)"/><ellipse cx="-0.52" cy="-5.48" rx="2.2" ry="4.8" fill="#ffd6e0" opacity="0.88" transform="rotate(264.6,-0.52,-5.48)"/><ellipse cx="4.48" cy="-3.19" rx="2.2" ry="4.8" fill="#ffd6e0" opacity="0.88" transform="rotate(324.6,4.48,-3.19)"/>
+    <circle r="2.4" fill="#fff3b0"/>
+  </g>
+<circle cx="1347" cy="43" r="0.8" fill="#2fc4a5" opacity="0.21"/>
+<rect x="1336" y="58" width="22" height="22" rx="4" fill="#ff7ac6" opacity="0.05"/>
+
+  <g transform="translate(1347,72) rotate(10.738387765760805)">
+    <line x1="0" y1="2" x2="0" y2="-7" stroke="#2fc4a5" stroke-width="1.4" stroke-linecap="round"/>
+    <ellipse cx="-2.5" cy="-5" rx="2.8" ry="4.5" fill="#ff7ac6" opacity="0.9" transform="rotate(-25,-2.5,-5)"/>
+    <ellipse cx="2.5" cy="-5" rx="2.8" ry="4.5" fill="#ff7ac6" opacity="0.9" transform="rotate(25,2.5,-5)"/>
+  </g>
+<rect x="1336" y="84" width="22" height="22" rx="4" fill="#ffd6e0" opacity="0.13"/>
+
+  <g transform="translate(1347,96)">
+    <circle r="8.2" fill="#ffd6e0" opacity="0.08">
+      <animate attributeName="opacity" values="0.08;0.18;0.08" dur="4.7s" begin="-4.3s" repeatCount="indefinite"/>
+    </circle>
+    <line x1="0" y1="8" x2="0" y2="0" stroke="#2fc4a5" stroke-width="1.5" stroke-linecap="round"/>
+    <ellipse cx="0.00" cy="-6.50" rx="4" ry="7" fill="#ffd6e0" opacity="0.7" transform="rotate(-90.0,0.00,-6.50)"/><ellipse cx="6.18" cy="-2.01" rx="4" ry="7" fill="#ffd6e0" opacity="0.7" transform="rotate(-18.0,6.18,-2.01)"/><ellipse cx="3.82" cy="5.26" rx="4" ry="7" fill="#ffd6e0" opacity="0.7" transform="rotate(54.0,3.82,5.26)"/><ellipse cx="-3.82" cy="5.26" rx="4" ry="7" fill="#ffd6e0" opacity="0.7" transform="rotate(126.0,-3.82,5.26)"/><ellipse cx="-6.18" cy="-2.01" rx="4" ry="7" fill="#ffd6e0" opacity="0.7" transform="rotate(198.0,-6.18,-2.01)"/>
+    <ellipse cx="2.06" cy="-2.83" rx="2.5" ry="4.5" fill="#ffd6e0" opacity="0.9" transform="rotate(-54.0,2.06,-2.83)"/><ellipse cx="3.33" cy="1.08" rx="2.5" ry="4.5" fill="#ffd6e0" opacity="0.9" transform="rotate(18.0,3.33,1.08)"/><ellipse cx="0.00" cy="3.50" rx="2.5" ry="4.5" fill="#ffd6e0" opacity="0.9" transform="rotate(90.0,0.00,3.50)"/><ellipse cx="-3.33" cy="1.08" rx="2.5" ry="4.5" fill="#ffd6e0" opacity="0.9" transform="rotate(162.0,-3.33,1.08)"/><ellipse cx="-2.06" cy="-2.83" rx="2.5" ry="4.5" fill="#ffd6e0" opacity="0.9" transform="rotate(234.0,-2.06,-2.83)"/>
+    <circle r="2.8" fill="#fff3b0"/>
+    <circle r="1.4" fill="#fffde7"/>
+  </g>
+<circle cx="1347" cy="121" r="0.8" fill="#2fc4a5" opacity="0.13"/>
+<circle cx="1347" cy="147" r="0.8" fill="#2fc4a5" opacity="0.14"/>
+<rect x="1336" y="162" width="22" height="22" rx="4" fill="#8ff0d8" opacity="0.06"/>
+
+  <g transform="translate(1347,176) rotate(-10.225193177803206)">
+    <line x1="0" y1="2" x2="0" y2="-7" stroke="#2fc4a5" stroke-width="1.4" stroke-linecap="round"/>
+    <ellipse cx="-2.5" cy="-5" rx="2.8" ry="4.5" fill="#8ff0d8" opacity="0.9" transform="rotate(-25,-2.5,-5)"/>
+    <ellipse cx="2.5" cy="-5" rx="2.8" ry="4.5" fill="#8ff0d8" opacity="0.9" transform="rotate(25,2.5,-5)"/>
+  </g>
+<rect x="1336" y="188" width="22" height="22" rx="4" fill="#c9a7ff" opacity="0.06"/>
+
+  <g transform="translate(1347,202) rotate(4.497175821946659)">
+    <line x1="0" y1="2" x2="0" y2="-7" stroke="#2fc4a5" stroke-width="1.4" stroke-linecap="round"/>
+    <ellipse cx="-2.5" cy="-5" rx="2.8" ry="4.5" fill="#c9a7ff" opacity="0.9" transform="rotate(-25,-2.5,-5)"/>
+    <ellipse cx="2.5" cy="-5" rx="2.8" ry="4.5" fill="#c9a7ff" opacity="0.9" transform="rotate(25,2.5,-5)"/>
+  </g>
+<rect x="1362" y="32" width="22" height="22" rx="4" fill="#b28dff" opacity="0.14"/>
+
+  <g transform="translate(1373,44)">
+    <circle r="8.2" fill="#b28dff" opacity="0.08">
+      <animate attributeName="opacity" values="0.08;0.18;0.08" dur="3.0s" begin="-0.3s" repeatCount="indefinite"/>
+    </circle>
+    <line x1="0" y1="8" x2="0" y2="0" stroke="#2fc4a5" stroke-width="1.5" stroke-linecap="round"/>
+    <ellipse cx="0.00" cy="-6.50" rx="4" ry="7" fill="#b28dff" opacity="0.7" transform="rotate(-90.0,0.00,-6.50)"/><ellipse cx="6.18" cy="-2.01" rx="4" ry="7" fill="#b28dff" opacity="0.7" transform="rotate(-18.0,6.18,-2.01)"/><ellipse cx="3.82" cy="5.26" rx="4" ry="7" fill="#b28dff" opacity="0.7" transform="rotate(54.0,3.82,5.26)"/><ellipse cx="-3.82" cy="5.26" rx="4" ry="7" fill="#b28dff" opacity="0.7" transform="rotate(126.0,-3.82,5.26)"/><ellipse cx="-6.18" cy="-2.01" rx="4" ry="7" fill="#b28dff" opacity="0.7" transform="rotate(198.0,-6.18,-2.01)"/>
+    <ellipse cx="2.06" cy="-2.83" rx="2.5" ry="4.5" fill="#b28dff" opacity="0.9" transform="rotate(-54.0,2.06,-2.83)"/><ellipse cx="3.33" cy="1.08" rx="2.5" ry="4.5" fill="#b28dff" opacity="0.9" transform="rotate(18.0,3.33,1.08)"/><ellipse cx="0.00" cy="3.50" rx="2.5" ry="4.5" fill="#b28dff" opacity="0.9" transform="rotate(90.0,0.00,3.50)"/><ellipse cx="-3.33" cy="1.08" rx="2.5" ry="4.5" fill="#b28dff" opacity="0.9" transform="rotate(162.0,-3.33,1.08)"/><ellipse cx="-2.06" cy="-2.83" rx="2.5" ry="4.5" fill="#b28dff" opacity="0.9" transform="rotate(234.0,-2.06,-2.83)"/>
+    <circle r="2.8" fill="#fff3b0"/>
+    <circle r="1.4" fill="#fffde7"/>
+  </g>
+<circle cx="1373" cy="69" r="0.8" fill="#2fc4a5" opacity="0.20"/>
+<circle cx="1373" cy="95" r="0.8" fill="#2fc4a5" opacity="0.13"/>
+<circle cx="1373" cy="121" r="0.8" fill="#2fc4a5" opacity="0.21"/>
+<circle cx="1373" cy="147" r="0.8" fill="#2fc4a5" opacity="0.21"/>
+<circle cx="1373" cy="173" r="0.8" fill="#2fc4a5" opacity="0.20"/>
+<circle cx="1373" cy="199" r="0.8" fill="#2fc4a5" opacity="0.20"/>
+<circle cx="1399" cy="43" r="0.8" fill="#2fc4a5" opacity="0.20"/>
+<circle cx="1399" cy="69" r="0.8" fill="#2fc4a5" opacity="0.19"/>
+<rect x="1388" y="84" width="22" height="22" rx="4" fill="#b28dff" opacity="0.07"/>
+
+  <g transform="translate(1399,98)">
+    <line x1="0" y1="6" x2="0" y2="-2" stroke="#2fc4a5" stroke-width="1.2" stroke-linecap="round"/>
+    <ellipse cx="5.49" cy="0.40" rx="2.2" ry="4.8" fill="#b28dff" opacity="0.88" transform="rotate(4.1,5.49,0.40)"/><ellipse cx="2.40" cy="4.95" rx="2.2" ry="4.8" fill="#b28dff" opacity="0.88" transform="rotate(64.1,2.40,4.95)"/><ellipse cx="-3.09" cy="4.55" rx="2.2" ry="4.8" fill="#b28dff" opacity="0.88" transform="rotate(124.1,-3.09,4.55)"/><ellipse cx="-5.49" cy="-0.40" rx="2.2" ry="4.8" fill="#b28dff" opacity="0.88" transform="rotate(184.1,-5.49,-0.40)"/><ellipse cx="-2.40" cy="-4.95" rx="2.2" ry="4.8" fill="#b28dff" opacity="0.88" transform="rotate(244.1,-2.40,-4.95)"/><ellipse cx="3.09" cy="-4.55" rx="2.2" ry="4.8" fill="#b28dff" opacity="0.88" transform="rotate(304.1,3.09,-4.55)"/>
+    <circle r="2.4" fill="#fff3b0"/>
+  </g>
+<circle cx="1399" cy="121" r="0.8" fill="#2fc4a5" opacity="0.12"/>
+<rect x="1388" y="136" width="22" height="22" rx="4" fill="#c9a7ff" opacity="0.06"/>
+
+  <g transform="translate(1399,150) rotate(11.310332598551028)">
+    <line x1="0" y1="2" x2="0" y2="-7" stroke="#2fc4a5" stroke-width="1.4" stroke-linecap="round"/>
+    <ellipse cx="-2.5" cy="-5" rx="2.8" ry="4.5" fill="#c9a7ff" opacity="0.9" transform="rotate(-25,-2.5,-5)"/>
+    <ellipse cx="2.5" cy="-5" rx="2.8" ry="4.5" fill="#c9a7ff" opacity="0.9" transform="rotate(25,2.5,-5)"/>
+  </g>
+<circle cx="1399" cy="173" r="0.8" fill="#2fc4a5" opacity="0.20"/>
+<circle cx="1399" cy="199" r="0.8" fill="#2fc4a5" opacity="0.13"/>
+<text x="36" y="242" font-family="'SF Mono',monospace" font-size="8" fill="#4a3a7a">less</text>
+<rect x="64" y="230" width="13" height="13" rx="3" fill="#4a3a7a" opacity="0.25"/>
+<text x="70" y="241" font-family="serif" font-size="10" fill="#4a3a7a" text-anchor="middle">·</text>
+<rect x="81" y="230" width="13" height="13" rx="3" fill="#ff7ac6" opacity="0.25"/>
+<text x="87" y="241" font-family="serif" font-size="10" fill="#ff7ac6" text-anchor="middle">🌱</text>
+<rect x="98" y="230" width="13" height="13" rx="3" fill="#b28dff" opacity="0.25"/>
+<text x="104" y="241" font-family="serif" font-size="10" fill="#b28dff" text-anchor="middle">🌷</text>
+<rect x="115" y="230" width="13" height="13" rx="3" fill="#6be3ff" opacity="0.25"/>
+<text x="121" y="241" font-family="serif" font-size="10" fill="#6be3ff" text-anchor="middle">🌸</text>
+<rect x="132" y="230" width="13" height="13" rx="3" fill="#ffd6e0" opacity="0.25"/>
+<text x="138" y="241" font-family="serif" font-size="10" fill="#ffd6e0" text-anchor="middle">🌺</text>
+<text x="153" y="242" font-family="'SF Mono',monospace" font-size="8" fill="#4a3a7a">more</text>
+</svg>
