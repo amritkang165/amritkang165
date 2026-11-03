@@ -1,0 +1,17 @@
+Built-in image generation: wide GitHub banner adapted from the effects portrait
+
+Use case: compositing / identity-preserve.
+Make a finished GitHub README BANNER, ULTRA-WIDE LANDSCAPE 3:1, approximately 2172x724. NOT a portrait or profile picture.
+Image 1 is the main edit target: the rear-facing person with the JATT KANG shirt, cobalt light streaks and orange rim light. Recompose and extend that exact artwork into a wide header. Image 2 is the old GitHub banner, provided ONLY for its textual content, legible masthead and orange footer style. Do NOT use any of its faces or collage photographs.
+Use ONE photographic subject: the rear-facing person from image 1, on the right 40–45% of the banner, head fully visible below the top label, cropped near the waist at the bottom strip. Preserve their back-facing pose, hair and white scrunchie, glasses in profile, natural body shape, white shirt folds and exact blue "JATT KANG" and "26" shirt design. Make that shirt design clearly visible. Do not invent a front-facing face.
+Expand the charcoal/midnight-blue background leftward into generous clean negative space. Keep cobalt long-exposure trails and warm orange rim light around the right-hand subject; fade trails away before the left typography so letters stay perfectly readable. Use tasteful atmospheric depth and fine film grain, not an overcrowded collage.
+Left typography in bright ivory, bold editorial sans-serif:
+top-left large readable label: "AMRIT KANG / AFTER HOURS"
+huge two-line headline: "IDEAS LOUD." then "CODE LOUDER."
+smaller but clearly readable subtitle: "BACKEND SYSTEMS. NATIVE APPS. AI."
+top-right label: "BITS PILANI · COMPUTER SCIENCE"
+Keep top labels high-contrast, well padded, large enough to read at typical GitHub widths.
+Keep a full-width vivid orange footer stripe across the very bottom, matching image 2's height and style, with bold black text exactly:
+"FULL-STACK  /  iOS  /  AI ENGINEERING  /  OPEN SOURCE"
+Correct ENGINEERING spelling: E N G I N E E R I N G.
+Composition should feel cinematic, clean and deliberate: strong type left, a single striking rear-view portrait right, controlled electric blue and orange light trails in the background. No inset frames, no duplicated people, no extra text, no decorative fake code, no watermark. All text and the head safely within the frame.
