@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="320" viewBox="0 0 900 320" role="img" aria-labelledby="title desc">
+  <title id="title">JattChat — your thoughts, your phone.</title>
+  <desc id="desc">On-device AI, private build, coming soon. An animated signal stays inside a phone outline.</desc>
+  <defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#f6ecd9" stroke-opacity=".045"/></pattern></defs>
+  <style>.dot{animation:blink 3s ease-in-out infinite}.wave{transform-origin:752px 164px;animation:breathe 4s ease-in-out infinite}@keyframes blink{50%{opacity:.35}}@keyframes breathe{50%{transform:scaleY(.55)}}@media(prefers-reduced-motion:reduce){.dot,.wave{animation:none}}</style>
+  <rect width="900" height="320" rx="8" fill="#151515"/>
+  <rect width="900" height="320" rx="8" fill="url(#grid)"/>
+  <path d="M0 0H900" stroke="#ff5b24" stroke-width="6"/>
+  <g font-family="Arial,Helvetica,sans-serif">
+    <text x="38" y="45" font-family="monospace" font-size="17" letter-spacing="2" fill="#c3b9a8">PRIVATE BUILD / 01</text>
+    <circle class="dot" cx="717" cy="39" r="5" fill="#ff5b24"/>
+    <text x="734" y="45" font-family="monospace" font-size="16" fill="#ff8155">COMING SOON</text>
+    <text x="34" y="129" font-size="72" font-weight="800" letter-spacing="-3" fill="#f6ecd9">JattChat</text>
+    <text x="38" y="177" font-size="30" fill="#f6ecd9">your thoughts. your phone.</text>
+    <path d="M38 207H555" stroke="#4d473e"/>
+    <text x="38" y="240" font-size="19" fill="#c3b9a8">NATIVE iOS / ON-DEVICE AI</text>
+    <text x="38" y="279" font-family="monospace" font-size="16" fill="#ff8155">less cloud. more yours.</text>
+  </g>
+  <g fill="none" stroke-linecap="round">
+    <circle cx="751" cy="179" r="107" stroke="#ff5b24" stroke-opacity=".18" stroke-dasharray="2 9"/>
+    <rect x="690" y="77" width="124" height="209" rx="24" stroke="#f6ecd9" stroke-width="2"/>
+    <path d="M733 90h38M738 272h28" stroke="#f6ecd9" stroke-width="3"/>
+    <rect x="708" y="117" width="87" height="110" rx="14" stroke="#ff5b24" stroke-opacity=".4"/>
+    <g class="wave" stroke="#ff5b24" stroke-width="5"><path d="M721 156v16M736 141v46M751 132v64M766 143v42M781 153v22"/></g>
+    <path d="M744 244h15" stroke="#ff8155" stroke-width="3"/>
+  </g>
+</svg>

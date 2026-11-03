@@ -1,0 +1,12 @@
+Use case: identity-preserve.
+Asset type: a finished ultra-wide GitHub profile README hero banner, 3:1 landscape aspect ratio.
+Input image 1 is the identity and pose reference: use ONLY the main person in the foreground holding a microphone. Preserve their recognizable face, glasses, dark tied-back hair, natural smile, skin tone, white T-shirt, hand and microphone, and body proportions. Remove the office and all other people.
+Create a bold editorial technology magazine cover for Amrit Kang: nearly black charcoal backdrop, warm ivory typography, vivid vermilion/orange accent, technical Swiss grid, subtle film grain and halftone print details. Sophisticated experimental collage, high contrast, strong hierarchy, not generic neon cyberpunk.
+Composition: giant clean stacked title on the left, portrait cutout occupying the right half from waist upward with head entirely visible, a single oversized orange orbital ring behind the portrait, fine grid lines and a few precise registration marks. A narrow orange ticker band along the bottom lists specialisations in clear uppercase type. The mic is a character detail from the original photo; this is a software engineer profile.
+Exact text, render legibly with no additions:
+small upper-left: "AMRIT KANG / AFTER HOURS"
+huge left headline on two lines: "IDEAS LOUD." then "CODE LOUDER."
+small subtitle under headline: "BACKEND SYSTEMS. NATIVE APPS. AI."
+bottom ticker: "FULL-STACK  /  iOS  /  AI ENGINEERING  /  OPEN SOURCE"
+small upper-right label: "BITS PILANI · COMPUTER SCIENCE"
+Use broad negative space and generously padded margins. All text fully inside frame. Portrait must be realistic and recognizable, not cartoonized, no beautification, no altered facial structure. No invented app UI, logos, flowers, fake code, contact details, or extra people. Output a polished final banner.

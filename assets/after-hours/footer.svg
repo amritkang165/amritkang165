@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-labelledby="title desc">
+  <title id="title">Have a strange idea? Let's build it.</title>
+  <desc id="desc">Amrit Kang / After Hours. A large arrow points toward the next project.</desc>
+  <style>.arrow{animation:nudge 4s ease-in-out infinite}@keyframes nudge{50%{transform:translate(8px,-8px)}}@media(prefers-reduced-motion:reduce){.arrow{animation:none}}</style>
+  <rect width="1200" height="230" rx="8" fill="#ff5b24"/>
+  <g fill="#151515" font-family="Arial,Helvetica,sans-serif">
+    <text x="40" y="45" font-family="monospace" font-size="18" letter-spacing="2">AMRIT KANG / AFTER HOURS</text>
+    <text x="36" y="122" font-size="59" font-weight="800" letter-spacing="-2">have a strange idea?</text>
+    <text x="38" y="188" font-size="59" font-weight="800" letter-spacing="-2">let's build it.</text>
+  </g>
+  <g class="arrow" stroke="#151515" stroke-width="11" fill="none" stroke-linecap="square"><path d="M982 170l113-113M1002 57h93v93"/></g>
+</svg>

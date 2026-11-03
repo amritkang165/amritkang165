@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="40" viewBox="0 0 1200 40" role="img" aria-label="An orange signal moving along a fine rule">
+  <style>@media(prefers-reduced-motion:reduce){.pulse{animation:none!important}}.pulse{animation:transmit 7s ease-in-out infinite}@keyframes transmit{0%,100%{transform:translateX(0)}50%{transform:translateX(1130px)}}</style>
+  <path d="M0 20H1200" stroke="#70685e" stroke-opacity=".45"/>
+  <g class="pulse"><path d="M0 20h70" stroke="#ff5b24" stroke-width="3"/><circle cx="70" cy="20" r="4" fill="#ff5b24"/></g>
+  <path d="M0 12v16M1200 12v16" stroke="#ff5b24" stroke-width="2"/>
+</svg>

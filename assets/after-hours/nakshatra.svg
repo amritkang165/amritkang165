@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="320" viewBox="0 0 900 320" role="img" aria-labelledby="title desc">
+  <title id="title">Nakshatra — old skies, new engineering.</title>
+  <desc id="desc">Flutter meets Rust. Reproducible calculations. Private build, coming soon. A slowly rotating orbital diagram.</desc>
+  <defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#151515" stroke-opacity=".05"/></pattern></defs>
+  <style>.orbit{transform-origin:750px 179px;animation:orbit 45s linear infinite}.dot{animation:blink 3s ease-in-out infinite}@keyframes orbit{to{transform:rotate(360deg)}}@keyframes blink{50%{opacity:.35}}@media(prefers-reduced-motion:reduce){.orbit,.dot{animation:none}}</style>
+  <rect width="900" height="320" rx="8" fill="#f6ecd9"/>
+  <rect width="900" height="320" rx="8" fill="url(#grid)"/>
+  <path d="M0 0H900" stroke="#ff5b24" stroke-width="6"/>
+  <g font-family="Arial,Helvetica,sans-serif">
+    <text x="38" y="45" font-family="monospace" font-size="17" letter-spacing="2" fill="#5c5347">PRIVATE BUILD / 02</text>
+    <circle class="dot" cx="717" cy="39" r="5" fill="#bd350f"/>
+    <text x="734" y="45" font-family="monospace" font-size="16" fill="#a82c0a">COMING SOON</text>
+    <text x="34" y="129" font-size="72" font-weight="800" letter-spacing="-3" fill="#151515">Nakshatra</text>
+    <text x="38" y="177" font-size="30" fill="#151515">old skies. new engineering.</text>
+    <path d="M38 207H555" stroke="#b6aa96"/>
+    <text x="38" y="240" font-size="19" fill="#5c5347">FLUTTER / RUST / REPRODUCIBLE BY DESIGN</text>
+    <text x="38" y="279" font-family="monospace" font-size="16" fill="#a82c0a">every chart has a calculation behind it.</text>
+  </g>
+  <g fill="none" stroke="#151515">
+    <circle cx="750" cy="179" r="105" stroke-opacity=".3"/>
+    <circle cx="750" cy="179" r="77" stroke-opacity=".4"/>
+    <path d="M750 74v210M645 179h210M676 105l148 148M676 253l148-148" stroke-opacity=".2"/>
+    <path d="M750 109l70 70-70 70-70-70Z" stroke-width="1.5"/>
+    <path d="M750 143v72M714 179h72" stroke="#bd350f" stroke-width="2"/>
+    <circle cx="750" cy="179" r="19" stroke="#bd350f" stroke-width="2"/>
+    <g class="orbit"><circle cx="750" cy="74" r="8" fill="#ff5b24" stroke="none"/><circle cx="750" cy="256" r="5" fill="#151515" stroke="none"/></g>
+  </g>
+</svg>
