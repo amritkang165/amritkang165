@@ -210,6 +210,8 @@ Apple platform deep dives. system design. agents and evals. *Designing Data-Inte
 
 if you're building something useful, strange, or slightly over-engineered, we'll probably get along.
 
+fun fact — I'm Jatt.
+
 **[send a hello](mailto:amritkang2805@icloud.com)** · **[read my posts](https://dev.to/amritkang165)** · **[AWS Builder profile](https://builder.aws.com/profile/jattkang)**
 
 </details>
