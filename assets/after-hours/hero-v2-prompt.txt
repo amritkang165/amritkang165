@@ -1,0 +1,11 @@
+Use case: identity-preserve.
+Asset type: updated GitHub README hero banner. Ultra-wide 3:1 landscape, high-resolution editorial collage.
+Input image 1 is the EXISTING BANNER and design reference. Keep its orange/charcoal/ivory design language, strong type hierarchy, and exact wording below, but improve the composition with more candid photos. Input image 2 is the main seated portrait identity reference. Input image 3 is the original standing microphone portrait. Input image 4 is a standing candid side-angle portrait. All three photos show the SAME person; preserve their recognizable face, glasses, dark hair, natural expressions, skin tone and white T-shirt. Remove every background and other person from the source photos.
+Composition: left 52% is bold typography on charcoal; right 48% is an art-directed asymmetrical contact sheet. One large, clear head-and-shoulders portrait from image 2 is the dominant foreground, with two smaller off-angle framed photographic insets behind and to its right: the mic pose from image 3, and the candid standing pose from image 4. Keep the main face entirely visible and at least twice the visual size of the secondary faces. The insets are clearly separate photographs of the same person, not extra people in a scene. Use thin warm-ivory frames, a single burnt-orange orbit behind the main portrait, subtle halftone and print texture at the edges, generous negative space. Avoid a cluttered scrapbook.
+Text exactly:
+small upper-left: "AMRIT KANG / AFTER HOURS"
+huge left headline on two lines: "IDEAS LOUD." and "CODE LOUDER."
+small subtitle under headline: "BACKEND SYSTEMS. NATIVE APPS. AI."
+orange bottom strip: "FULL-STACK  /  iOS  /  AI ENGINEERING  /  OPEN SOURCE"
+small upper-right: "BITS PILANI · COMPUTER SCIENCE"
+Keep all typography crisp, inside margins and clear of faces. Natural faces, no beautification, no changing physical features. Match the real photographs more closely than the previous generated face. Keep text fully static in the artwork; animation will be added separately as thin vector accents along the frame. No extra labels, logos, watermarks, fake UI or code.

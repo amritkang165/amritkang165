@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="assets/after-hours/amrit-hero.png" width="100%" alt="Amrit Kang / After Hours. Ideas loud. Code louder. Portrait of Amrit holding a microphone, with specialisations in full-stack development, iOS, AI engineering, and open source." />
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/after-hours/amrit-hero-v2.jpg" />
+    <img src="assets/after-hours/amrit-hero-animated.svg" width="100%" alt="Amrit Kang / After Hours. Ideas loud. Code louder. Three portraits of Amrit, with an animated orange frame. Full-stack development, iOS, AI engineering, and open source." />
+  </picture>
 </div>
 
 <div align="center">
