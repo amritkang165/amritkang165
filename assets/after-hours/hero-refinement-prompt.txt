@@ -1,0 +1,20 @@
+Built-in image generation: banner layout refinement
+
+Use case: identity-preserve / precise layout refinement.
+Input image is the existing final GitHub README banner. Edit this banner, do not redesign it. Keep the 3:1 ultra-wide aspect ratio and every existing phrase verbatim.
+
+Make ONLY these refinements:
+1. The top masthead labels "AMRIT KANG / AFTER HOURS" and "BITS PILANI · COMPUTER SCIENCE" must be more readable. Increase them about 30–40% in size, use a heavier clean sans-serif weight and near-white ivory #FFF9ED against an even near-black #101010 top band, reduce the background texture behind the letters, and keep generous padding. Aim for 42px type on the 2172px-wide canvas. Expand the top band slightly if necessary. Keep both labels on one line and do not let any portrait overlap this band.
+2. Give all three photos on the right breathing room. Reduce the dominant seated cutout by roughly 15%, move its head safely below the masthead, and keep it the clear largest portrait. Separate the two smaller framed portraits from each other and from the main cutout with visible charcoal gaps, at least 35–50px on a 2172px-wide canvas. Use a calm diagonal arrangement: main portrait around x=1110..1555, below y=115; mic inset around x=1615..1860,y=135..370; side-pose inset around x=1850..2090,y=405..635. These are layout guides, not text to render. The small photos should be individually readable and their frames must not touch or overlap. Give the cluster at least 55px clearance from the right edge. Slight frame rotations are fine, but reduce exaggerated angles if needed. Preserve all three exact identities, expressions, glasses, hair, poses, clothes and facial details; do not synthesize new facial features.
+3. KEEP THE ORANGE FOOTER STRIP UNCHANGED: same orange, same height, same bottom position, same strong black lettering "FULL-STACK  /  iOS  /  AI ENGINEERING  /  OPEN SOURCE", same end registration marks. Do not shrink or remove it.
+
+Preserve the giant left-side "IDEAS LOUD." / "CODE LOUDER." headline, its position and typography, the subtitle "BACKEND SYSTEMS. NATIVE APPS. AI.", the charcoal/ivory/orange palette, the orange orbit, and subtle edge print texture. Keep the headline completely clear of faces and photographs. Overall result should feel like a careful spacing and accessibility polish of the SAME banner, not a new theme. No extra text, no extra photos, no watermark.
+
+Footer correction pass
+
+Use case: precise-object-edit / text-localization.
+Image 1 is the updated banner and the edit target. Image 2 is the original banner, provided ONLY as an exact reference for the orange footer strip.
+Make ONE correction, limited entirely to the bottom orange footer band of image 1 (approximately y=650..724 on this 2172x724 image): restore the original footer band from image 2, including its original correct lettering. In particular the text must be "AI ENGINEERING" spelled A I [space] E N G I N E E R I N G, not "AI ENGINEERNIING" or any other spelling.
+The entire footer text must read exactly: "FULL-STACK  /  iOS  /  AI ENGINEERING  /  OPEN SOURCE".
+Keep the orange, height, layout, black lettering and two registration marks exactly as in image 2.
+Keep EVERYTHING ABOVE THE ORANGE FOOTER in image 1 unchanged: all three faces, their new wider spacing, large high-contrast masthead, giant headline, subtitle, orbit, textures and layout. Do not move or redraw any of those. This is a footer-only typo fix. Maintain the exact ultra-wide 3:1 aspect ratio.
