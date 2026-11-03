@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
     <source media="(prefers-reduced-motion: reduce)" srcset="assets/after-hours/amrit-hero-effects.jpg" />
-    <img src="assets/after-hours/amrit-hero-animated.svg" width="100%" alt="Amrit Kang / After Hours. Ideas loud. Code louder. A face portrait beside a rear-view JATT KANG shirt photo, with electric-blue trails, orange rim lighting, pulsing constellation accents and an animated frame. Full-stack development, iOS, AI engineering, and open source." />
+    <img src="assets/after-hours/amrit-hero-animated.svg" width="100%" alt="Amrit Kang / After Hours. Ideas loud. Code louder. A face portrait beside a rear-view JATT KANG shirt photo, with a charcoal background, orange rim lighting and an animated orange frame. Full-stack development, iOS, AI engineering, and open source." />
   </picture>
 </div>
 
