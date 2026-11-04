@@ -84,20 +84,19 @@ added a JSON Schema for `service.json`, giving service manifests editor guidance
 
 **[merged PR #416 ↗](https://github.com/flisk-sh/flisk/pull/416)** · JSON Schema · service configuration · contract testing
 
-### Sudoku Solver · correctness
+### ReGit · research tooling
 
-when someone corrected their grid, the solver quietly kept the old one. fixed the discarded return value in both solver implementations so retries actually use the corrected input.
+built the research workspace frontend: artifact ingestion, branch management, commit history, semantic diffs, and conflict resolution. added cited search, real-time collaboration wiring, and a browser smoke-test harness.
 
-**[merged PR #4 ↗](https://github.com/muneer406/Sudoku-Solver-Python/pull/4)** · Python · recursion · regression verification
+**[merged PR #15 ↗](https://github.com/Muneer320/ReGit/pull/15)** · React · TypeScript · Yjs
 
-<details>
-<summary><b>another small upstream fix ↗</b></summary>
+### iffy.ai · interactive simulations
 
-<br>
+made “what if?” results explorable: interactive flowcharts, branching simulations, and saved simulation history. contributed UI improvements and fixes across the frontend and debate backend.
 
-**[ReGit · merged PR #16](https://github.com/Muneer320/ReGit/pull/16)** — corrected the README's description of agent editing branches.
+**[flowcharts + branching ↗](https://github.com/Muneer320/iffy-ai/commit/03c2909bb2b878792cd894aee1f07b66ed28e5f6)** · **[history + fixes ↗](https://github.com/Muneer320/iffy-ai/commit/dc9e93cb8da958b7140f45c33523343a1c7d251a)** · Next.js · TypeScript
 
-</details>
+also: **[ReGit · merged PR #16 ↗](https://github.com/Muneer320/ReGit/pull/16)** — clarified the README's description of agent editing branches.
 
 <br>
 
