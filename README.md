@@ -33,7 +33,7 @@ i'm **amrit**, a second-year computer science student at **BITS Pilani**, based 
 
 ## 01 / the lab
 
-**two private builds. a little signal before the reveal.**
+**one private build. a little signal before the reveal.**
 
 <!-- Public teasers only: no private repository links or unreleased source. -->
 <img src="assets/after-hours/jattchat.svg" width="100%" alt="JattChat — your thoughts, your phone. Native on-device AI. Private build, coming soon." />
@@ -48,25 +48,6 @@ what if your AI conversation never needed to leave your iPhone? **JattChat** is 
 the model lives on the device, so the engineering starts with a different question: *is this phone actually ready to run it?* i'm working with Apple's Foundation Models, SwiftUI, and SwiftData to make availability checks, conversation state, and local persistence part of the experience.
 
 **private build · coming soon** — on compatible iPhones with the system model available.
-
-</details>
-
-<br>
-
-<img src="assets/after-hours/nakshatra.svg" width="100%" alt="Nakshatra — old skies, new engineering. Flutter meets Rust. Private build, coming soon." />
-
-a birth chart starts with a time and a place. getting those two things right is an engineering problem. **Nakshatra** brings Kundli charts and a location-aware Panchang into a mobile experience, with reproducible calculations beneath the surface.
-
-<details>
-<summary><b>the interesting bit ↗</b></summary>
-
-<br>
-
-the part i'm most interested in lives below the chart: historical time zones, uncertain birth times, and calculations you can reproduce later. a Flutter interface sits above an independent Rust calculation engine; saved charts retain the inputs and calculation versions behind them.
-
-astronomical calculations and traditional interpretations are kept distinct; the latter are belief-based, not scientifically validated predictions.
-
-**private build · coming soon.**
 
 </details>
 
