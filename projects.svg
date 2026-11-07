@@ -1,0 +1,276 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="956" height="708" viewBox="0 0 956 708">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%"   stop-color="#070417"/>
+    <stop offset="100%" stop-color="#150d3a"/>
+  </linearGradient>
+  <linearGradient id="soil" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%"   stop-color="#1a0f3a"/>
+    <stop offset="100%" stop-color="#0d0824"/>
+  </linearGradient>
+  <filter id="card-shadow" x="-10%" y="-10%" width="120%" height="130%">
+    <feDropShadow dx="0" dy="4" stdDeviation="8" flood-opacity="0.45"/>
+  </filter>
+  <filter id="glow-soft" x="-30%" y="-30%" width="160%" height="160%">
+    <feGaussianBlur stdDeviation="6" result="blur"/>
+    <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+<rect width="956" height="708" rx="20" fill="url(#bg)"/>
+<circle cx="386.2" cy="16.8" r="0.5" fill="#fff"><animate attributeName="opacity" values="0.05;0.8;0.05" dur="3.0s" begin="-1.4s" repeatCount="indefinite"/></circle>
+<circle cx="240.1" cy="32.2" r="0.9" fill="#fff"><animate attributeName="opacity" values="0.05;0.8;0.05" dur="4.2s" begin="-0.4s" repeatCount="indefinite"/></circle>
+<circle cx="467.7" cy="35.4" r="0.9" fill="#fff"><animate attributeName="opacity" values="0.05;0.8;0.05" dur="2.9s" begin="-0.6s" repeatCount="indefinite"/></circle>
+<circle cx="357.5" cy="32.6" r="0.9" fill="#fff"><animate attributeName="opacity" values="0.05;0.8;0.05" dur="2.6s" begin="-2.0s" repeatCount="indefinite"/></circle>
+<circle cx="812.6" cy="28.5" r="1.2" fill="#fff"><animate attributeName="opacity" values="0.05;0.8;0.05" dur="4.1s" begin="-1.4s" repeatCount="indefinite"/></circle>
+<circle cx="448.4" cy="33.8" r="0.5" fill="#fff"><animate attributeName="opacity" values="0.05;0.8;0.05" dur="2.0s" begin="-4.8s" repeatCount="indefinite"/></circle>
+<circle cx="946.0" cy="44.9" r="0.7" fill="#fff"><animate attributeName="opacity" values="0.05;0.8;0.05" dur="5.6s" begin="-2.4s" repeatCount="indefinite"/></circle>
+<circle cx="933.7" cy="30.0" r="0.5" fill="#fff"><animate attributeName="opacity" values="0.05;0.8;0.05" dur="5.7s" begin="-5.0s" repeatCount="indefinite"/></circle>
+<circle cx="757.0" cy="50.0" r="1.2" fill="#fff"><animate attributeName="opacity" values="0.05;0.8;0.05" dur="5.8s" begin="-2.0s" repeatCount="indefinite"/></circle>
+<circle cx="35.4" cy="2.0" r="0.7" fill="#fff"><animate attributeName="opacity" values="0.05;0.8;0.05" dur="5.3s" begin="-5.5s" repeatCount="indefinite"/></circle>
+<circle cx="406.7" cy="7.2" r="0.6" fill="#fff"><animate attributeName="opacity" values="0.05;0.8;0.05" dur="2.0s" begin="-4.0s" repeatCount="indefinite"/></circle>
+<circle cx="500.4" cy="16.9" r="1.0" fill="#fff"><animate attributeName="opacity" values="0.05;0.8;0.05" dur="2.2s" begin="-4.7s" repeatCount="indefinite"/></circle>
+<circle cx="246.2" cy="33.9" r="1.0" fill="#fff"><animate attributeName="opacity" values="0.05;0.8;0.05" dur="3.4s" begin="-1.8s" repeatCount="indefinite"/></circle>
+<circle cx="881.6" cy="11.0" r="1.1" fill="#fff"><animate attributeName="opacity" values="0.05;0.8;0.05" dur="4.4s" begin="-1.5s" repeatCount="indefinite"/></circle>
+<circle cx="581.3" cy="34.3" r="0.4" fill="#fff"><animate attributeName="opacity" values="0.05;0.8;0.05" dur="2.6s" begin="-5.0s" repeatCount="indefinite"/></circle>
+<circle cx="169.8" cy="12.2" r="0.5" fill="#fff"><animate attributeName="opacity" values="0.05;0.8;0.05" dur="4.2s" begin="-1.4s" repeatCount="indefinite"/></circle>
+<circle cx="762.9" cy="71.1" r="0.4" fill="#fff"><animate attributeName="opacity" values="0.05;0.8;0.05" dur="5.3s" begin="-4.9s" repeatCount="indefinite"/></circle>
+<circle cx="69.2" cy="24.2" r="0.8" fill="#fff"><animate attributeName="opacity" values="0.05;0.8;0.05" dur="2.2s" begin="-4.7s" repeatCount="indefinite"/></circle>
+<circle cx="381.5" cy="69.1" r="0.7" fill="#fff"><animate attributeName="opacity" values="0.05;0.8;0.05" dur="3.7s" begin="-3.8s" repeatCount="indefinite"/></circle>
+<circle cx="88.6" cy="73.9" r="1.1" fill="#fff"><animate attributeName="opacity" values="0.05;0.8;0.05" dur="4.9s" begin="-3.6s" repeatCount="indefinite"/></circle>
+<circle cx="424.4" cy="26.2" r="0.9" fill="#fff"><animate attributeName="opacity" values="0.05;0.8;0.05" dur="4.6s" begin="-4.1s" repeatCount="indefinite"/></circle>
+<circle cx="835.8" cy="60.5" r="0.5" fill="#fff"><animate attributeName="opacity" values="0.05;0.8;0.05" dur="5.2s" begin="-2.0s" repeatCount="indefinite"/></circle>
+<circle cx="238.7" cy="24.9" r="1.0" fill="#fff"><animate attributeName="opacity" values="0.05;0.8;0.05" dur="2.3s" begin="-3.4s" repeatCount="indefinite"/></circle>
+<circle cx="921.4" cy="21.5" r="0.8" fill="#fff"><animate attributeName="opacity" values="0.05;0.8;0.05" dur="5.6s" begin="-0.8s" repeatCount="indefinite"/></circle>
+<circle cx="753.5" cy="44.8" r="1.1" fill="#fff"><animate attributeName="opacity" values="0.05;0.8;0.05" dur="3.0s" begin="-0.7s" repeatCount="indefinite"/></circle>
+<circle cx="391.3" cy="55.3" r="0.8" fill="#fff"><animate attributeName="opacity" values="0.05;0.8;0.05" dur="3.1s" begin="-1.9s" repeatCount="indefinite"/></circle>
+<circle cx="577.7" cy="82.9" r="0.9" fill="#fff"><animate attributeName="opacity" values="0.05;0.8;0.05" dur="3.8s" begin="-3.7s" repeatCount="indefinite"/></circle>
+<circle cx="848.4" cy="29.0" r="0.9" fill="#fff"><animate attributeName="opacity" values="0.05;0.8;0.05" dur="4.8s" begin="-0.2s" repeatCount="indefinite"/></circle>
+<circle cx="184.8" cy="55.9" r="0.5" fill="#fff"><animate attributeName="opacity" values="0.05;0.8;0.05" dur="4.6s" begin="-2.1s" repeatCount="indefinite"/></circle>
+<circle cx="710.3" cy="72.8" r="0.5" fill="#fff"><animate attributeName="opacity" values="0.05;0.8;0.05" dur="5.4s" begin="-3.9s" repeatCount="indefinite"/></circle>
+<circle cx="382.3" cy="9.4" r="0.8" fill="#fff"><animate attributeName="opacity" values="0.05;0.8;0.05" dur="2.0s" begin="-4.1s" repeatCount="indefinite"/></circle>
+<circle cx="642.7" cy="62.8" r="0.5" fill="#fff"><animate attributeName="opacity" values="0.05;0.8;0.05" dur="5.1s" begin="-3.3s" repeatCount="indefinite"/></circle>
+<circle cx="196.3" cy="62.9" r="1.0" fill="#fff"><animate attributeName="opacity" values="0.05;0.8;0.05" dur="3.9s" begin="-2.8s" repeatCount="indefinite"/></circle>
+<circle cx="592.5" cy="53.1" r="1.0" fill="#fff"><animate attributeName="opacity" values="0.05;0.8;0.05" dur="5.1s" begin="-4.8s" repeatCount="indefinite"/></circle>
+<circle cx="19.7" cy="8.8" r="0.6" fill="#fff"><animate attributeName="opacity" values="0.05;0.8;0.05" dur="4.3s" begin="-0.2s" repeatCount="indefinite"/></circle>
+<circle cx="398.4" cy="31.0" r="0.8" fill="#fff"><animate attributeName="opacity" values="0.05;0.8;0.05" dur="5.8s" begin="-2.5s" repeatCount="indefinite"/></circle>
+<circle cx="282.2" cy="63.6" r="1.2" fill="#fff"><animate attributeName="opacity" values="0.05;0.8;0.05" dur="5.2s" begin="-3.6s" repeatCount="indefinite"/></circle>
+<circle cx="164.7" cy="38.7" r="0.4" fill="#fff"><animate attributeName="opacity" values="0.05;0.8;0.05" dur="2.5s" begin="-3.3s" repeatCount="indefinite"/></circle>
+<circle cx="812.8" cy="59.0" r="0.7" fill="#fff"><animate attributeName="opacity" values="0.05;0.8;0.05" dur="5.8s" begin="-4.9s" repeatCount="indefinite"/></circle>
+<circle cx="239.2" cy="23.0" r="0.8" fill="#fff"><animate attributeName="opacity" values="0.05;0.8;0.05" dur="5.6s" begin="-3.7s" repeatCount="indefinite"/></circle>
+<circle cx="790.3" cy="78.7" r="0.7" fill="#fff"><animate attributeName="opacity" values="0.05;0.8;0.05" dur="5.6s" begin="-0.7s" repeatCount="indefinite"/></circle>
+<circle cx="455.4" cy="14.2" r="0.4" fill="#fff"><animate attributeName="opacity" values="0.05;0.8;0.05" dur="3.0s" begin="-3.2s" repeatCount="indefinite"/></circle>
+<circle cx="14.7" cy="27.7" r="0.7" fill="#fff"><animate attributeName="opacity" values="0.05;0.8;0.05" dur="3.3s" begin="-1.6s" repeatCount="indefinite"/></circle>
+<circle cx="544.6" cy="44.8" r="0.9" fill="#fff"><animate attributeName="opacity" values="0.05;0.8;0.05" dur="4.3s" begin="-3.5s" repeatCount="indefinite"/></circle>
+<circle cx="158.7" cy="49.4" r="0.3" fill="#fff"><animate attributeName="opacity" values="0.05;0.8;0.05" dur="2.1s" begin="-3.9s" repeatCount="indefinite"/></circle>
+<circle cx="219.8" cy="63.5" r="0.4" fill="#fff"><animate attributeName="opacity" values="0.05;0.8;0.05" dur="3.8s" begin="-1.8s" repeatCount="indefinite"/></circle>
+<circle cx="399.3" cy="67.6" r="0.4" fill="#fff"><animate attributeName="opacity" values="0.05;0.8;0.05" dur="2.7s" begin="-4.3s" repeatCount="indefinite"/></circle>
+<circle cx="349.1" cy="47.0" r="0.5" fill="#fff"><animate attributeName="opacity" values="0.05;0.8;0.05" dur="4.2s" begin="-1.8s" repeatCount="indefinite"/></circle>
+<circle cx="623.9" cy="68.5" r="0.4" fill="#fff"><animate attributeName="opacity" values="0.05;0.8;0.05" dur="4.7s" begin="-1.7s" repeatCount="indefinite"/></circle>
+<circle cx="788.8" cy="12.6" r="0.4" fill="#fff"><animate attributeName="opacity" values="0.05;0.8;0.05" dur="5.0s" begin="-2.1s" repeatCount="indefinite"/></circle>
+<text x="478" y="34" font-family="Georgia,serif" font-size="15" fill="#4a3a7a" text-anchor="middle" letter-spacing="3" font-style="italic">things i built</text>
+<rect x="0" y="664" width="956" height="44" rx="0" fill="url(#soil)" opacity="0.7"/>
+<line x1="0" y1="664" x2="2.2" y2="660.2" stroke="#3ecfb2" stroke-width="0.8" opacity="0.12"/>
+<line x1="18" y1="664" x2="19.6" y2="657.9" stroke="#3ecfb2" stroke-width="0.8" opacity="0.11"/>
+<line x1="36" y1="664" x2="33.3" y2="659.3" stroke="#3ecfb2" stroke-width="0.8" opacity="0.09"/>
+<line x1="54" y1="664" x2="52.1" y2="657.9" stroke="#3ecfb2" stroke-width="0.8" opacity="0.08"/>
+<line x1="72" y1="664" x2="72.0" y2="660.4" stroke="#3ecfb2" stroke-width="0.8" opacity="0.15"/>
+<line x1="90" y1="664" x2="87.1" y2="657.3" stroke="#3ecfb2" stroke-width="0.8" opacity="0.09"/>
+<line x1="108" y1="664" x2="105.6" y2="657.6" stroke="#3ecfb2" stroke-width="0.8" opacity="0.13"/>
+<line x1="126" y1="664" x2="125.7" y2="659.8" stroke="#3ecfb2" stroke-width="0.8" opacity="0.13"/>
+<line x1="144" y1="664" x2="141.5" y2="656.6" stroke="#3ecfb2" stroke-width="0.8" opacity="0.13"/>
+<line x1="162" y1="664" x2="164.0" y2="656.6" stroke="#3ecfb2" stroke-width="0.8" opacity="0.13"/>
+<line x1="180" y1="664" x2="178.9" y2="659.1" stroke="#3ecfb2" stroke-width="0.8" opacity="0.06"/>
+<line x1="198" y1="664" x2="196.8" y2="659.0" stroke="#3ecfb2" stroke-width="0.8" opacity="0.07"/>
+<line x1="216" y1="664" x2="218.3" y2="656.3" stroke="#3ecfb2" stroke-width="0.8" opacity="0.13"/>
+<line x1="234" y1="664" x2="231.7" y2="659.5" stroke="#3ecfb2" stroke-width="0.8" opacity="0.10"/>
+<line x1="252" y1="664" x2="251.1" y2="660.6" stroke="#3ecfb2" stroke-width="0.8" opacity="0.11"/>
+<line x1="270" y1="664" x2="269.0" y2="659.4" stroke="#3ecfb2" stroke-width="0.8" opacity="0.09"/>
+<line x1="288" y1="664" x2="285.2" y2="656.9" stroke="#3ecfb2" stroke-width="0.8" opacity="0.13"/>
+<line x1="306" y1="664" x2="306.3" y2="657.9" stroke="#3ecfb2" stroke-width="0.8" opacity="0.12"/>
+<line x1="324" y1="664" x2="326.2" y2="660.9" stroke="#3ecfb2" stroke-width="0.8" opacity="0.09"/>
+<line x1="342" y1="664" x2="342.1" y2="659.0" stroke="#3ecfb2" stroke-width="0.8" opacity="0.14"/>
+<line x1="360" y1="664" x2="360.1" y2="659.9" stroke="#3ecfb2" stroke-width="0.8" opacity="0.15"/>
+<line x1="378" y1="664" x2="378.9" y2="659.9" stroke="#3ecfb2" stroke-width="0.8" opacity="0.07"/>
+<line x1="396" y1="664" x2="395.6" y2="658.2" stroke="#3ecfb2" stroke-width="0.8" opacity="0.11"/>
+<line x1="414" y1="664" x2="412.2" y2="660.9" stroke="#3ecfb2" stroke-width="0.8" opacity="0.14"/>
+<line x1="432" y1="664" x2="430.8" y2="660.1" stroke="#3ecfb2" stroke-width="0.8" opacity="0.15"/>
+<line x1="450" y1="664" x2="450.5" y2="659.7" stroke="#3ecfb2" stroke-width="0.8" opacity="0.10"/>
+<line x1="468" y1="664" x2="468.9" y2="661.0" stroke="#3ecfb2" stroke-width="0.8" opacity="0.11"/>
+<line x1="486" y1="664" x2="488.9" y2="656.3" stroke="#3ecfb2" stroke-width="0.8" opacity="0.07"/>
+<line x1="504" y1="664" x2="503.0" y2="658.1" stroke="#3ecfb2" stroke-width="0.8" opacity="0.07"/>
+<line x1="522" y1="664" x2="519.5" y2="656.4" stroke="#3ecfb2" stroke-width="0.8" opacity="0.11"/>
+<line x1="540" y1="664" x2="540.4" y2="659.8" stroke="#3ecfb2" stroke-width="0.8" opacity="0.08"/>
+<line x1="558" y1="664" x2="557.6" y2="656.7" stroke="#3ecfb2" stroke-width="0.8" opacity="0.08"/>
+<line x1="576" y1="664" x2="573.8" y2="657.0" stroke="#3ecfb2" stroke-width="0.8" opacity="0.13"/>
+<line x1="594" y1="664" x2="596.0" y2="659.8" stroke="#3ecfb2" stroke-width="0.8" opacity="0.08"/>
+<line x1="612" y1="664" x2="613.0" y2="657.7" stroke="#3ecfb2" stroke-width="0.8" opacity="0.11"/>
+<line x1="630" y1="664" x2="630.3" y2="656.6" stroke="#3ecfb2" stroke-width="0.8" opacity="0.08"/>
+<line x1="648" y1="664" x2="649.1" y2="658.4" stroke="#3ecfb2" stroke-width="0.8" opacity="0.10"/>
+<line x1="666" y1="664" x2="663.4" y2="658.4" stroke="#3ecfb2" stroke-width="0.8" opacity="0.08"/>
+<line x1="684" y1="664" x2="683.0" y2="657.2" stroke="#3ecfb2" stroke-width="0.8" opacity="0.08"/>
+<line x1="702" y1="664" x2="699.2" y2="657.0" stroke="#3ecfb2" stroke-width="0.8" opacity="0.06"/>
+<line x1="720" y1="664" x2="718.1" y2="660.7" stroke="#3ecfb2" stroke-width="0.8" opacity="0.06"/>
+<line x1="738" y1="664" x2="736.6" y2="659.5" stroke="#3ecfb2" stroke-width="0.8" opacity="0.14"/>
+<line x1="756" y1="664" x2="756.5" y2="659.7" stroke="#3ecfb2" stroke-width="0.8" opacity="0.09"/>
+<line x1="774" y1="664" x2="771.7" y2="657.4" stroke="#3ecfb2" stroke-width="0.8" opacity="0.09"/>
+<line x1="792" y1="664" x2="790.8" y2="660.3" stroke="#3ecfb2" stroke-width="0.8" opacity="0.08"/>
+<line x1="810" y1="664" x2="812.7" y2="658.7" stroke="#3ecfb2" stroke-width="0.8" opacity="0.06"/>
+<line x1="828" y1="664" x2="828.6" y2="659.8" stroke="#3ecfb2" stroke-width="0.8" opacity="0.14"/>
+<line x1="846" y1="664" x2="845.2" y2="659.1" stroke="#3ecfb2" stroke-width="0.8" opacity="0.09"/>
+<line x1="864" y1="664" x2="864.2" y2="659.1" stroke="#3ecfb2" stroke-width="0.8" opacity="0.13"/>
+<line x1="882" y1="664" x2="880.1" y2="660.9" stroke="#3ecfb2" stroke-width="0.8" opacity="0.08"/>
+<line x1="900" y1="664" x2="901.6" y2="657.9" stroke="#3ecfb2" stroke-width="0.8" opacity="0.07"/>
+<line x1="918" y1="664" x2="915.7" y2="661.0" stroke="#3ecfb2" stroke-width="0.8" opacity="0.10"/>
+<line x1="936" y1="664" x2="938.8" y2="657.5" stroke="#3ecfb2" stroke-width="0.8" opacity="0.09"/>
+<line x1="954" y1="664" x2="956.3" y2="658.9" stroke="#3ecfb2" stroke-width="0.8" opacity="0.13"/>
+<path d="M136,304 C130.3,282.4 145.7,253.6 136,232" stroke="#3ecfb2" stroke-width="2.2" fill="none" stroke-linecap="round" opacity="0.6"/>
+<ellipse cx="125.7" cy="271.6" rx="10" ry="5" fill="#2fc4a5" opacity="0.45" transform="rotate(-35 125.7 271.6)"/>
+<circle cx="136" cy="44" r="16" fill="#ff7ac6" opacity="0"><animate attributeName="opacity" values="0;0.18;0" dur="4s" begin="0.0s" repeatCount="indefinite"/><animate attributeName="r" values="16;22;16" dur="4s" begin="0.0s" repeatCount="indefinite"/></circle><ellipse cx="136.00" cy="34.00" rx="5" ry="9" fill="#ff7ac6" opacity="0.75" transform="rotate(-90.0 136.00 34.00)"/><ellipse cx="145.51" cy="40.91" rx="5" ry="9" fill="#ff7ac6" opacity="0.75" transform="rotate(-18.0 145.51 40.91)"/><ellipse cx="141.88" cy="52.09" rx="5" ry="9" fill="#ff7ac6" opacity="0.75" transform="rotate(54.0 141.88 52.09)"/><ellipse cx="130.12" cy="52.09" rx="5" ry="9" fill="#ff7ac6" opacity="0.75" transform="rotate(126.0 130.12 52.09)"/><ellipse cx="126.49" cy="40.91" rx="5" ry="9" fill="#ff7ac6" opacity="0.75" transform="rotate(198.0 126.49 40.91)"/><circle cx="136" cy="44" r="5" fill="#fff9c4"/><circle cx="136" cy="44" r="2.5" fill="#ffe082"/>
+<rect x="33" y="60" width="206" height="178" rx="16" fill="#ff7ac6" opacity="0.08" filter="url(#glow-soft)"/>
+<rect x="36" y="68" width="200" height="164" rx="14" fill="#0d0824" opacity="0.92" filter="url(#card-shadow)"/>
+<rect x="36" y="68" width="200" height="3" rx="2" fill="#ff7ac6" opacity="0.7"/>
+<rect x="36" y="68" width="200" height="164" rx="14" fill="none" stroke="#ff7ac6" stroke-width="0.8" opacity="0.25"/>
+<rect x="50" y="81" width="88.4" height="15" rx="7.5" fill="#ff7ac6" opacity="0.2"/>
+<text x="94.2" y="92" font-family="'SF Mono',monospace" font-size="8.5" fill="#ff7ac6" text-anchor="middle" opacity="0.85">just shipped</text>
+<a href="https://github.com/amritkang165/meraward"><text x="50" y="112" font-family="Georgia,'Times New Roman',serif" font-size="17" font-weight="bold" fill="#ff7ac6">MERAWARD</text></a>
+<text x="50" y="130" font-family="Georgia,serif" font-size="10.5" fill="#c8b8e8" font-style="italic">civic PWA for Delhi's 250 w…</text>
+<text x="50" y="146" font-family="'SF Mono',monospace" font-size="8.5" fill="#4a3a7a">report · neglect index · Hindi …</text>
+<text x="50" y="162" font-family="'SF Mono',monospace" font-size="8" fill="#ff7ac6" opacity="0.75">🏆 First Commit · Bharat Builds To…</text>
+<rect x="50.0" y="176" width="44.8" height="14" rx="7" fill="#ff7ac6" opacity="0.18"/>
+<text x="72.4" y="186" font-family="'SF Mono','Fira Code',monospace" font-size="8.5" fill="#ff7ac6" text-anchor="middle" opacity="0.9">Lambda</text>
+<rect x="99.8" y="176" width="50.6" height="14" rx="7" fill="#ff7ac6" opacity="0.18"/>
+<text x="125.1" y="186" font-family="'SF Mono','Fira Code',monospace" font-size="8.5" fill="#ff7ac6" text-anchor="middle" opacity="0.9">Bedrock</text>
+<rect x="155.4" y="176" width="39.0" height="14" rx="7" fill="#ff7ac6" opacity="0.18"/>
+<text x="174.9" y="186" font-family="'SF Mono','Fira Code',monospace" font-size="8.5" fill="#ff7ac6" text-anchor="middle" opacity="0.9">React</text>
+<rect x="199.4" y="176" width="56.4" height="14" rx="7" fill="#ff7ac6" opacity="0.18"/>
+<text x="227.6" y="186" font-family="'SF Mono','Fira Code',monospace" font-size="8.5" fill="#ff7ac6" text-anchor="middle" opacity="0.9">MapLibre</text>
+<path d="M364,304 C358.6,282.4 371.4,253.6 364,232" stroke="#3ecfb2" stroke-width="2.2" fill="none" stroke-linecap="round" opacity="0.6"/>
+<ellipse cx="349.9" cy="271.6" rx="10" ry="5" fill="#2fc4a5" opacity="0.45" transform="rotate(-35 349.9 271.6)"/>
+<circle cx="364" cy="44" r="16" fill="#b28dff" opacity="0"><animate attributeName="opacity" values="0;0.18;0" dur="4s" begin="0.6s" repeatCount="indefinite"/><animate attributeName="r" values="16;22;16" dur="4s" begin="0.6s" repeatCount="indefinite"/></circle><ellipse cx="364.00" cy="34.00" rx="5" ry="9" fill="#b28dff" opacity="0.75" transform="rotate(-90.0 364.00 34.00)"/><ellipse cx="372.66" cy="39.00" rx="5" ry="9" fill="#b28dff" opacity="0.75" transform="rotate(-30.0 372.66 39.00)"/><ellipse cx="372.66" cy="49.00" rx="5" ry="9" fill="#b28dff" opacity="0.75" transform="rotate(30.0 372.66 49.00)"/><ellipse cx="364.00" cy="54.00" rx="5" ry="9" fill="#b28dff" opacity="0.75" transform="rotate(90.0 364.00 54.00)"/><ellipse cx="355.34" cy="49.00" rx="5" ry="9" fill="#b28dff" opacity="0.75" transform="rotate(150.0 355.34 49.00)"/><ellipse cx="355.34" cy="39.00" rx="5" ry="9" fill="#b28dff" opacity="0.75" transform="rotate(210.0 355.34 39.00)"/><circle cx="364" cy="44" r="5" fill="#fff9c4"/><circle cx="364" cy="44" r="2.5" fill="#ffe082"/>
+<rect x="261" y="60" width="206" height="178" rx="16" fill="#b28dff" opacity="0.08" filter="url(#glow-soft)"/>
+<rect x="264" y="68" width="200" height="164" rx="14" fill="#0d0824" opacity="0.92" filter="url(#card-shadow)"/>
+<rect x="264" y="68" width="200" height="3" rx="2" fill="#b28dff" opacity="0.7"/>
+<rect x="264" y="68" width="200" height="164" rx="14" fill="none" stroke="#b28dff" stroke-width="0.8" opacity="0.25"/>
+<rect x="278" y="81" width="125.6" height="15" rx="7.5" fill="#b28dff" opacity="0.2"/>
+<text x="340.8" y="92" font-family="'SF Mono',monospace" font-size="8.5" fill="#b28dff" text-anchor="middle" opacity="0.85">top 7 / 350+ teams</text>
+<a href="https://github.com/amritkang165/iffy-ai"><text x="278" y="112" font-family="Georgia,'Times New Roman',serif" font-size="17" font-weight="bold" fill="#b28dff">iffy.ai</text></a>
+<text x="278" y="130" font-family="Georgia,serif" font-size="10.5" fill="#c8b8e8" font-style="italic">think before you believe</text>
+<text x="278" y="146" font-family="'SF Mono',monospace" font-size="8.5" fill="#4a3a7a">typed consequence graph, not pr…</text>
+<text x="278" y="162" font-family="'SF Mono',monospace" font-size="8" fill="#b28dff" opacity="0.75">🏆 ProdX @ NAVERA 26</text>
+<rect x="278.0" y="176" width="33.2" height="14" rx="7" fill="#b28dff" opacity="0.18"/>
+<text x="294.6" y="186" font-family="'SF Mono','Fira Code',monospace" font-size="8.5" fill="#b28dff" text-anchor="middle" opacity="0.9">Groq</text>
+<rect x="316.2" y="176" width="27.4" height="14" rx="7" fill="#b28dff" opacity="0.18"/>
+<text x="329.9" y="186" font-family="'SF Mono','Fira Code',monospace" font-size="8.5" fill="#b28dff" text-anchor="middle" opacity="0.9">Zod</text>
+<rect x="348.6" y="176" width="50.6" height="14" rx="7" fill="#b28dff" opacity="0.18"/>
+<text x="373.9" y="186" font-family="'SF Mono','Fira Code',monospace" font-size="8.5" fill="#b28dff" text-anchor="middle" opacity="0.9">Next.js</text>
+<rect x="404.2" y="176" width="68.0" height="14" rx="7" fill="#b28dff" opacity="0.18"/>
+<text x="438.2" y="186" font-family="'SF Mono','Fira Code',monospace" font-size="8.5" fill="#b28dff" text-anchor="middle" opacity="0.9">PostgreSQL</text>
+<path d="M592,304 C585.3,282.4 602.3,253.6 592,232" stroke="#3ecfb2" stroke-width="2.2" fill="none" stroke-linecap="round" opacity="0.6"/>
+<ellipse cx="578.6" cy="271.6" rx="10" ry="5" fill="#2fc4a5" opacity="0.45" transform="rotate(-35 578.6 271.6)"/>
+<circle cx="592" cy="44" r="16" fill="#ff9bd8" opacity="0"><animate attributeName="opacity" values="0;0.18;0" dur="4s" begin="1.2s" repeatCount="indefinite"/><animate attributeName="r" values="16;22;16" dur="4s" begin="1.2s" repeatCount="indefinite"/></circle><ellipse cx="592.00" cy="34.00" rx="5" ry="9" fill="#ffd6e0" opacity="0.75" transform="rotate(-90.0 592.00 34.00)"/><ellipse cx="601.51" cy="40.91" rx="5" ry="9" fill="#ffd6e0" opacity="0.75" transform="rotate(-18.0 601.51 40.91)"/><ellipse cx="597.88" cy="52.09" rx="5" ry="9" fill="#ffd6e0" opacity="0.75" transform="rotate(54.0 597.88 52.09)"/><ellipse cx="586.12" cy="52.09" rx="5" ry="9" fill="#ffd6e0" opacity="0.75" transform="rotate(126.0 586.12 52.09)"/><ellipse cx="582.49" cy="40.91" rx="5" ry="9" fill="#ffd6e0" opacity="0.75" transform="rotate(198.0 582.49 40.91)"/><circle cx="592" cy="44" r="5" fill="#fff9c4"/><circle cx="592" cy="44" r="2.5" fill="#ffe082"/>
+<rect x="489" y="60" width="206" height="178" rx="16" fill="#ff9bd8" opacity="0.08" filter="url(#glow-soft)"/>
+<rect x="492" y="68" width="200" height="164" rx="14" fill="#0d0824" opacity="0.92" filter="url(#card-shadow)"/>
+<rect x="492" y="68" width="200" height="3" rx="2" fill="#ffd6e0" opacity="0.7"/>
+<rect x="492" y="68" width="200" height="164" rx="14" fill="none" stroke="#ffd6e0" stroke-width="0.8" opacity="0.25"/>
+<rect x="506" y="81" width="76.0" height="15" rx="7.5" fill="#ffd6e0" opacity="0.2"/>
+<text x="544.0" y="92" font-family="'SF Mono',monospace" font-size="8.5" fill="#ffd6e0" text-anchor="middle" opacity="0.85">native iOS</text>
+<a href="https://github.com/amritkang165/Pocki"><text x="506" y="112" font-family="Georgia,'Times New Roman',serif" font-size="17" font-weight="bold" fill="#ffd6e0">Pocki</text></a>
+<text x="506" y="130" font-family="Georgia,serif" font-size="10.5" fill="#c8b8e8" font-style="italic">screenshot UPI. Pocki reads…</text>
+<text x="506" y="146" font-family="'SF Mono',monospace" font-size="8.5" fill="#4a3a7a">zero manual entry · built for I…</text>
+<rect x="506.0" y="166" width="50.6" height="14" rx="7" fill="#ffd6e0" opacity="0.18"/>
+<text x="531.3" y="176" font-family="'SF Mono','Fira Code',monospace" font-size="8.5" fill="#ffd6e0" text-anchor="middle" opacity="0.9">SwiftUI</text>
+<rect x="561.6" y="166" width="62.2" height="14" rx="7" fill="#ffd6e0" opacity="0.18"/>
+<text x="592.7" y="176" font-family="'SF Mono','Fira Code',monospace" font-size="8.5" fill="#ffd6e0" text-anchor="middle" opacity="0.9">SwiftData</text>
+<rect x="628.8" y="166" width="44.8" height="14" rx="7" fill="#ffd6e0" opacity="0.18"/>
+<text x="651.2" y="176" font-family="'SF Mono','Fira Code',monospace" font-size="8.5" fill="#ffd6e0" text-anchor="middle" opacity="0.9">Vision</text>
+<path d="M820,304 C829.0,282.4 810.5,253.6 820,232" stroke="#3ecfb2" stroke-width="2.2" fill="none" stroke-linecap="round" opacity="0.6"/>
+<ellipse cx="809.0" cy="271.6" rx="10" ry="5" fill="#2fc4a5" opacity="0.45" transform="rotate(-35 809.0 271.6)"/>
+<circle cx="820" cy="44" r="16" fill="#6be3ff" opacity="0"><animate attributeName="opacity" values="0;0.18;0" dur="4s" begin="1.7999999999999998s" repeatCount="indefinite"/><animate attributeName="r" values="16;22;16" dur="4s" begin="1.7999999999999998s" repeatCount="indefinite"/></circle><ellipse cx="820.00" cy="34.00" rx="5" ry="9" fill="#8ff0d8" opacity="0.75" transform="rotate(-90.0 820.00 34.00)"/><ellipse cx="828.66" cy="39.00" rx="5" ry="9" fill="#8ff0d8" opacity="0.75" transform="rotate(-30.0 828.66 39.00)"/><ellipse cx="828.66" cy="49.00" rx="5" ry="9" fill="#8ff0d8" opacity="0.75" transform="rotate(30.0 828.66 49.00)"/><ellipse cx="820.00" cy="54.00" rx="5" ry="9" fill="#8ff0d8" opacity="0.75" transform="rotate(90.0 820.00 54.00)"/><ellipse cx="811.34" cy="49.00" rx="5" ry="9" fill="#8ff0d8" opacity="0.75" transform="rotate(150.0 811.34 49.00)"/><ellipse cx="811.34" cy="39.00" rx="5" ry="9" fill="#8ff0d8" opacity="0.75" transform="rotate(210.0 811.34 39.00)"/><circle cx="820" cy="44" r="5" fill="#fff9c4"/><circle cx="820" cy="44" r="2.5" fill="#ffe082"/>
+<rect x="717" y="60" width="206" height="178" rx="16" fill="#6be3ff" opacity="0.08" filter="url(#glow-soft)"/>
+<rect x="720" y="68" width="200" height="164" rx="14" fill="#0d0824" opacity="0.92" filter="url(#card-shadow)"/>
+<rect x="720" y="68" width="200" height="3" rx="2" fill="#8ff0d8" opacity="0.7"/>
+<rect x="720" y="68" width="200" height="164" rx="14" fill="none" stroke="#8ff0d8" stroke-width="0.8" opacity="0.25"/>
+<rect x="734" y="81" width="82.2" height="15" rx="7.5" fill="#8ff0d8" opacity="0.2"/>
+<text x="775.1" y="92" font-family="'SF Mono',monospace" font-size="8.5" fill="#8ff0d8" text-anchor="middle" opacity="0.85">multi-agent</text>
+<a href="https://github.com/amritkang165/exHacker"><text x="734" y="112" font-family="Georgia,'Times New Roman',serif" font-size="17" font-weight="bold" fill="#8ff0d8">exHacker</text></a>
+<text x="734" y="130" font-family="Georgia,serif" font-size="10.5" fill="#c8b8e8" font-style="italic">challenge in → blueprint out</text>
+<text x="734" y="146" font-family="'SF Mono',monospace" font-size="8.5" fill="#4a3a7a">under 30 seconds, every time</text>
+<rect x="734.0" y="166" width="62.2" height="14" rx="7" fill="#8ff0d8" opacity="0.18"/>
+<text x="765.1" y="176" font-family="'SF Mono','Fira Code',monospace" font-size="8.5" fill="#8ff0d8" text-anchor="middle" opacity="0.9">LangGraph</text>
+<rect x="801.2" y="166" width="50.6" height="14" rx="7" fill="#8ff0d8" opacity="0.18"/>
+<text x="826.5" y="176" font-family="'SF Mono','Fira Code',monospace" font-size="8.5" fill="#8ff0d8" text-anchor="middle" opacity="0.9">FastAPI</text>
+<rect x="856.8" y="166" width="50.6" height="14" rx="7" fill="#8ff0d8" opacity="0.18"/>
+<text x="882.1" y="176" font-family="'SF Mono','Fira Code',monospace" font-size="8.5" fill="#8ff0d8" text-anchor="middle" opacity="0.9">Next.js</text>
+<rect x="912.4" y="166" width="44.8" height="14" rx="7" fill="#8ff0d8" opacity="0.18"/>
+<text x="934.8" y="176" font-family="'SF Mono','Fira Code',monospace" font-size="8.5" fill="#8ff0d8" text-anchor="middle" opacity="0.9">Docker</text>
+<path d="M136,664 C134.6,642.4 129.8,613.6 136,592" stroke="#3ecfb2" stroke-width="2.2" fill="none" stroke-linecap="round" opacity="0.6"/>
+<ellipse cx="123.6" cy="631.6" rx="10" ry="5" fill="#2fc4a5" opacity="0.45" transform="rotate(-35 123.6 631.6)"/>
+<circle cx="136" cy="404" r="16" fill="#ffe082" opacity="0"><animate attributeName="opacity" values="0;0.18;0" dur="4s" begin="2.4s" repeatCount="indefinite"/><animate attributeName="r" values="16;22;16" dur="4s" begin="2.4s" repeatCount="indefinite"/></circle><ellipse cx="136.00" cy="394.00" rx="5" ry="9" fill="#ffeaa7" opacity="0.75" transform="rotate(-90.0 136.00 394.00)"/><ellipse cx="145.51" cy="400.91" rx="5" ry="9" fill="#ffeaa7" opacity="0.75" transform="rotate(-18.0 145.51 400.91)"/><ellipse cx="141.88" cy="412.09" rx="5" ry="9" fill="#ffeaa7" opacity="0.75" transform="rotate(54.0 141.88 412.09)"/><ellipse cx="130.12" cy="412.09" rx="5" ry="9" fill="#ffeaa7" opacity="0.75" transform="rotate(126.0 130.12 412.09)"/><ellipse cx="126.49" cy="400.91" rx="5" ry="9" fill="#ffeaa7" opacity="0.75" transform="rotate(198.0 126.49 400.91)"/><circle cx="136" cy="404" r="5" fill="#fff9c4"/><circle cx="136" cy="404" r="2.5" fill="#ffe082"/>
+<rect x="33" y="420" width="206" height="178" rx="16" fill="#ffe082" opacity="0.08" filter="url(#glow-soft)"/>
+<rect x="36" y="428" width="200" height="164" rx="14" fill="#0d0824" opacity="0.92" filter="url(#card-shadow)"/>
+<rect x="36" y="428" width="200" height="3" rx="2" fill="#ffeaa7" opacity="0.7"/>
+<rect x="36" y="428" width="200" height="164" rx="14" fill="none" stroke="#ffeaa7" stroke-width="0.8" opacity="0.25"/>
+<rect x="50" y="441" width="88.4" height="15" rx="7.5" fill="#ffeaa7" opacity="0.2"/>
+<text x="94.2" y="452" font-family="'SF Mono',monospace" font-size="8.5" fill="#ffeaa7" text-anchor="middle" opacity="0.85">research VCS</text>
+<a href="https://github.com/amritkang165/ReGit"><text x="50" y="472" font-family="Georgia,'Times New Roman',serif" font-size="17" font-weight="bold" fill="#ffeaa7">ReGit</text></a>
+<text x="50" y="490" font-family="Georgia,serif" font-size="10.5" fill="#c8b8e8" font-style="italic">git diff on a PDF is a crime</text>
+<text x="50" y="506" font-family="'SF Mono',monospace" font-size="8.5" fill="#4a3a7a">CRDT · semantic diff · prose me…</text>
+<rect x="50.0" y="526" width="44.8" height="14" rx="7" fill="#ffeaa7" opacity="0.18"/>
+<text x="72.4" y="536" font-family="'SF Mono','Fira Code',monospace" font-size="8.5" fill="#ffeaa7" text-anchor="middle" opacity="0.9">Python</text>
+<rect x="99.8" y="526" width="33.2" height="14" rx="7" fill="#ffeaa7" opacity="0.18"/>
+<text x="116.4" y="536" font-family="'SF Mono','Fira Code',monospace" font-size="8.5" fill="#ffeaa7" text-anchor="middle" opacity="0.9">CRDT</text>
+<rect x="138.0" y="526" width="108.6" height="14" rx="7" fill="#ffeaa7" opacity="0.18"/>
+<text x="192.3" y="536" font-family="'SF Mono','Fira Code',monospace" font-size="8.5" fill="#ffeaa7" text-anchor="middle" opacity="0.9">content-addressed</text>
+<path d="M364,664 C369.8,642.4 352.4,613.6 364,592" stroke="#3ecfb2" stroke-width="2.2" fill="none" stroke-linecap="round" opacity="0.6"/>
+<ellipse cx="348.6" cy="631.6" rx="10" ry="5" fill="#2fc4a5" opacity="0.45" transform="rotate(-35 348.6 631.6)"/>
+<circle cx="364" cy="404" r="16" fill="#a8e890" opacity="0"><animate attributeName="opacity" values="0;0.18;0" dur="4s" begin="3.0s" repeatCount="indefinite"/><animate attributeName="r" values="16;22;16" dur="4s" begin="3.0s" repeatCount="indefinite"/></circle><ellipse cx="364.00" cy="394.00" rx="5" ry="9" fill="#c9f0b5" opacity="0.75" transform="rotate(-90.0 364.00 394.00)"/><ellipse cx="372.66" cy="399.00" rx="5" ry="9" fill="#c9f0b5" opacity="0.75" transform="rotate(-30.0 372.66 399.00)"/><ellipse cx="372.66" cy="409.00" rx="5" ry="9" fill="#c9f0b5" opacity="0.75" transform="rotate(30.0 372.66 409.00)"/><ellipse cx="364.00" cy="414.00" rx="5" ry="9" fill="#c9f0b5" opacity="0.75" transform="rotate(90.0 364.00 414.00)"/><ellipse cx="355.34" cy="409.00" rx="5" ry="9" fill="#c9f0b5" opacity="0.75" transform="rotate(150.0 355.34 409.00)"/><ellipse cx="355.34" cy="399.00" rx="5" ry="9" fill="#c9f0b5" opacity="0.75" transform="rotate(210.0 355.34 399.00)"/><circle cx="364" cy="404" r="5" fill="#fff9c4"/><circle cx="364" cy="404" r="2.5" fill="#ffe082"/>
+<rect x="261" y="420" width="206" height="178" rx="16" fill="#a8e890" opacity="0.08" filter="url(#glow-soft)"/>
+<rect x="264" y="428" width="200" height="164" rx="14" fill="#0d0824" opacity="0.92" filter="url(#card-shadow)"/>
+<rect x="264" y="428" width="200" height="3" rx="2" fill="#c9f0b5" opacity="0.7"/>
+<rect x="264" y="428" width="200" height="164" rx="14" fill="none" stroke="#c9f0b5" stroke-width="0.8" opacity="0.25"/>
+<rect x="278" y="441" width="82.2" height="15" rx="7.5" fill="#c9f0b5" opacity="0.2"/>
+<text x="319.1" y="452" font-family="'SF Mono',monospace" font-size="8.5" fill="#c9f0b5" text-anchor="middle" opacity="0.85">AI wardrobe</text>
+<a href="https://github.com/amritkang165/wearwise"><text x="278" y="472" font-family="Georgia,'Times New Roman',serif" font-size="17" font-weight="bold" fill="#c9f0b5">WearWise</text></a>
+<text x="278" y="490" font-family="Georgia,serif" font-size="10.5" fill="#c8b8e8" font-style="italic">stop wearing the same 3 thi…</text>
+<text x="278" y="506" font-family="'SF Mono',monospace" font-size="8.5" fill="#4a3a7a">outfit tracking · AI recommenda…</text>
+<rect x="278.0" y="526" width="50.6" height="14" rx="7" fill="#c9f0b5" opacity="0.18"/>
+<text x="303.3" y="536" font-family="'SF Mono','Fira Code',monospace" font-size="8.5" fill="#c9f0b5" text-anchor="middle" opacity="0.9">Next.js</text>
+<rect x="333.6" y="526" width="44.8" height="14" rx="7" fill="#c9f0b5" opacity="0.18"/>
+<text x="356.0" y="536" font-family="'SF Mono','Fira Code',monospace" font-size="8.5" fill="#c9f0b5" text-anchor="middle" opacity="0.9">Prisma</text>
+<rect x="383.4" y="526" width="44.8" height="14" rx="7" fill="#c9f0b5" opacity="0.18"/>
+<text x="405.8" y="536" font-family="'SF Mono','Fira Code',monospace" font-size="8.5" fill="#c9f0b5" text-anchor="middle" opacity="0.9">Gemini</text>
+<path d="M592,664 C597.7,642.4 589.2,613.6 592,592" stroke="#3ecfb2" stroke-width="2.2" fill="none" stroke-linecap="round" opacity="0.6"/>
+<ellipse cx="578.3" cy="631.6" rx="10" ry="5" fill="#2fc4a5" opacity="0.45" transform="rotate(-35 578.3 631.6)"/>
+<circle cx="592" cy="404" r="16" fill="#bfcfff" opacity="0"><animate attributeName="opacity" values="0;0.18;0" dur="4s" begin="3.5999999999999996s" repeatCount="indefinite"/><animate attributeName="r" values="16;22;16" dur="4s" begin="3.5999999999999996s" repeatCount="indefinite"/></circle><ellipse cx="592.00" cy="394.00" rx="5" ry="9" fill="#dfe7fd" opacity="0.75" transform="rotate(-90.0 592.00 394.00)"/><ellipse cx="601.51" cy="400.91" rx="5" ry="9" fill="#dfe7fd" opacity="0.75" transform="rotate(-18.0 601.51 400.91)"/><ellipse cx="597.88" cy="412.09" rx="5" ry="9" fill="#dfe7fd" opacity="0.75" transform="rotate(54.0 597.88 412.09)"/><ellipse cx="586.12" cy="412.09" rx="5" ry="9" fill="#dfe7fd" opacity="0.75" transform="rotate(126.0 586.12 412.09)"/><ellipse cx="582.49" cy="400.91" rx="5" ry="9" fill="#dfe7fd" opacity="0.75" transform="rotate(198.0 582.49 400.91)"/><circle cx="592" cy="404" r="5" fill="#fff9c4"/><circle cx="592" cy="404" r="2.5" fill="#ffe082"/>
+<rect x="489" y="420" width="206" height="178" rx="16" fill="#bfcfff" opacity="0.08" filter="url(#glow-soft)"/>
+<rect x="492" y="428" width="200" height="164" rx="14" fill="#0d0824" opacity="0.92" filter="url(#card-shadow)"/>
+<rect x="492" y="428" width="200" height="3" rx="2" fill="#dfe7fd" opacity="0.7"/>
+<rect x="492" y="428" width="200" height="164" rx="14" fill="none" stroke="#dfe7fd" stroke-width="0.8" opacity="0.25"/>
+<rect x="506" y="441" width="51.2" height="15" rx="7.5" fill="#dfe7fd" opacity="0.2"/>
+<text x="531.6" y="452" font-family="'SF Mono',monospace" font-size="8.5" fill="#dfe7fd" text-anchor="middle" opacity="0.85">mobile</text>
+<a href="https://github.com/amritkang165/gitty"><text x="506" y="472" font-family="Georgia,'Times New Roman',serif" font-size="17" font-weight="bold" fill="#dfe7fd">Gitty</text></a>
+<text x="506" y="490" font-family="Georgia,serif" font-size="10.5" fill="#c8b8e8" font-style="italic">GitHub in your pocket</text>
+<text x="506" y="506" font-family="'SF Mono',monospace" font-size="8.5" fill="#4a3a7a">PRs at 2am in bed, comfortably</text>
+<rect x="506.0" y="526" width="79.6" height="14" rx="7" fill="#dfe7fd" opacity="0.18"/>
+<text x="545.8" y="536" font-family="'SF Mono','Fira Code',monospace" font-size="8.5" fill="#dfe7fd" text-anchor="middle" opacity="0.9">React Native</text>
+<rect x="590.6" y="526" width="68.0" height="14" rx="7" fill="#dfe7fd" opacity="0.18"/>
+<text x="624.6" y="536" font-family="'SF Mono','Fira Code',monospace" font-size="8.5" fill="#dfe7fd" text-anchor="middle" opacity="0.9">TypeScript</text>
+<path d="M820,664 C829.7,642.4 826.3,613.6 820,592" stroke="#3ecfb2" stroke-width="2.2" fill="none" stroke-linecap="round" opacity="0.6"/>
+<ellipse cx="809.6" cy="631.6" rx="10" ry="5" fill="#2fc4a5" opacity="0.45" transform="rotate(-35 809.6 631.6)"/>
+<circle cx="820" cy="404" r="16" fill="#ff8fab" opacity="0"><animate attributeName="opacity" values="0;0.18;0" dur="4s" begin="4.2s" repeatCount="indefinite"/><animate attributeName="r" values="16;22;16" dur="4s" begin="4.2s" repeatCount="indefinite"/></circle><ellipse cx="820.00" cy="394.00" rx="5" ry="9" fill="#ffb7c5" opacity="0.75" transform="rotate(-90.0 820.00 394.00)"/><ellipse cx="828.66" cy="399.00" rx="5" ry="9" fill="#ffb7c5" opacity="0.75" transform="rotate(-30.0 828.66 399.00)"/><ellipse cx="828.66" cy="409.00" rx="5" ry="9" fill="#ffb7c5" opacity="0.75" transform="rotate(30.0 828.66 409.00)"/><ellipse cx="820.00" cy="414.00" rx="5" ry="9" fill="#ffb7c5" opacity="0.75" transform="rotate(90.0 820.00 414.00)"/><ellipse cx="811.34" cy="409.00" rx="5" ry="9" fill="#ffb7c5" opacity="0.75" transform="rotate(150.0 811.34 409.00)"/><ellipse cx="811.34" cy="399.00" rx="5" ry="9" fill="#ffb7c5" opacity="0.75" transform="rotate(210.0 811.34 399.00)"/><circle cx="820" cy="404" r="5" fill="#fff9c4"/><circle cx="820" cy="404" r="2.5" fill="#ffe082"/>
+<rect x="717" y="420" width="206" height="178" rx="16" fill="#ff8fab" opacity="0.08" filter="url(#glow-soft)"/>
+<rect x="720" y="428" width="200" height="164" rx="14" fill="#0d0824" opacity="0.92" filter="url(#card-shadow)"/>
+<rect x="720" y="428" width="200" height="3" rx="2" fill="#ffb7c5" opacity="0.7"/>
+<rect x="720" y="428" width="200" height="164" rx="14" fill="none" stroke="#ffb7c5" stroke-width="0.8" opacity="0.25"/>
+<rect x="734" y="441" width="88.4" height="15" rx="7.5" fill="#ffb7c5" opacity="0.2"/>
+<text x="778.2" y="452" font-family="'SF Mono',monospace" font-size="8.5" fill="#ffb7c5" text-anchor="middle" opacity="0.85">Swift → WASM</text>
+<a href="https://github.com/amritkang165/TintAudit"><text x="734" y="472" font-family="Georgia,'Times New Roman',serif" font-size="17" font-weight="bold" fill="#ffb7c5">TintAudit</text></a>
+<text x="734" y="490" font-family="Georgia,serif" font-size="10.5" fill="#c8b8e8" font-style="italic">WCAG contrast in the browser</text>
+<text x="734" y="506" font-family="'SF Mono',monospace" font-size="8.5" fill="#4a3a7a">Swift compiled to WebAssembly v…</text>
+<rect x="734.0" y="526" width="39.0" height="14" rx="7" fill="#ffb7c5" opacity="0.18"/>
+<text x="753.5" y="536" font-family="'SF Mono','Fira Code',monospace" font-size="8.5" fill="#ffb7c5" text-anchor="middle" opacity="0.9">Swift</text>
+<rect x="778.0" y="526" width="73.8" height="14" rx="7" fill="#ffb7c5" opacity="0.18"/>
+<text x="814.9" y="536" font-family="'SF Mono','Fira Code',monospace" font-size="8.5" fill="#ffb7c5" text-anchor="middle" opacity="0.9">WebAssembly</text>
+<rect x="856.8" y="526" width="50.6" height="14" rx="7" fill="#ffb7c5" opacity="0.18"/>
+<text x="882.1" y="536" font-family="'SF Mono','Fira Code',monospace" font-size="8.5" fill="#ffb7c5" text-anchor="middle" opacity="0.9">Tokamak</text>
+</svg>
