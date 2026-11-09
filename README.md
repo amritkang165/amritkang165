@@ -1,9 +1,11 @@
+[![Founding Contributor #6 @amritkang165](https://img.shields.io/static/v1?label=%E2%9A%A1%20FOUNDING%20CONTRIBUTOR&message=%236%20of%20100%20%E2%80%A2%20%40amritkang165&color=06b6d4&labelColor=07080f&style=for-the-badge)](https://discord.gg/qMu5Xn8Kaq)
 <div align="center">
   <picture>
     <source media="(prefers-reduced-motion: reduce)" srcset="assets/after-hours/amrit-hero-effects.jpg" />
     <img src="assets/after-hours/amrit-hero-animated.svg" width="100%" alt="Amrit Kang / After Hours. Ideas loud. Code louder. A face portrait beside a rear-view JATT KANG shirt photo, with a charcoal background, orange rim lighting and an animated orange frame. Full-stack development, iOS, AI engineering, and open source." />
   </picture>
 </div>
+
 
 <div align="center">
 
