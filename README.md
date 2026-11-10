@@ -119,9 +119,9 @@ a native macOS clipboard manager with searchable history, snippets, configurable
 
 <br>
 
-drop a pin, find your Delhi ward, file a complaint by voice, photo, or text, and get an AI-drafted bilingual letter. a public neglect-index dashboard makes the wider picture visible.
+a civic-reporting demo that turns voice, photos, or text into reviewed complaints and bilingual letters. includes ward lookup, public tracking, and a demo outbox.
 
-i led the team and built the frontend and ward pipeline at First Commit. decoupling Bedrock behind SQS brought the reported API response to **~2 ms**; the project has **254 tests** and a **100 Lighthouse score**.
+i led the team and built the frontend and ward pipeline at First Commit.
 
 `AWS Lambda` `Bedrock` `DynamoDB` `SQS` `React` `MapLibre`
 
