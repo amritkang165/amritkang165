@@ -69,19 +69,25 @@ added a JSON Schema for `service.json`, giving service manifests editor guidance
 
 **[merged PR #416 ↗](https://github.com/flisk-sh/flisk/pull/416)** · JSON Schema · service configuration · contract testing
 
-### ReGit · research tooling
+added `flisk open --print` so scripts and SSH sessions can get a ready frontend URL without launching a browser. covered URL selection, failure cases, and local-process projects with regression tests.
 
-built the research workspace frontend: artifact ingestion, branch management, commit history, semantic diffs, and conflict resolution. added cited search, real-time collaboration wiring, and a browser smoke-test harness.
+**[merged PR #3623 ↗](https://github.com/flisk-sh/flisk/pull/3623)** · TypeScript · CLI · regression testing
 
-**[merged PR #15 ↗](https://github.com/Muneer320/ReGit/pull/15)** · React · TypeScript · Yjs
+also added tests for documentation text-width calculations, covering Unicode, fallback widths, and rounding.
+
+**[merged PR #3535 ↗](https://github.com/flisk-sh/flisk/pull/3535)** · JavaScript · unit testing
+
+### Neo.mjs · lifecycle reliability
+
+fixed delayed callbacks running after an instance was destroyed. pending buffer, debounce, and throttle calls are now cancelled during cleanup, with regression tests for inherited methods, wrapper reuse, and grid destruction during scrolling.
+
+**[merged PR #20723 ↗](https://github.com/neomjs/neo/pull/20723)** · JavaScript · lifecycle cleanup · regression testing
 
 ### iffy.ai · interactive simulations
 
 made “what if?” results explorable: interactive flowcharts, branching simulations, and saved simulation history. contributed UI improvements and fixes across the frontend and debate backend.
 
 **[flowcharts + branching ↗](https://github.com/Muneer320/iffy-ai/commit/03c2909bb2b878792cd894aee1f07b66ed28e5f6)** · **[history + fixes ↗](https://github.com/Muneer320/iffy-ai/commit/dc9e93cb8da958b7140f45c33523343a1c7d251a)** · Next.js · TypeScript
-
-also: **[ReGit · merged PR #16 ↗](https://github.com/Muneer320/ReGit/pull/16)** — clarified the README's description of agent editing branches.
 
 <br>
 
