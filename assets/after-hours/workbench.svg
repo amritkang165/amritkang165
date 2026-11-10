@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img" aria-labelledby="title desc">
+<title id="title">The workbench</title><desc id="desc">Native apps with Swift and SwiftUI. Tools and systems with Python and TypeScript. Open source: fix, test, and review.</desc>
+<rect width="1200" height="190" rx="12" fill="#121311"/>
+<g transform="translate(32 38)" fill="none" stroke="#ff6b35" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><rect x="0" y="0" width="32" height="26" rx="5"/><path d="M0 8h32M7 4h1m4 0h1"/></g>
+<text x="32" y="108" fill="#f3efe7" font-family="Arial,Helvetica,sans-serif" font-size="32" font-weight="700">Native apps</text>
+<text x="32" y="139" fill="#b8baaf" font-family="Arial,Helvetica,sans-serif" font-size="23">Swift · SwiftUI</text>
+<path d="M402 24v142" stroke="#33352f"/>
+<g transform="translate(424 38)" fill="none" stroke="#ff6b35" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><rect x="0" y="0" width="32" height="26" rx="5"/><path d="m7 8 5 5-5 5m9 0h9"/></g>
+<text x="424" y="108" fill="#f3efe7" font-family="Arial,Helvetica,sans-serif" font-size="32" font-weight="700">Tools &amp; systems</text>
+<text x="424" y="139" fill="#b8baaf" font-family="Arial,Helvetica,sans-serif" font-size="23">Python · TypeScript</text>
+<path d="M794 24v142" stroke="#33352f"/>
+<g transform="translate(816 38)" fill="none" stroke="#ff6b35" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="7" cy="4" r="4"/><circle cx="7" cy="26" r="4"/><circle cx="29" cy="4" r="4"/><path d="M7 8v14M29 8c0 11-22 3-22 14"/></g>
+<text x="816" y="108" fill="#f3efe7" font-family="Arial,Helvetica,sans-serif" font-size="32" font-weight="700">Open source</text>
+<text x="816" y="139" fill="#b8baaf" font-family="Arial,Helvetica,sans-serif" font-size="23">Fix · test · review</text>
+</svg>

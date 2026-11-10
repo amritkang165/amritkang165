@@ -21,12 +21,22 @@ i'm **amrit**, a computer science student at **BITS Pilani**, based in Bengaluru
 
 i like the parts that make software dependable: local data, clear failure messages, and tests that catch the bug before someone else does. outside code, i help bring builders into the same room.
 
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/after-hours/workbench-mobile.svg" />
+  <img src="assets/after-hours/workbench.svg" width="100%" alt="My workbench: native apps with Swift and SwiftUI; tools with Python and TypeScript; open-source fixes, tests, and reviews." />
+</picture>
+
+<details>
+<summary><b>what's on the workbench ↗</b></summary>
+
 | What I build | What I use |
 | :--- | :--- |
 | Native apps | Swift · SwiftUI · SwiftData · Vision |
 | Backends & tools | Python · FastAPI · Go · SQL |
 | Web interfaces | TypeScript · React · Next.js |
 | Infrastructure & AI integrations | AWS · Docker · LLM APIs · structured outputs |
+
+</details>
 
 <br>
 
@@ -60,13 +70,39 @@ also contributed interactive flowcharts, branching simulations, and saved histor
 
 ## 02 / selected builds
 
-### [Clippit ↗](https://github.com/amritkang165/clippit) · clipboard history that stays on your Mac
+**a few things you can open, inspect, and run.**
+
+### 01 — Clippit
+
+**clipboard history that stays on your Mac.**
+
+<a href="https://github.com/amritkang165/clippit">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/projects/clippit-dark.png" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/projects/clippit-light.png" />
+    <img src="assets/projects/clippit-light.png" width="100%" alt="Clippit preview with a searchable clipboard, pinned clips, and a full text preview. Sample content shown." />
+  </picture>
+</a>
+
+<sub>Interface preview with sample content. Follows your light or dark theme.</sub>
 
 a native macOS clipboard manager with searchable history, snippets, configurable shortcuts, and on-device OCR. clipboard data stays local, and automated macOS checks cover the project.
 
 `Swift` `SwiftUI` `Vision` · **MIT-licensed · development preview, build from source**
 
-### [MeraWard ↗](https://github.com/amritkang165/meraward) · from a complaint to a tracking record
+**[Explore the code ↗](https://github.com/amritkang165/clippit)** · [Architecture](https://github.com/amritkang165/clippit/blob/main/Docs/Architecture.md) · [macOS checks](https://github.com/amritkang165/clippit/actions/workflows/macos.yml)
+
+<br>
+
+### 02 — MeraWard
+
+**from a complaint to a tracking record.**
+
+<a href="https://github.com/amritkang165/meraward">
+  <img src="assets/projects/meraward-home.png" width="100%" alt="MeraWard local demo showing voice, photo, and written complaint entry points, plus a demo ward map." />
+</a>
+
+<sub>Local demo with synthetic reports and a demo outbox. No messages are sent to real officials.</sub>
 
 a civic-reporting demo that turns voice, photos, or text into reviewed complaints and bilingual letters. includes ward lookup, public tracking, and a demo outbox. drafting uses templates by default; Bedrock is optional.
 
@@ -74,25 +110,54 @@ a civic-reporting demo that turns voice, photos, or text into reviewed complaint
 
 `React` `MapLibre` `Python` `AWS Lambda` `DynamoDB` `SQS`
 
-### [Placement Week Scheduler ↗](https://github.com/amritkang165/placement-week-scheduler) · keep the schedule working when plans change
+**[Explore the code ↗](https://github.com/amritkang165/meraward)** · [Run the demo](https://github.com/amritkang165/meraward#run-the-local-demo) · [How it works](https://github.com/amritkang165/meraward#behind-the-screen)
+
+<br>
+
+### 03 — Placement Week Scheduler
+
+**keep the schedule working when plans change.**
 
 a CP-SAT interview scheduler with a coordinator dashboard. it handles student, room, and panel constraints, then replans around disruptions while keeping valid appointments in place. the repository documents its reference dataset, metrics, and test commands.
 
 `Python` `OR-Tools` `FastAPI` `React`
 
-### [Pocki ↗](https://github.com/amritkang165/Pocki) · a payment screenshot becomes an expense
+**[Explore the code ↗](https://github.com/amritkang165/placement-week-scheduler)** · [Tests](https://github.com/amritkang165/placement-week-scheduler#tests) · [Scheduling metrics](https://github.com/amritkang165/placement-week-scheduler#metrics)
+
+<details>
+<summary><b>why this one interests me ↗</b></summary>
+
+making a valid timetable is only the first problem. when a company runs late, the replanner freezes appointments that are still valid and re-solves the affected region. the goal is a workable update without making everyone start over.
+
+</details>
+
+<br>
+
+### 04 — Pocki
+
+**a payment screenshot becomes an expense.**
 
 a native iOS finance tracker that uses on-device OCR to prefill expenses from UPI screenshots. review and correct the amount, merchant, and date before saving. parsing and storage stay on the phone.
 
 `Swift` `SwiftUI` `SwiftData` `Vision` · **MIT-licensed**
 
-### [ReGit ↗](https://github.com/amritkang165/ReGit) · version control for research
+**[Explore the code ↗](https://github.com/amritkang165/Pocki)** · [Product notes](https://github.com/amritkang165/Pocki/blob/main/docs/DOCUMENTATION.md)
+
+<br>
+
+### 05 — ReGit
+
+**version control for research.**
 
 a team-built workspace for versioned research artifacts, semantic diffs, merge conflicts, and live collaboration.
 
 **my part:** the research workspace frontend, including artifact ingestion, branch management, commit history, diff and conflict views, and collaboration wiring. [contributors ↗](https://github.com/amritkang165/ReGit/blob/main/CONTRIBUTORS.md)
 
 `React` `TypeScript` `Yjs` · project backend: `Python` `FastAPI`
+
+**[Explore the code ↗](https://github.com/amritkang165/ReGit)** · [Architecture & setup](https://github.com/amritkang165/ReGit#readme)
+
+<br>
 
 <details>
 <summary><b>more experiments ↗</b></summary>
@@ -134,12 +199,14 @@ the interesting constraint is device readiness: making model availability and lo
 
 ## 04 / track record
 
-- **Grabware / SDE & Forward Deployed Engineer Intern** — May 2026–present. hosting, deployment, and infrastructure for production PHP sites; migrated a subset to MERN and tested the integrations.
-- **BITS Pilani / B.Sc. Computer Science** — 2025–2029 · CGPA **9.27**.
-- **Gradient Rush / top 6** — ReGit, a research version-control system.
-- **ProdX @ NAVERA 26 / top 7 finalist** — frontend for iffy.ai.
-- **Hack Club / Bengaluru organizer** — Sunbeam, a global initiative spanning 40 cities.
-- **Ignite Room / events lead** — venues, volunteers, speakers, and making the room happen.
+| Where | What I did |
+| :--- | :--- |
+| **Grabware** · May 2026–present | SDE & Forward Deployed Engineer Intern. Hosting, deployment, and infrastructure for production PHP sites; migrated a subset to MERN and tested the integrations. |
+| **BITS Pilani** · 2025–2029 | B.Sc. Computer Science · CGPA **9.27**. |
+| **Gradient Rush** · top 6 | Built ReGit with the team. |
+| **ProdX @ NAVERA 26** · top 7 finalist | Built the iffy.ai frontend. |
+| **Hack Club** · Bengaluru organizer | Sunbeam, a global initiative spanning 40 cities. |
+| **Ignite Room** · events lead | Venues, volunteers, speakers, and making the room happen. |
 
 <br>
 
