@@ -100,6 +100,21 @@ the model lives on the device, so the engineering starts with a different questi
 **the things behind the commit messages.** open a build for the engineering notes.
 
 <details open>
+<summary><b>Clippit</b> / clipboard history that stays on your Mac</summary>
+
+<br>
+
+a native macOS clipboard manager with searchable history, snippets, configurable shortcuts, and on-device OCR. built with Swift and SwiftUI, with automated macOS checks.
+
+**local storage · MIT-licensed · build from source.**
+
+`Swift` `SwiftUI` `Vision`
+
+**[source ↗](https://github.com/amritkang165/clippit)**
+
+</details>
+
+<details open>
 <summary><b>MERAWARD</b> / civic complaints, with a route to action</summary>
 
 <br>
