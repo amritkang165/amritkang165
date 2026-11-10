@@ -1,4 +1,6 @@
 [![Founding Contributor #6 @amritkang165](https://img.shields.io/static/v1?label=%E2%9A%A1%20FOUNDING%20CONTRIBUTOR&message=%236%20of%20100%20%E2%80%A2%20%40amritkang165&color=06b6d4&labelColor=07080f&style=for-the-badge)](https://discord.gg/qMu5Xn8Kaq)
+[![White Belt @amritkang165](https://img.shields.io/static/v1?label=FLISK%20WHITE%20BELT&message=8-7%20kyu%20%E2%80%A2%20%40amritkang165&color=e5e7eb&labelColor=07080f&style=for-the-badge)](https://discord.gg/qMu5Xn8Kaq)
+
 <div align="center">
   <picture>
     <source media="(prefers-reduced-motion: reduce)" srcset="assets/after-hours/amrit-hero-effects.jpg" />
