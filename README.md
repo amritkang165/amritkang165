@@ -13,7 +13,7 @@
 
 **[portfolio ↗](https://amritkang.vercel.app)** &nbsp; / &nbsp; **[linkedin ↗](https://www.linkedin.com/in/amritkang28/)** &nbsp; / &nbsp; **[say hello ↗](mailto:amritkang2805@icloud.com)**
 
-[the lab](#the-lab) · [open source](#open-source) · [selected builds](#selected-builds) · [track record](#track-record) · [off the clock](#off-the-clock)
+[open source](#open-source) · [the lab](#the-lab) · [selected builds](#selected-builds) · [track record](#track-record) · [off the clock](#off-the-clock)
 
 </div>
 
@@ -33,33 +33,9 @@ i'm **amrit**, a second-year computer science student at **BITS Pilani**, based 
 
 <img src="assets/after-hours/signal.svg" width="100%" alt="" />
 
-<a id="the-lab"></a>
-
-## 01 / the lab
-
-**one private build. a little signal before the reveal.**
-
-<!-- Public teasers only: no private repository links or unreleased source. -->
-<img src="assets/after-hours/jattchat.svg" width="100%" alt="JattChat — your thoughts, your phone. Native on-device AI. Private build, coming soon." />
-
-what if your AI conversation never needed to leave your iPhone? **JattChat** is my exploration of native, on-device chat: local responses, locally saved conversations, and no external AI API in the loop.
-
-<details>
-<summary><b>the interesting bit ↗</b></summary>
-
-<br>
-
-the model lives on the device, so the engineering starts with a different question: *is this phone actually ready to run it?* i'm working with Apple's Foundation Models, SwiftUI, and SwiftData to make availability checks, conversation state, and local persistence part of the experience.
-
-**private build · coming soon** — on compatible iPhones with the system model available.
-
-</details>
-
-<br>
-
 <a id="open-source"></a>
 
-## 02 / open source
+## 01 / open source
 
 **small fixes count. so does making someone else's tool easier to use.**
 
@@ -88,6 +64,30 @@ fixed delayed callbacks running after an instance was destroyed. pending buffer,
 made “what if?” results explorable: interactive flowcharts, branching simulations, and saved simulation history. contributed UI improvements and fixes across the frontend and debate backend.
 
 **[flowcharts + branching ↗](https://github.com/Muneer320/iffy-ai/commit/03c2909bb2b878792cd894aee1f07b66ed28e5f6)** · **[history + fixes ↗](https://github.com/Muneer320/iffy-ai/commit/dc9e93cb8da958b7140f45c33523343a1c7d251a)** · Next.js · TypeScript
+
+<br>
+
+<a id="the-lab"></a>
+
+## 02 / the lab
+
+**one private build. a little signal before the reveal.**
+
+<!-- Public teasers only: no private repository links or unreleased source. -->
+<img src="assets/after-hours/jattchat.svg" width="100%" alt="JattChat — your thoughts, your phone. Native on-device AI. Private build, coming soon." />
+
+what if your AI conversation never needed to leave your iPhone? **JattChat** is my exploration of native, on-device chat: local responses, locally saved conversations, and no external AI API in the loop.
+
+<details>
+<summary><b>the interesting bit ↗</b></summary>
+
+<br>
+
+the model lives on the device, so the engineering starts with a different question: *is this phone actually ready to run it?* i'm working with Apple's Foundation Models, SwiftUI, and SwiftData to make availability checks, conversation state, and local persistence part of the experience.
+
+**private build · coming soon** — on compatible iPhones with the system model available.
+
+</details>
 
 <br>
 
