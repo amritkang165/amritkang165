@@ -38,10 +38,17 @@ i like the parts that make software dependable: local data, clear failure messag
 
 **fix the problem. test the edge cases. follow through on review.**
 
+**16 merged PRs · 14 in external repositories** — as of 11 November 2026.
+[Browse merged contributions ↗](https://github.com/search?q=author%3Aamritkang165+is%3Apr+is%3Amerged&type=pullrequests)
+
+**Flisk: 5 kyu · Navigator · Green Belt.** [Latest completed issue ↗](https://github.com/flisk-sh/flisk/issues/77)
+
 Selected merged contributions:
 
 | Project | Contribution | Merged PR |
 | :--- | :--- | :--- |
+| **Flisk** | Added `flisk stack --move` and `--remove`, with config validation, accurate JSON reports, and regression tests. | [#3828 ↗](https://github.com/flisk-sh/flisk/pull/3828) |
+| **PMD** | Deprecated the Java `AddEmptyString` rule without a replacement. | [#7311 ↗](https://github.com/pmd/pmd/pull/7311) |
 | **Flisk** | Added a JSON Schema for `service.json`, with editor guidance, validation, and contract tests for generated manifests. | [#416 ↗](https://github.com/flisk-sh/flisk/pull/416) |
 | **Flisk** | Added `flisk open --print` for scripts and SSH sessions, with regression coverage for URL selection and failure cases. | [#3623 ↗](https://github.com/flisk-sh/flisk/pull/3623) |
 | **Neo.mjs** | Cancelled pending buffer, debounce, and throttle calls when an instance is destroyed; covered cleanup and wrapper reuse with regression tests. | [#20723 ↗](https://github.com/neomjs/neo/pull/20723) |
@@ -50,7 +57,7 @@ Selected merged contributions:
 also contributed interactive flowcharts, branching simulations, and saved history to **iffy.ai**: [flowcharts + branching ↗](https://github.com/Muneer320/iffy-ai/commit/03c2909bb2b878792cd894aee1f07b66ed28e5f6) · [history + fixes ↗](https://github.com/Muneer320/iffy-ai/commit/dc9e93cb8da958b7140f45c33523343a1c7d251a).
 
 [![Founding Contributor #6 @amritkang165](https://img.shields.io/static/v1?label=%E2%9A%A1%20FOUNDING%20CONTRIBUTOR&message=%236%20of%20100%20%E2%80%A2%20%40amritkang165&color=06b6d4&labelColor=07080f&style=for-the-badge)](https://discord.gg/qMu5Xn8Kaq)
-[![White Belt @amritkang165](https://img.shields.io/static/v1?label=FLISK%20WHITE%20BELT&message=8-7%20kyu%20%E2%80%A2%20%40amritkang165&color=e5e7eb&labelColor=07080f&style=for-the-badge)](https://discord.gg/qMu5Xn8Kaq)
+[![Green Belt @amritkang165](https://img.shields.io/static/v1?label=FLISK%20GREEN%20BELT&message=6-5%20kyu%20%E2%80%A2%20%40amritkang165&color=22c55e&labelColor=07080f&style=for-the-badge)](https://github.com/flisk-sh/flisk/blob/main/docs/journey/README.md)
 
 <br>
 
